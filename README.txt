@@ -16,7 +16,12 @@ on the add-on server. Here's a description of my changes so far:
   made sense to have them. I also made Rugh's death cause defeat, which may
   seem like it makes it harder, but actually it makes it easier by saving you
   the time of just waiting around after he dies for the rest of you to die as
-  well, because that's basically what happens when he dies anyways.
+  well, because that's basically what happens when he dies anyways. To make up
+  for his death now causing defeat, I upgraded him into a Nightblade on Easy.
+  I also added some traits to the shamans. While putting "Aged" on the Old one
+  might make things harder, it just made more sense flavor-wise. And the traits
+  I put on the other two were positive. I also gave the defenders of Barag Gor
+  2 more archers on Easy.
 05 To the Harbor of Tirigaz: apologize for Holy Water being a red herring
 06 Black Flag: Here the enemies kept overtaking me before I really had a chance
   to set up, so I removed their starting villages so they'd waste more time
