@@ -32,16 +32,15 @@ on the add-on server. Here's a description of my changes so far:
 07 The Desert of Death: It took too long waiting for everyone to get a chance
   to recover from their scorpion poisonings, so I added more villages to the
   map.
-08 Silent Forest: basic gold/turns tweaks
+08 Silent Forest: basic gold/turns tweaks; use LIMIT_CONTEMPORANEOUS_RECRUITS
+  more; get gold on interrogation
 09 Shan Taum the Smug: just gold tweaks; make Shan Taum's side persistent
 10 Saving Inarix: I made it much easier to save Inarix here. I turned Thelarion
   from an Elvish Champion into an Elvish Hero here, and since he keeps coming
   back, I made his side persistent (as well as Darstang's). I upgraded Plonk
   from a Slayer to a Nightblade to help you break thru the bottleneck on the
-  bridge more easily. I gave Inarix more guards escorting him on easy, which
-  might have caused an extra village to get captured that didn't used to be
-  captured previously, so I'll want to tweak the x/y coordinates of their spawn
-  location if I'm going to put my edits on the add-on server. 
+  bridge more easily. I gave Inarix more guards escorting him on easy, and
+  adjusted their coordinates.
 11 Clash of Armies: I reduced the number of gryphons the dwarves recruit here
   so you don't have to split your attention as much and can focus more easily.
   I also reduced the HP boosts for the transport ships so they can be destroyed
