@@ -37,16 +37,18 @@ on the add-on server. Here's a description of my changes so far:
 09 Shan Taum the Smug: just gold tweaks; make Shan Taum's side persistent
 10 Saving Inarix: I made it much easier to save Inarix here. I turned Thelarion
   from an Elvish Champion into an Elvish Hero here, and since he keeps coming
-  back, I made his side persistent (as well as Darstang's). I upgraded Plonk
-  from a Slayer to a Nightblade to help you break thru the bottleneck on the
-  bridge more easily. I gave Inarix more guards escorting him on easy, and
-  adjusted their coordinates.
+  back in later missions, I made (or at least tried to make) his side
+  persistent (as well as Darstang's). I upgraded Plonk from a Slayer to a
+  Nightblade to help you break thru the bottleneck on the bridge more easily.
+  I gave Inarix more guards escorting him on easy, and adjusted their
+  coordinates.
 11 Clash of Armies: I reduced the number of gryphons the dwarves recruit here
   so you don't have to split your attention as much and can focus more easily.
   I also reduced the HP boosts for the transport ships so they can be destroyed
   more easily.
-12 Giving Some Back: basic gold/turns tweaks
-13 The Dwarvish Stand: just gold tweaks
+12 Giving Some Back: basic gold/turns tweaks; also gave orcs starting villages
+13 The Dwarvish Stand: Started off as just gold tweaks, also decided to give
+  the player a yeti here as it's the first of a series of winter levels.
 14 Back Home: I used the LIMIT_CONTEMPORANEOUS_RECRUITS and ON_DIFFICULTY
   macros here a lot.
 15 Civil War: mostly just some basic turns/gold tweaks. I might go back and
