@@ -34,7 +34,8 @@ on the add-on server. Here's a description of my changes so far:
   map.
 08 Silent Forest: basic gold/turns tweaks; use LIMIT_CONTEMPORANEOUS_RECRUITS
   more; get gold on interrogation
-09 Shan Taum the Smug: just gold tweaks; make Shan Taum's side persistent
+09 Shan Taum the Smug: just gold tweaks; I also tried to make Shan Taum's side
+  persistent
 10 Saving Inarix: I made it much easier to save Inarix here. I turned Thelarion
   from an Elvish Champion into an Elvish Hero here, and since he keeps coming
   back in later missions, I made (or at least tried to make) his side
@@ -50,11 +51,15 @@ on the add-on server. Here's a description of my changes so far:
 13 The Dwarvish Stand: Started off as just gold tweaks, also decided to give
   the player a yeti here as it's the first of a series of winter levels.
 14 Back Home: I used the LIMIT_CONTEMPORANEOUS_RECRUITS and ON_DIFFICULTY
-  macros here a lot.
-15 Civil War: mostly just some basic turns/gold tweaks. I might go back and
-  add back the commented-out assassination code later, but I'll need to find
-  a way to give the player a way to sneak around the front lines to actually
-  pull off assassinations while the enemy still has other units alive...
+  macros here a lot. This is about where I started to realize that making
+  Thelarion's side persistent didn't actually work. I might go back and try
+  the `persistent=yes` method later (instead of the `save_id=` method currently
+  in use), but I'm too lazy to do yet ANOTHER playthru just to test...
+15 Civil War: mostly just some basic turns/gold tweaks. I have also tried to
+  add back the commented-out assassination code; to try to make it actually
+  work I felt that I'd need a way to give the player a way to sneak around
+  the front lines to actually pull off assassinations while the enemy still
+  has other units alive, which is why I gave the player some additional units.
 16 The Coward: I edited the map here to give the player more keep tiles for
   recruiting, so they can catch up to the stream on enemies flooding them on
   time. Also some gold levels tweaks. In retrospect after the enemy's initial
