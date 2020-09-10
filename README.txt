@@ -60,11 +60,14 @@ on the add-on server. Here's a description of my changes so far:
   work I felt that I'd need a way to give the player a way to sneak around
   the front lines to actually pull off assassinations while the enemy still
   has other units alive, which is why I gave the player some additional units.
+  It's still kind of hard to make sure the enemies still have enough units left
+  for one to take over as a leader though; any suggestions as to how to improve
+  this while still keeping it are welcome.
 16 The Coward: I edited the map here to give the player more keep tiles for
   recruiting, so they can catch up to the stream on enemies flooding them on
-  time. Also some gold levels tweaks. In retrospect after the enemy's initial
-  assault wears off they're not left with much, so I might want to give them
-  an income to make up for the reduction in gold I docked them with.
+  time. Also some gold levels tweaks. After the enemy's initial assault wears
+  off they're not left with much, so I added an event when Orga is attacked to
+  give him some gold back to make up for what I took away.
 17 The Human Attack: just gold tweaks.
 18 Northern Alliance: again, mostly just gold tweaks. I also tried to make
   Shan Taum more defensive so he'd defend more against Howgarth rather than
