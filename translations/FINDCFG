@@ -1,2 +1,2 @@
-find data/campaigns/Son_Of_The_Black_Eye -name '*.cfg' -print
-find data/campaigns/Son_Of_The_Black_Eye -name '*.lua' -print
+find data/add-ons/Son_Of_The_Black_Eye_Easy_Edition -name '*.cfg' -print
+find data/add-ons/Son_Of_The_Black_Eye_Easy_Edition -name '*.lua' -print
