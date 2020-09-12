@@ -2,7 +2,7 @@ I know this is supposed to be an expert-level campaign, but I still wanted to
 beat it anyways, so I had to edit it a lot. I edited it so much that I'm
 making this repository so that I can publish my changes as a separate campaign
 on the add-on server. My edits were only targeted at making the main 
-objectives easier; I'm considering rebalancing so that the optional objectives
+objectives easier; I've also tried rebalancing so that the optional objectives
 (i.e. killing the enemy leader in a scenario where you're just supposed to
 survive) are harder. Here's a description of my changes so far:
 
@@ -71,7 +71,9 @@ survive) are harder. Here's a description of my changes so far:
   time. Also some gold levels tweaks. After the enemy's initial assault wears
   off they're not left with much, so I added an event when Orga is attacked to
   give him some gold back to make up for what I took away.
-17 The Human Attack: just gold tweaks.
+17 The Human Attack: started off as just gold tweaks; also added an event
+  giving Lanbec'h guards when he's attacked to keep the focus on just
+  surviving, rather than trying to kill him.
 18 Northern Alliance: again, mostly just gold tweaks. I also tried to make
   Shan Taum more defensive so he'd defend more against Howgarth rather than
   killing your green side of orcish allies, but that didn't really work. I
