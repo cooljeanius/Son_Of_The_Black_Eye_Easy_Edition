@@ -57,7 +57,7 @@ survive) are harder. Here's a description of my changes so far:
   macros here a lot. This is about where I started to realize that making
   Thelarion's side persistent didn't actually work. I might go back and try
   the `persistent=yes` method later (instead of the `save_id=` method currently
-  in use), but I'm too lazy to do yet ANOTHER playthru just to test...
+  in use), but knyghtmare says that that method results in multiple Lanbec'hs...
 15 Civil War: mostly just some basic turns/gold tweaks. I have also tried to
   add back the commented-out assassination code; to try to make it actually
   work I felt that I'd need a way to give the player a way to sneak around
