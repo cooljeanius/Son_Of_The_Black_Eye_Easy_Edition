@@ -8,7 +8,8 @@ survive) are harder. Here's a description of my changes so far:
 
 01 End of Peace: Just some basic gold tweaks. Probably too easy now, but it's
   the first scenario, so it ought to be easy IMO.
-02 The Human Army: Just gold tweaks
+02 The Human Army: Just gold tweaks; add some easter eggs for people using
+  debug mode to attack Lanbec'h
 03 Toward Mountains of Haag: Just basic gold/turns tweaks again
 04 The Siege of Barag Gor: OK now here's where things really start to change.
   The defenders of Barag Gor kept dying before I could save them, so I had to
@@ -38,14 +39,17 @@ survive) are harder. Here's a description of my changes so far:
 08 Silent Forest: basic gold/turns tweaks; use LIMIT_CONTEMPORANEOUS_RECRUITS
   more; get gold on interrogation
 09 Shan Taum the Smug: just gold tweaks; I also tried to make Shan Taum's side
-  persistent
+  persistent but then later decided against it. Gave Shan Taum some guards if
+  he is attacked (since I'm only trying to make the main objectives easier
+  here, not the bonus objectives)
 10 Saving Inarix: I made it much easier to save Inarix here. I turned Thelarion
   from an Elvish Champion into an Elvish Hero here, and since he keeps coming
   back in later missions, I made (or at least tried to make) his side
   persistent (as well as Darstang's). I upgraded Plonk from a Slayer to a
   Nightblade to help you break thru the bottleneck on the bridge more easily.
   I gave Inarix more guards escorting him on easy, and adjusted their
-  coordinates.
+  coordinates. I also gave Darstang and Thelarion events for when they're
+  attacked.
 11 Clash of Armies: I reduced the number of gryphons the dwarves recruit here
   so you don't have to split your attention as much and can focus more easily.
   I also reduced the HP boosts for the transport ships so they can be destroyed
@@ -57,7 +61,8 @@ survive) are harder. Here's a description of my changes so far:
   macros here a lot. This is about where I started to realize that making
   Thelarion's side persistent didn't actually work. I might go back and try
   the `persistent=yes` method later (instead of the `save_id=` method currently
-  in use), but knyghtmare says that that method results in multiple Lanbec'hs...
+  in use), but knyghtmare says that that method results in multiple
+  Lanbec'hs...
 15 Civil War: mostly just some basic turns/gold tweaks. I have also tried to
   add back the commented-out assassination code; to try to make it actually
   work I felt that I'd need a way to give the player a way to sneak around
