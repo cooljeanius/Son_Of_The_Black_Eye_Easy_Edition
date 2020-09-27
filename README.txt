@@ -10,7 +10,9 @@ survive) are harder. Here's a description of my changes so far:
   the first scenario, so it ought to be easy IMO.
 02 The Human Army: Just gold tweaks; add some easter eggs for people using
   debug mode to attack Lanbec'h
-03 Toward Mountains of Haag: Just basic gold/turns tweaks again
+03 Toward Mountains of Haag: Started off as just basic gold/turns tweaks, on
+  another playthru I decided to add some looting events for capturing dwarven
+  villages, too
 04 The Siege of Barag Gor: OK now here's where things really start to change.
   The defenders of Barag Gor kept dying before I could save them, so I had to
   make them stronger. The shamans wouldn't hit anything whenever they attacked,
