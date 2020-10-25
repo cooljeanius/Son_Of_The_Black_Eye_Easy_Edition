@@ -39,7 +39,7 @@ survive) are harder. Here's a description of my changes so far:
   to recover from their scorpion poisonings, so I added more villages to the
   map.
 08 Silent Forest: basic gold/turns tweaks; use LIMIT_CONTEMPORANEOUS_RECRUITS
-  more; get gold on interrogation
+  more; get gold on interrogation; add another village
 09 Shan Taum the Smug: just gold tweaks; I also tried to make Shan Taum's side
   persistent but then later decided against it. Gave Shan Taum some guards if
   he is attacked (since I'm only trying to make the main objectives easier
@@ -65,14 +65,17 @@ survive) are harder. Here's a description of my changes so far:
   the `persistent=yes` method later (instead of the `save_id=` method currently
   in use), but knyghtmare says that that method results in multiple
   Lanbec'hs...
-15 Civil War: mostly just some basic turns/gold tweaks. I have also tried to
-  add back the commented-out assassination code; to try to make it actually
-  work I felt that I'd need a way to give the player a way to sneak around
-  the front lines to actually pull off assassinations while the enemy still
-  has other units alive, which is why I gave the player some additional units.
-  It's still kind of hard to make sure the enemies still have enough units left
-  for one to take over as a leader though; any suggestions as to how to improve
-  this while still keeping it are welcome.
+15 Civil War: started off as mostly just some basic turns/gold tweaks. I have
+  also tried to add back the commented-out assassination code. To try to make
+  said code actually work, I felt that I'd need a way to give the player a
+  way to sneak around the front lines to actually pull off assassinations
+  while the enemy still has other units alive, which is why I gave the player
+  (the option of) some additional units, assuming they have either Plonk or
+  Jetto still around. It's still kind of hard to make sure the enemies still
+  have enough units left for one to take over as a leader though; any
+  suggestions as to how to improve this while still keeping it are welcome.
+  Maybe after 1.15 becomes 1.16 I can make those new ice beasts recruitable
+  here...
 16 The Coward: I edited the map here to give the player more keep tiles for
   recruiting, so they can catch up to the stream on enemies flooding them on
   time. Also some gold levels tweaks. After the enemy's initial assault wears
