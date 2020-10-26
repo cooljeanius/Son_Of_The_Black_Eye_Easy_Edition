@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2020-09-11 22:39 UTC\n"
+"POT-Creation-Date: 2020-10-26 02:29 UTC\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -64,11 +64,11 @@ msgstr ""
 #: Son_Of_The_Black_Eye_Easy_Edition/scenarios/14_Back_Home.cfg:60
 #: Son_Of_The_Black_Eye_Easy_Edition/scenarios/14_Back_Home.cfg:89
 #: Son_Of_The_Black_Eye_Easy_Edition/scenarios/15_Civil_War.cfg:77
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/15_Civil_War.cfg:583
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/15_Civil_War.cfg:740
 #: Son_Of_The_Black_Eye_Easy_Edition/scenarios/01_End_of_Peace.cfg:56
 #: Son_Of_The_Black_Eye_Easy_Edition/scenarios/01_End_of_Peace.cfg:64
 #: Son_Of_The_Black_Eye_Easy_Edition/scenarios/11_Clash_of_Armies.cfg:51
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/08_Silent_Forest.cfg:61
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/08_Silent_Forest.cfg:73
 #: Son_Of_The_Black_Eye_Easy_Edition/scenarios/05_To_the_Harbor_of_Tirigaz.cfg:73
 #: Son_Of_The_Black_Eye_Easy_Edition/scenarios/19_Epilogue.cfg:19
 #: Son_Of_The_Black_Eye_Easy_Edition/scenarios/10_Saving_Inarix.cfg:76
@@ -78,9 +78,9 @@ msgstr ""
 #: Son_Of_The_Black_Eye_Easy_Edition/scenarios/17_The_Human_Attack.cfg:63
 #: Son_Of_The_Black_Eye_Easy_Edition/scenarios/07_The_Desert_of_Death.cfg:72
 #: Son_Of_The_Black_Eye_Easy_Edition/scenarios/18_Northern_Alliance.cfg:55
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/18_Northern_Alliance.cfg:213
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/18_Northern_Alliance.cfg:218
 #: Son_Of_The_Black_Eye_Easy_Edition/scenarios/03_Toward_Mountains_of_Haag.cfg:81
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/03_Toward_Mountains_of_Haag.cfg:128
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/03_Toward_Mountains_of_Haag.cfg:132
 #: Son_Of_The_Black_Eye_Easy_Edition/scenarios/02_The_Human_Army.cfg:77
 #: Son_Of_The_Black_Eye_Easy_Edition/scenarios/13_The_Dwarvish_Stand.cfg:58
 #: Son_Of_The_Black_Eye_Easy_Edition/scenarios/04_The_Siege_of_Barag_Gor.cfg:61
@@ -198,146 +198,151 @@ msgstr ""
 
 #. [side]: type=Orcish Warlord, id=Shan Taum
 #. [unit]: type=Orcish Warlord, id=Shan Taum
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/09_Shan_Taum_the_Smug.cfg:63
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/09_Shan_Taum_the_Smug.cfg:65
 #: Son_Of_The_Black_Eye_Easy_Edition/scenarios/16_The_Coward.cfg:146
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/18_Northern_Alliance.cfg:157
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/18_Northern_Alliance.cfg:162
 msgid "Shan Taum"
 msgstr ""
 
 #. [part]
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/09_Shan_Taum_the_Smug.cfg:79
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/09_Shan_Taum_the_Smug.cfg:81
 msgid "After clearing out the elves from the Silent Forest, Kapou’e and his party set out on the last leg of their journey. Within a few days they finally reached the city of Lmarig in the Mourned Hills, which was then ruled by Shan Taum the Smug."
 msgstr ""
 
 #. [message]: speaker=Kapou'e
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/09_Shan_Taum_the_Smug.cfg:108
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/09_Shan_Taum_the_Smug.cfg:110
 msgid "At last, here are the Mourned Hills! We can only hope for the best."
 msgstr ""
 
 #. [message]: speaker=Grüü
 #. [message]: role=cannonfodder
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/09_Shan_Taum_the_Smug.cfg:113
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/11_Clash_of_Armies.cfg:307
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/09_Shan_Taum_the_Smug.cfg:115
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/11_Clash_of_Armies.cfg:313
 msgid "Why?"
 msgstr ""
 
 #. [message]: speaker=Gork
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/09_Shan_Taum_the_Smug.cfg:118
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/09_Shan_Taum_the_Smug.cfg:120
 msgid "You are a troll, so you don’t know. These lands are ruled by Shan Taum the Smug, who was a rival of Black-Eye Karun."
 msgstr ""
 
 #. [message]: speaker=Pirk
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/09_Shan_Taum_the_Smug.cfg:123
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/09_Shan_Taum_the_Smug.cfg:125
 msgid "I doubt he would welcome the son of the Black-Eye."
 msgstr ""
 
 #. [message]: speaker=Shan Taum
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/09_Shan_Taum_the_Smug.cfg:127
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/09_Shan_Taum_the_Smug.cfg:129
 msgid "Who is that? Kapou’e! What are you doing in my lands, you weakling runt?"
 msgstr ""
 
 #. [message]: speaker=Kapou'e
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/09_Shan_Taum_the_Smug.cfg:132
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/09_Shan_Taum_the_Smug.cfg:134
 msgid "Hold on, Shan Taum. We seek the Great Council, not a quarrel with you."
 msgstr ""
 
 #. [message]: speaker=Shan Taum
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/09_Shan_Taum_the_Smug.cfg:137
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/09_Shan_Taum_the_Smug.cfg:139
 msgid "Bwahaha! You are nothing! Where is your land? You became a beggar. You are as pathetic as your father!"
 msgstr ""
 
 #. [message]: speaker=Kapou'e
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/09_Shan_Taum_the_Smug.cfg:142
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/09_Shan_Taum_the_Smug.cfg:144
 msgid "How can you talk that way about my father, you miserable coward?! I’ll make a mug from your skull!"
 msgstr ""
 
 #. [message]: speaker=Shan Taum
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/09_Shan_Taum_the_Smug.cfg:146
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/09_Shan_Taum_the_Smug.cfg:148
 msgid "Really? What would you drink with it? Mint cordial?"
 msgstr ""
 
 #. [message]: speaker=narrator
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/09_Shan_Taum_the_Smug.cfg:151
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/09_Shan_Taum_the_Smug.cfg:153
 msgid "Exasperated, Kapou’e launched an attack on his fellow orc Shan Taum the Smug."
 msgstr ""
 
 #. [event]
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/09_Shan_Taum_the_Smug.cfg:158
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/09_Shan_Taum_the_Smug.cfg:160
 msgid "Fabstep"
 msgstr ""
 
 #. [event]
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/09_Shan_Taum_the_Smug.cfg:159
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/09_Shan_Taum_the_Smug.cfg:161
 msgid "Klebar"
 msgstr ""
 
 #. [event]
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/09_Shan_Taum_the_Smug.cfg:160
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/09_Shan_Taum_the_Smug.cfg:162
 msgid "Echarp"
 msgstr ""
 
 #. [message]: speaker=Echarp
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/09_Shan_Taum_the_Smug.cfg:163
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/09_Shan_Taum_the_Smug.cfg:165
 msgid "What is this? Are you mad?! Humans are to besiege our fortress at Prestim and you are fighting each other?!"
 msgstr ""
 
 #. [message]: speaker=Kapou'e
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/09_Shan_Taum_the_Smug.cfg:168
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/09_Shan_Taum_the_Smug.cfg:170
 msgid "Well, ermmm..."
 msgstr ""
 
 #. [message]: speaker=Echarp
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/09_Shan_Taum_the_Smug.cfg:172
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/09_Shan_Taum_the_Smug.cfg:174
 msgid "Kapou’e, rumors tell of you making a long trip to seek assistance from us, and escorting Pirk, Gork and Vraurk. The council is grateful for that."
 msgstr ""
 
 #. [message]: speaker=Fabstep
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/09_Shan_Taum_the_Smug.cfg:176
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/09_Shan_Taum_the_Smug.cfg:178
 msgid "I know what you want from us but I’m afraid we can’t help you."
 msgstr ""
 
 #. [message]: speaker=Kapou'e
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/09_Shan_Taum_the_Smug.cfg:180
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/09_Shan_Taum_the_Smug.cfg:182
 msgid "But my people..."
 msgstr ""
 
 #. [message]: speaker=Echarp
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/09_Shan_Taum_the_Smug.cfg:184
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/09_Shan_Taum_the_Smug.cfg:186
 msgid "You don’t understand. Orcs have been divided for ages. The only one who gave us some unity was your father, Black-Eye Karun. Hearing rumors of your exploits, we understood you are a worthy son of your father."
 msgstr ""
 
 #. [message]: speaker=Vraurk
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/09_Shan_Taum_the_Smug.cfg:188
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/09_Shan_Taum_the_Smug.cfg:190
 msgid "This is true. Now we are pressed from all sides by humans and elves; we need a leader that can unite all banners. This one is <i>you</i>!"
 msgstr ""
 
 #. [message]: speaker=Kapou'e
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/09_Shan_Taum_the_Smug.cfg:192
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/09_Shan_Taum_the_Smug.cfg:194
 msgid "Thank you."
 msgstr ""
 
 #. [message]: speaker=Grüü
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/09_Shan_Taum_the_Smug.cfg:196
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/09_Shan_Taum_the_Smug.cfg:198
 msgid "Did you hear? There is a battle waiting for us at Prestim!"
 msgstr ""
 
 #. [message]: speaker=Echarp
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/09_Shan_Taum_the_Smug.cfg:200
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/09_Shan_Taum_the_Smug.cfg:202
 msgid "Kapou’e, if Prestim falls, humans will have a strong bridgehead on this side of the river and your people won’t be safe. You are the only one that can help us defend Prestim!"
 msgstr ""
 
 #. [message]: speaker=Pirk
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/09_Shan_Taum_the_Smug.cfg:204
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/09_Shan_Taum_the_Smug.cfg:206
 msgid "Leave your people here Kapou’e — they are safe for the moment — and go defend Prestim. In the meantime, now that the council is complete again, we will decide. We may have to form the Great Horde again, and give you the leadership of it."
 msgstr ""
 
 #. [message]: speaker=Shan Taum
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/09_Shan_Taum_the_Smug.cfg:249
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/09_Shan_Taum_the_Smug.cfg:251
 msgid "You dare attack me? Pffft, how laughable!"
 msgstr ""
 
+#. [message]
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/09_Shan_Taum_the_Smug.cfg:292
+msgid "Reportin' for guard duty, master."
+msgstr ""
+
 #. [message]: speaker=Shan Taum
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/09_Shan_Taum_the_Smug.cfg:273
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/09_Shan_Taum_the_Smug.cfg:305
 msgid "Nooo! Don’t kill me, I surrender to you little earthworm."
 msgstr ""
 
@@ -394,22 +399,22 @@ msgstr ""
 #: Son_Of_The_Black_Eye_Easy_Edition/scenarios/12_Giving_Some_Back.cfg:95
 #: Son_Of_The_Black_Eye_Easy_Edition/scenarios/12_Giving_Some_Back.cfg:116
 #: Son_Of_The_Black_Eye_Easy_Edition/scenarios/14_Back_Home.cfg:126
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/14_Back_Home.cfg:151
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/14_Back_Home.cfg:175
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/14_Back_Home.cfg:197
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/11_Clash_of_Armies.cfg:86
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/11_Clash_of_Armies.cfg:144
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/11_Clash_of_Armies.cfg:172
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/11_Clash_of_Armies.cfg:190
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/10_Saving_Inarix.cfg:114
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/10_Saving_Inarix.cfg:143
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/14_Back_Home.cfg:153
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/14_Back_Home.cfg:177
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/14_Back_Home.cfg:199
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/11_Clash_of_Armies.cfg:88
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/11_Clash_of_Armies.cfg:148
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/11_Clash_of_Armies.cfg:176
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/11_Clash_of_Armies.cfg:194
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/10_Saving_Inarix.cfg:116
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/10_Saving_Inarix.cfg:147
 #: Son_Of_The_Black_Eye_Easy_Edition/scenarios/17_The_Human_Attack.cfg:98
 #: Son_Of_The_Black_Eye_Easy_Edition/scenarios/07_The_Desert_of_Death.cfg:92
 #: Son_Of_The_Black_Eye_Easy_Edition/scenarios/07_The_Desert_of_Death.cfg:102
 #: Son_Of_The_Black_Eye_Easy_Edition/scenarios/18_Northern_Alliance.cfg:116
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/18_Northern_Alliance.cfg:164
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/13_The_Dwarvish_Stand.cfg:91
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/13_The_Dwarvish_Stand.cfg:104
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/18_Northern_Alliance.cfg:169
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/13_The_Dwarvish_Stand.cfg:93
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/13_The_Dwarvish_Stand.cfg:106
 msgid "Villains"
 msgstr ""
 
@@ -486,277 +491,277 @@ msgstr ""
 #. [side]: type=Elvish Champion, id=Thelarion
 #. [side]: type=Elvish Hero, type=Elvish Champion, id=Thelarion
 #. [unit]: type=Elvish Champion, id=Thelarion
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/14_Back_Home.cfg:145
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/11_Clash_of_Armies.cfg:74
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/10_Saving_Inarix.cfg:96
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/13_The_Dwarvish_Stand.cfg:197
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/14_Back_Home.cfg:147
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/11_Clash_of_Armies.cfg:76
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/10_Saving_Inarix.cfg:98
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/13_The_Dwarvish_Stand.cfg:199
 msgid "Thelarion"
 msgstr ""
 
 #. [side]: type=General, id=Fredor
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/14_Back_Home.cfg:169
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/14_Back_Home.cfg:171
 msgid "Fredor"
 msgstr ""
 
 #. [side]: type=General, id=Georan
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/14_Back_Home.cfg:191
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/14_Back_Home.cfg:193
 msgid "Georan"
 msgstr ""
 
 #. [part]
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/14_Back_Home.cfg:212
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/14_Back_Home.cfg:214
 msgid "Having broken the dwarvish blockade, the horde continued on through the mountain pass. Kapou’e began to recognize the lands about them and sure enough, they soon found themselves back in the tribe’s homeland."
 msgstr ""
 
 #. [event]
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/14_Back_Home.cfg:223
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/14_Back_Home.cfg:225
 msgid "Valan"
 msgstr ""
 
 #. [message]: speaker=Kapou'e
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/14_Back_Home.cfg:296
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/14_Back_Home.cfg:298
 msgid "Well, boys, we’re home. I told you we would return one day."
 msgstr ""
 
 #. [message]: role=army
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/14_Back_Home.cfg:303
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/14_Back_Home.cfg:305
 msgid "Boy, have they ever built this place up."
 msgstr ""
 
 #. [message]: speaker=Kapou'e
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/14_Back_Home.cfg:309
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/14_Back_Home.cfg:311
 msgid "Listen up, orcs. Our main objective is to rescue the shamans. It won’t work to take the human runts head-on while they sneak the shamans out the back door."
 msgstr ""
 
 #. [message]: speaker=Flar'Tar
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/14_Back_Home.cfg:315
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/14_Back_Home.cfg:317
 msgid "What are you thinking, Chief?"
 msgstr ""
 
 #. [message]: speaker=Kapou'e
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/14_Back_Home.cfg:321
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/14_Back_Home.cfg:323
 msgid "My men know the land well. Flar’Tar and Al’Brock, both of you take a scout and circle around to the Northeast and Southeast respectively. Grüü, you take your trolls and circle around to the Northwest. If all goes well we shall surround them."
 msgstr ""
 
 #. [message]: speaker=Grüü
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/14_Back_Home.cfg:327
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/14_Back_Home.cfg:329
 msgid "I like this plan, Chief!"
 msgstr ""
 
 #. [message]: role=army
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/14_Back_Home.cfg:333
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/14_Back_Home.cfg:335
 msgid "You always like his plans, Grüü."
 msgstr ""
 
 #. [message]: speaker=Grüü
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/14_Back_Home.cfg:339
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/14_Back_Home.cfg:341
 msgid "Of course. Squash elves, squash undead, squash dwarves, squash humans. Squash them all, very good plan!"
 msgstr ""
 
 #. [message]: role=army
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/14_Back_Home.cfg:345
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/14_Back_Home.cfg:347
 msgid "Well, he has the right idea, anyway."
 msgstr ""
 
 #. [message]: speaker=Kapou'e
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/14_Back_Home.cfg:352
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/14_Back_Home.cfg:354
 msgid "Good, everyone move out. I will begin the attack from here. I want everyone to be in position by first watch at the latest. Is that clear?"
 msgstr ""
 
 #. [message]: speaker=Flar'Tar
 #. [message]: speaker=second_unit
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/14_Back_Home.cfg:358
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/14_Back_Home.cfg:732
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/14_Back_Home.cfg:360
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/14_Back_Home.cfg:734
 msgid "Yes, Chief."
 msgstr ""
 
 #. [message]: speaker=Al'Brock
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/14_Back_Home.cfg:364
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/14_Back_Home.cfg:366
 msgid "Understood."
 msgstr ""
 
 #. [message]: speaker=Grüü
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/14_Back_Home.cfg:386
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/14_Back_Home.cfg:388
 msgid "Uh, Chief..."
 msgstr ""
 
 #. [message]: speaker=Kapou'e
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/14_Back_Home.cfg:392
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/14_Back_Home.cfg:394
 msgid "... Yes, Grüü?"
 msgstr ""
 
 #. [message]: speaker=Grüü
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/14_Back_Home.cfg:398
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/14_Back_Home.cfg:400
 msgid "Can I get some gold with me?"
 msgstr ""
 
 #. [message]: speaker=Kapou'e
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/14_Back_Home.cfg:404
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/14_Back_Home.cfg:406
 msgid "Fine, take a hundred. Don’t lose it."
 msgstr ""
 
 #. [message]: speaker=Al'Brock
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/14_Back_Home.cfg:472
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/14_Back_Home.cfg:474
 msgid "I am in position, Chief."
 msgstr ""
 
 #. [message]: speaker=Kapou'e
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/14_Back_Home.cfg:478
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/14_Back_Home.cfg:480
 msgid "Excellent. Now, where are the others?"
 msgstr ""
 
 #. [message]: speaker=Flar'Tar
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/14_Back_Home.cfg:522
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/14_Back_Home.cfg:524
 msgid "We made it."
 msgstr ""
 
 #. [message]: speaker=Kapou'e
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/14_Back_Home.cfg:528
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/14_Back_Home.cfg:530
 msgid "Good, but where is Grüü?"
 msgstr ""
 
 #. [message]: speaker=Flar'Tar
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/14_Back_Home.cfg:533
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/14_Back_Home.cfg:535
 msgid "Dumb trolls, you can never rely on them."
 msgstr ""
 
 #. [message]: speaker=Grüü
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/14_Back_Home.cfg:595
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/14_Back_Home.cfg:597
 msgid "I’m here, Chief!"
 msgstr ""
 
 #. [message]: speaker=Kapou'e
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/14_Back_Home.cfg:601
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/14_Back_Home.cfg:603
 msgid "Blood and stone, Grüü! You were supposed to be in position by first watch. It’s dawn!"
 msgstr ""
 
 #. [message]: speaker=Grüü
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/14_Back_Home.cfg:607
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/14_Back_Home.cfg:609
 msgid "Err, sorry, there were some humans in way. We squash, no problem."
 msgstr ""
 
 #. [message]: speaker=Kapou'e
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/14_Back_Home.cfg:613
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/14_Back_Home.cfg:615
 msgid "Better late than never. Now it’s time to kill! Let nobody escape and everyone keep an eye out for the shamans."
 msgstr ""
 
 #. [message]: speaker=Flar'Tar
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/14_Back_Home.cfg:618
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/14_Back_Home.cfg:620
 msgid "Sounds simple enough."
 msgstr ""
 
 #. [message]: speaker=second_unit
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/14_Back_Home.cfg:643
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/14_Back_Home.cfg:645
 msgid "Miserable elf, we want some answers!"
 msgstr ""
 
 #. [message]: speaker=Thelarion
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/14_Back_Home.cfg:648
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/14_Back_Home.cfg:650
 msgid "Ugh!"
 msgstr ""
 
 #. [message]: speaker=second_unit
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/14_Back_Home.cfg:653
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/14_Back_Home.cfg:655
 msgid "SPEAK!"
 msgstr ""
 
 #. [message]: speaker=Thelarion
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/14_Back_Home.cfg:658
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/14_Back_Home.cfg:660
 msgid "... Well, what do you want to know?"
 msgstr ""
 
 #. [message]: speaker=second_unit
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/14_Back_Home.cfg:663
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/14_Back_Home.cfg:665
 msgid "You can start by telling us who told you to strike at Borstep."
 msgstr ""
 
 #. [message]: speaker=Thelarion
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/14_Back_Home.cfg:668
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/14_Back_Home.cfg:670
 msgid "Uh... we have intelligence."
 msgstr ""
 
 #. [message]: speaker=second_unit
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/14_Back_Home.cfg:673
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/14_Back_Home.cfg:675
 msgid "Don’t make me hurt you more."
 msgstr ""
 
 #. [message]: speaker=Thelarion
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/14_Back_Home.cfg:678
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/14_Back_Home.cfg:680
 msgid "I yield. Shan Taum the Smug told us that that’s where the shamans were, and that it was a rally point and weapons depot for you orcs."
 msgstr ""
 
 #. [message]: speaker=second_unit
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/14_Back_Home.cfg:683
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/14_Back_Home.cfg:685
 msgid "Bah, do not think you can break the unity of the horde with your stupid lies!"
 msgstr ""
 
 #. [message]: speaker=Thelarion
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/14_Back_Home.cfg:688
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/14_Back_Home.cfg:690
 msgid "No really, it’s true. He is jealous of some young upstart called Kapou’e. He says all the shamans ‘suck up’ to him just because his father had a black eye or something like that."
 msgstr ""
 
 #. [message]: speaker=second_unit
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/14_Back_Home.cfg:693
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/14_Back_Home.cfg:695
 msgid "Refer to Black-Eye Karun with respect, wose-born. Now, where are the shamans?"
 msgstr ""
 
 #. [message]: speaker=Thelarion
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/14_Back_Home.cfg:698
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/14_Back_Home.cfg:700
 msgid "They’re... the humans killed them."
 msgstr ""
 
 #. [message]: speaker=second_unit
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/14_Back_Home.cfg:703
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/14_Back_Home.cfg:705
 msgid "You lie!"
 msgstr ""
 
 #. [message]: speaker=Thelarion
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/14_Back_Home.cfg:708
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/14_Back_Home.cfg:710
 msgid "I do not. Their bodies are frozen in the lake just over there."
 msgstr ""
 
 #. [message]: speaker=Kapou'e
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/14_Back_Home.cfg:720
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/14_Back_Home.cfg:722
 msgid "We had better go look."
 msgstr ""
 
 #. [message]: speaker=Kapou'e
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/14_Back_Home.cfg:727
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/14_Back_Home.cfg:729
 msgid "You had better go look."
 msgstr ""
 
 #. [message]: speaker=narrator
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/14_Back_Home.cfg:739
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/14_Back_Home.cfg:741
 msgid "A few minutes later..."
 msgstr ""
 
 #. [message]: speaker=Kapou'e
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/14_Back_Home.cfg:752
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/14_Back_Home.cfg:754
 msgid "The human-worms and tree-shaggers have gone too far! BLOOD AND STEEL! I want every human and elf in this area slaughtered! Show no mercy, give no quarter!"
 msgstr ""
 
 #. [message]: speaker=second_unit
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/14_Back_Home.cfg:758
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/14_Back_Home.cfg:760
 msgid "Chief! It’s true, the shamans have been murdered!"
 msgstr ""
 
 #. [message]: speaker=Kapou'e
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/14_Back_Home.cfg:764
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/14_Back_Home.cfg:766
 msgid "<i>What</i>?! The human-worms and tree-shaggers have gone too far! BLOOD AND STEEL! I want every human and elf in this area slaughtered! Show no mercy, give no quarter!"
 msgstr ""
 
 #. [message]: speaker=second_unit
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/14_Back_Home.cfg:769
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/14_Back_Home.cfg:771
 msgid "What should I do with this one?"
 msgstr ""
 
 #. [message]: speaker=Kapou'e
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/14_Back_Home.cfg:775
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/14_Back_Home.cfg:777
 msgid "Throw him in the lake. If he freezes to death, all the better."
 msgstr ""
 
 #. [message]
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/14_Back_Home.cfg:798
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/14_Back_Home.cfg:800
 msgid "You retrieve $amount_gold of Grüü's leftover gold."
 msgstr ""
 
@@ -793,9 +798,9 @@ msgstr ""
 #. [side]: type=Orcish Warrior, id=Knorgh
 #. [side]: type=Orcish Warrior, id=Nofhug
 #: Son_Of_The_Black_Eye_Easy_Edition/scenarios/15_Civil_War.cfg:95
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/15_Civil_War.cfg:115
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/15_Civil_War.cfg:135
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/15_Civil_War.cfg:155
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/15_Civil_War.cfg:119
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/15_Civil_War.cfg:139
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/15_Civil_War.cfg:160
 #: Son_Of_The_Black_Eye_Easy_Edition/scenarios/16_The_Coward.cfg:68
 #: Son_Of_The_Black_Eye_Easy_Edition/scenarios/16_The_Coward.cfg:89
 #: Son_Of_The_Black_Eye_Easy_Edition/scenarios/16_The_Coward.cfg:103
@@ -803,263 +808,301 @@ msgid "Rebels"
 msgstr ""
 
 #. [side]: type=Orcish Warlord, id=Meato
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/15_Civil_War.cfg:108
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/15_Civil_War.cfg:112
 msgid "Meato"
 msgstr ""
 
 #. [side]: type=Orcish Warlord, id=Ragvan
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/15_Civil_War.cfg:128
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/15_Civil_War.cfg:132
 msgid "Ragvan"
 msgstr ""
 
 #. [side]: type=Orcish Warlord, id=Kergai
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/15_Civil_War.cfg:148
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/15_Civil_War.cfg:153
 msgid "Kergai"
 msgstr ""
 
 #. [part]
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/15_Civil_War.cfg:167
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/15_Civil_War.cfg:176
 msgid "Infuriated by the murder of the shamans, the orcish horde massacred the humans and their allies. In their rage, they scoured the snow for hours looking for any survivors. Only when their rage was spent did the full implications of the shamans’ deaths begin to sink in."
 msgstr ""
 
 #. [part]
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/15_Civil_War.cfg:173
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/15_Civil_War.cfg:182
 msgid "With the Council broken, there was now nothing left to hold the orcish forces together. And if the orcish forces began to fight amongst themselves as they so often did, then the humans would eradicate them with ease."
 msgstr ""
 
 #. [part]
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/15_Civil_War.cfg:179
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/15_Civil_War.cfg:188
 msgid "Kapou’e vowed that this would not happen. Events had the smell of a treacherous plot aimed at destroying the unity of the orcs. Furthermore, if the tree-shagger was to be trusted, then Shan Taum the Smug was behind it all. What an orc expected to gain from destroying his own race was beyond Kapou’e, but he decided to march to Bitok personally and confront the traitor. Bitok being on the far side of orcish territory, this would also give him a good chance to clobber the orcs together again — the old fashioned way."
 msgstr ""
 
 #. [part]
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/15_Civil_War.cfg:185
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/15_Civil_War.cfg:194
 msgid "Furthermore, the troops who had been led by Kapou’e this far had grown to respect him as a wise and capable leader, and they proclaimed their loyalty to him. Delighted, Kapou’e sent detachments off in different directions to bring in the other tribes, by force if necessary. Al’Brock was sent west, along the route that Kapou’e had used to flee the human forces almost a year before. Flar’Tar was sent directly south to rally the tribes along the Mountains of Haag and the eastern Mourned Hills. Kapou’e himself made a direct southwest beeline towards Bitok. They were all to meet in Dorest that spring to repel the human attack that seemed certain to come."
 msgstr ""
 
 #. [part]
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/15_Civil_War.cfg:191
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/15_Civil_War.cfg:200
 msgid "Having thus made his plans, Kapou’e set out for Bitok to get to the root of this treachery."
 msgstr ""
 
 #. [message]: speaker=Kapou'e
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/15_Civil_War.cfg:219
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/15_Civil_War.cfg:228
 msgid "If we are going to make it to Bitok, and then back to Dorest before spring we have to get a move on. Break camp as soon as possible. Destroy all opposition in your path, I want this area to be firmly under my control by the time we are through here."
 msgstr ""
 
 #. [message]: speaker=Braga
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/15_Civil_War.cfg:225
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/15_Civil_War.cfg:234
 msgid "Black-Eye! We won’t submit to an upstart like you!"
 msgstr ""
 
 #. [message]: speaker=Meato
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/15_Civil_War.cfg:231
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/15_Civil_War.cfg:240
 msgid "Turn around and go back to where you came from or you’ll find your head on a pike! Right?"
 msgstr ""
 
 #. [message]: speaker=Ragvan
 #. [message]: speaker=Kergai
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/15_Civil_War.cfg:236
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/15_Civil_War.cfg:241
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/15_Civil_War.cfg:245
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/15_Civil_War.cfg:250
 msgid "Right!"
 msgstr ""
 
 #. [message]: speaker=Kapou'e
 #. "whupping" is not a typo for "whipping"; it is a Southern
 #. American dialect word meaning "a severe beating".
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/15_Civil_War.cfg:249
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/15_Civil_War.cfg:258
 msgid "It’s been a chilly winter. How about we warm ourselves up a bit by giving these traitors a good whupping, boys?"
 msgstr ""
 
 #. [message]: speaker=Grüü
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/15_Civil_War.cfg:254
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/15_Civil_War.cfg:263
 msgid "Yeah!"
 msgstr ""
 
 #. [message]: speaker=unit
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/15_Civil_War.cfg:275
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/15_Civil_War.cfg:296
 msgid "Psst, Black-Eye! Shan Taum paid our chiefs to stick around here and guard Bitok. But they pay us poor!"
 msgstr ""
 
 #. [message]: speaker=Kapou'e
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/15_Civil_War.cfg:280
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/15_Civil_War.cfg:301
 msgid "And how is that my problem?"
 msgstr ""
 
 #. [message]: speaker=unit
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/15_Civil_War.cfg:285
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/15_Civil_War.cfg:306
 msgid "Well, Black-Eye, as long as they’re in charge you’ll have to fight us all... but I’m sure none of us would bother you if you’d ‘remove’ just our chiefs."
 msgstr ""
 
 #. [message]
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/15_Civil_War.cfg:291
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/15_Civil_War.cfg:312
 msgid "What are you doing? I haven’t let you keep your head so you could chat with the enemy! Get back to the fight!"
 msgstr ""
 
 #. [message]: speaker=unit
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/15_Civil_War.cfg:296
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/15_Civil_War.cfg:317
 msgid "Uh oh... yes chief, right away!"
 msgstr ""
 
 #. [message]: speaker=unit
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/15_Civil_War.cfg:301
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/15_Civil_War.cfg:322
 msgid "Sorry!"
 msgstr ""
 
 #. [message]: speaker=second_unit
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/15_Civil_War.cfg:322
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/15_Civil_War.cfg:360
+msgid "ROAAARRRR!!! (translation: \"Chief, maybe we should do what he said and just try to assassinate their leaders instead\"?)"
+msgstr ""
+
+#. [message]: speaker=Kapou'e
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/15_Civil_War.cfg:364
+msgid "<span size='small' font-style='italic'>(pretending he understood)</span> ...sure, why not?"
+msgstr ""
+
+#. [message]: speaker=second_unit
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/15_Civil_War.cfg:370
 msgid "Chief, maybe we should do what he said and just try to assassinate their leaders instead?"
 msgstr ""
 
 #. [message]: speaker=Kapou'e
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/15_Civil_War.cfg:327
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/15_Civil_War.cfg:374
 msgid "Sure, why not? —If we get the chance."
 msgstr ""
 
 #. [message]: speaker=Plonk
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/15_Civil_War.cfg:346
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/15_Civil_War.cfg:431
 msgid "Did someone say something about assassinations?"
 msgstr ""
 
 #. [message]: speaker=Kapou'e
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/15_Civil_War.cfg:350
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/15_Civil_War.cfg:435
 msgid "Yes, Plonk, would you like this job?"
 msgstr ""
 
 #. [message]: speaker=Plonk
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/15_Civil_War.cfg:354
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/15_Civil_War.cfg:439
 msgid "I know just the tool for the task. Are you ok with me getting a little help from some spirits of the dead for this?"
 msgstr ""
 
 #. [message]: speaker=Kapou'e
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/15_Civil_War.cfg:358
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/15_Civil_War.cfg:443
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/15_Civil_War.cfg:523
 msgid "Spirits?!"
 msgstr ""
 
 #. [option]
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/15_Civil_War.cfg:361
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/15_Civil_War.cfg:446
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/15_Civil_War.cfg:526
 msgid "Why yes of course, they'd be perfect!"
 msgstr ""
 
 #. [message]: speaker=Plonk
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/15_Civil_War.cfg:366
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/15_Civil_War.cfg:451
 msgid "Cool, here they are."
 msgstr ""
 
 #. [option]
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/15_Civil_War.cfg:406
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/15_Civil_War.cfg:461
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/15_Civil_War.cfg:541
 msgid "No way!"
 msgstr ""
 
 #. [message]: speaker=Plonk
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/15_Civil_War.cfg:411
-msgid "Aw, man..."
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/15_Civil_War.cfg:466
+msgid "Aw, man... I guess I'll just have to sneak around the enemies myself... which is something that I can do now, by the way!"
+msgstr ""
+
+#. [message]: speaker=Jetto
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/15_Civil_War.cfg:511
+msgid "Assassinations? Finally, it's my time to shine!"
+msgstr ""
+
+#. [message]: speaker=Kapou'e
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/15_Civil_War.cfg:515
+msgid "Are you saying that you'd like to have this job, Jetto?"
+msgstr ""
+
+#. [message]: speaker=Jetto
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/15_Civil_War.cfg:519
+msgid "Yes! In fact, I know just the tool for the task. Are you fine with me getting some help from some spirits of the dead for this?"
+msgstr ""
+
+#. [message]: speaker=Jetto
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/15_Civil_War.cfg:531
+msgid "All right! Here they are."
+msgstr ""
+
+#. [message]: speaker=Jetto
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/15_Civil_War.cfg:546
+msgid "Oh well, guess I'll just have to sneak around the edge of the front line myself... which is something I can do now, by the way!"
 msgstr ""
 
 #. [message]: speaker=Grüü
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/15_Civil_War.cfg:434
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/15_Civil_War.cfg:589
 msgid "Little orcs fun to squash too! Chief doesn’t let me too often."
 msgstr ""
 
 #. [message]: speaker=Kapou'e
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/15_Civil_War.cfg:439
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/15_Civil_War.cfg:594
 msgid "You can have as many as you want now, Grüü."
 msgstr ""
 
 #. [message]: speaker=second_unit
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/15_Civil_War.cfg:459
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/15_Civil_War.cfg:614
 msgid "This rabble won’t be a problem anymore."
 msgstr ""
 
 #. [message]: speaker=second_unit
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/15_Civil_War.cfg:468
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/15_Civil_War.cfg:623
 msgid "Got this tribe under control."
 msgstr ""
 
 #. [message]: speaker=second_unit
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/15_Civil_War.cfg:477
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/15_Civil_War.cfg:632
 msgid "This is what you get for deserting the Son of the Black-Eye."
 msgstr ""
 
 #. [message]: speaker=second_unit
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/15_Civil_War.cfg:486
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/15_Civil_War.cfg:641
 msgid "This trash’s gone."
 msgstr ""
 
 #. [message]: speaker=Grüü
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/15_Civil_War.cfg:508
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/15_Civil_War.cfg:772
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/15_Civil_War.cfg:663
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/15_Civil_War.cfg:929
 msgid "Heehee, we wiped them out good."
 msgstr ""
 
 #. [message]: speaker=Kapou'e
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/15_Civil_War.cfg:513
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/15_Civil_War.cfg:777
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/15_Civil_War.cfg:668
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/15_Civil_War.cfg:934
 msgid "Now let’s get going, we have an appointment with Shan Taum."
 msgstr ""
 
 #. [message]: role=new_leader
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/15_Civil_War.cfg:618
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/15_Civil_War.cfg:775
 msgid "Freedom! Don’t worry about our tribe anymore, Kapou’e."
 msgstr ""
 
 #. [message]: role=new_leader
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/15_Civil_War.cfg:628
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/15_Civil_War.cfg:785
 msgid "Thank you, Son of the Black-Eye!"
 msgstr ""
 
 #. [message]: role=new_leader
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/15_Civil_War.cfg:638
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/15_Civil_War.cfg:795
 msgid "The chief is gone at last!"
 msgstr ""
 
 #. [message]: role=new_leader
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/15_Civil_War.cfg:648
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/15_Civil_War.cfg:805
 msgid "Finally! We’ll fight at your side now!"
 msgstr ""
 
 #. [message]: speaker=Kapou'e
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/15_Civil_War.cfg:658
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/15_Civil_War.cfg:815
 msgid "We wiped out that entire tribe instead of just assassinating their leader! What a waste of orcish blood!"
 msgstr ""
 
 #. [message]: speaker=Kapou'e
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/15_Civil_War.cfg:686
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/15_Civil_War.cfg:843
 msgid "I can’t leave these renegades unguarded at our rear. I must take care of them before continuing."
 msgstr ""
 
 #. [message]
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/15_Civil_War.cfg:732
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/15_Civil_War.cfg:889
 msgid "Thanks to you, Kapou’e, our imbecile leaders are gone!"
 msgstr ""
 
 #. [message]: speaker=Kapou'e
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/15_Civil_War.cfg:737
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/15_Civil_War.cfg:894
 msgid "Good for you. Now let’s get going, we have an appointment with Shan Taum."
 msgstr ""
 
 #. [message]
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/15_Civil_War.cfg:743
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/15_Civil_War.cfg:900
 msgid "Actually... we won’t be coming."
 msgstr ""
 
 #. [message]: speaker=Grüü
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/15_Civil_War.cfg:748
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/15_Civil_War.cfg:905
 msgid "You don’t turn your back on Chief! You come or we squash!"
 msgstr ""
 
 #. [message]
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/15_Civil_War.cfg:754
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/15_Civil_War.cfg:911
 msgid "But we don’t want to fight anymore! In fact, we prefer farming to war. Maybe burn a village every now and then, but no big fighting."
 msgstr ""
 
 #. [message]: speaker=Grüü
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/15_Civil_War.cfg:759
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/15_Civil_War.cfg:916
 msgid "Haha, Grüü never heard anything funnier! Farming orcs must have been hit in the head too hard."
 msgstr ""
 
 #. [message]: speaker=Kapou'e
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/15_Civil_War.cfg:765
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/15_Civil_War.cfg:922
 msgid "As much as I’d like to, we don’t have time to stay and ‘re-educate’ these un-orcs. So go jump in a lake if you want for all I care, just make sure I never see your pathetic faces again."
 msgstr ""
 
@@ -1247,173 +1290,173 @@ msgid "You don't control all villages on the north side of the river when turns 
 msgstr ""
 
 #. [side]: type=Dwarvish Steelclad, id=Darstang
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/11_Clash_of_Armies.cfg:100
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/10_Saving_Inarix.cfg:126
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/13_The_Dwarvish_Stand.cfg:86
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/11_Clash_of_Armies.cfg:104
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/10_Saving_Inarix.cfg:130
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/13_The_Dwarvish_Stand.cfg:88
 msgid "Darstang"
 msgstr ""
 
 #. [side]: type=General, id=Earl Lanbec'h
 #. [unit]: type=General, id=Earl Lanbec'h
 #. [side]: type=Grand Marshal, id=Earl Lanbec'h
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/11_Clash_of_Armies.cfg:159
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/10_Saving_Inarix.cfg:684
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/10_Saving_Inarix.cfg:773
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/11_Clash_of_Armies.cfg:163
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/10_Saving_Inarix.cfg:688
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/10_Saving_Inarix.cfg:808
 #: Son_Of_The_Black_Eye_Easy_Edition/scenarios/17_The_Human_Attack.cfg:92
 #: Son_Of_The_Black_Eye_Easy_Edition/scenarios/18_Northern_Alliance.cfg:110
 msgid "Earl Lanbec’h"
 msgstr ""
 
 #. [event]
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/11_Clash_of_Armies.cfg:250
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/11_Clash_of_Armies.cfg:256
 msgid "Telamir"
 msgstr ""
 
 #. [event]
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/11_Clash_of_Armies.cfg:251
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/11_Clash_of_Armies.cfg:257
 msgid "Angthur"
 msgstr ""
 
 #. [message]: role=cannonfodder
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/11_Clash_of_Armies.cfg:272
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/11_Clash_of_Armies.cfg:278
 msgid "So here we are, and they are preparing to assault."
 msgstr ""
 
 #. [message]: speaker=Grüü
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/11_Clash_of_Armies.cfg:277
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/11_Clash_of_Armies.cfg:283
 msgid "Prestim’s walls are rock-hard, they’ll waste themselves on them."
 msgstr ""
 
 #. [message]: speaker=Kapou'e
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/11_Clash_of_Armies.cfg:282
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/11_Clash_of_Armies.cfg:288
 msgid "I’m not that sure. Every fortress has its own weakness. Prestim’s walls are strong but long and it is difficult to defend them from many directions at once. This Earl Lanbec’h must know they can’t break through by only fording the river where the bridge previously stood so he must have a better plan than that."
 msgstr ""
 
 #. [message]: role=cannonfodder
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/11_Clash_of_Armies.cfg:287
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/11_Clash_of_Armies.cfg:293
 msgid "We’ve received messengers from the Council, saying that they are gathering tribes into the Great Horde."
 msgstr ""
 
 #. [message]: speaker=Grüü
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/11_Clash_of_Armies.cfg:292
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/11_Clash_of_Armies.cfg:298
 msgid "Great! When do they arrive?"
 msgstr ""
 
 #. [message]: role=cannonfodder
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/11_Clash_of_Armies.cfg:297
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/11_Clash_of_Armies.cfg:303
 msgid "In four days. I fear it will be too late."
 msgstr ""
 
 #. [message]: speaker=Kapou'e
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/11_Clash_of_Armies.cfg:302
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/11_Clash_of_Armies.cfg:308
 msgid "Fool! We can hold that long. But we have to have Prestim firmly in control when the shamans arrive with the Great Horde. We can’t let the humans establish a foothold on this side of the river."
 msgstr ""
 
 #. [message]: speaker=Kapou'e
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/11_Clash_of_Armies.cfg:312
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/11_Clash_of_Armies.cfg:318
 msgid "Because if we cannot decisively beat these humans, the other tribes won’t think us strong enough to lead them. Each chieftain will try to claim the leadership of the horde for themselves and the humans will be able to break through our defenses."
 msgstr ""
 
 #. [message]: role=cannonfodder
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/11_Clash_of_Armies.cfg:317
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/11_Clash_of_Armies.cfg:323
 msgid "Great."
 msgstr ""
 
 #. [message]: speaker=Grüü
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/11_Clash_of_Armies.cfg:396
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/11_Clash_of_Armies.cfg:402
 msgid "Look, the humans are boarding a ship!"
 msgstr ""
 
 #. [message]
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/11_Clash_of_Armies.cfg:927
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/11_Clash_of_Armies.cfg:933
 msgid "Charge!"
 msgstr ""
 
 #. [message]
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/11_Clash_of_Armies.cfg:936
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/11_Clash_of_Armies.cfg:942
 msgid "Get them!"
 msgstr ""
 
 #. [unit]: type=Merman Warrior, id=Plouf
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/11_Clash_of_Armies.cfg:1073
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/11_Clash_of_Armies.cfg:1079
 msgid "Plouf"
 msgstr ""
 
 #. [message]: speaker=Plouf
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/11_Clash_of_Armies.cfg:1084
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/11_Clash_of_Armies.cfg:1090
 msgid "We arrive to honor our alliance, Earl Lanbec’h."
 msgstr ""
 
 #. [message]: speaker=Kapou'e
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/11_Clash_of_Armies.cfg:1089
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/11_Clash_of_Armies.cfg:1095
 msgid "Curses! They have fish-men on their side."
 msgstr ""
 
 #. [message]: speaker=Kapou'e
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/11_Clash_of_Armies.cfg:1172
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/11_Clash_of_Armies.cfg:1178
 msgid "The Great Horde is almost here! Drive them out of our villages <b>now</b>!"
 msgstr ""
 
 #. [event]
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/11_Clash_of_Armies.cfg:1179
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/11_Clash_of_Armies.cfg:1185
 #: Son_Of_The_Black_Eye_Easy_Edition/scenarios/04_The_Siege_of_Barag_Gor.cfg:204
 msgid "Pirk"
 msgstr ""
 
 #. [event]
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/11_Clash_of_Armies.cfg:1180
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/11_Clash_of_Armies.cfg:1186
 #: Son_Of_The_Black_Eye_Easy_Edition/scenarios/04_The_Siege_of_Barag_Gor.cfg:206
 msgid "Gork"
 msgstr ""
 
 #. [event]
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/11_Clash_of_Armies.cfg:1181
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/11_Clash_of_Armies.cfg:1187
 #: Son_Of_The_Black_Eye_Easy_Edition/scenarios/04_The_Siege_of_Barag_Gor.cfg:208
 msgid "Vraurk"
 msgstr ""
 
 #. [message]: speaker=Gork
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/11_Clash_of_Armies.cfg:1209
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/11_Clash_of_Armies.cfg:1215
 msgid "Here we are!"
 msgstr ""
 
 #. [message]: role=greathordewarlord1
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/11_Clash_of_Armies.cfg:1214
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/11_Clash_of_Armies.cfg:1220
 msgid "What’s this? This weakling has let humans enter Prestim? I will lead the horde and push them to the river!"
 msgstr ""
 
 #. [message]: role=greathordewarlord2
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/11_Clash_of_Armies.cfg:1220
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/11_Clash_of_Armies.cfg:1226
 msgid "Bah! I’m the only one strong enough to drive out the humans! The Great Horde follows me!"
 msgstr ""
 
 #. [message]: speaker=Earl Lanbec'h
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/11_Clash_of_Armies.cfg:1226
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/11_Clash_of_Armies.cfg:1232
 msgid "Look at that, the stupid orcs are starting to fight amongst themselves! Now’s our chance, everyone attack!"
 msgstr ""
 
 #. [message]: speaker=Gork
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/11_Clash_of_Armies.cfg:1237
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/11_Clash_of_Armies.cfg:1243
 msgid "Here we are! Hold on Prestim, we arrive to push them to the river!"
 msgstr ""
 
 #. [message]: speaker=Earl Lanbec'h
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/11_Clash_of_Armies.cfg:1242
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/11_Clash_of_Armies.cfg:1248
 msgid "They are too numerous now, RETREAT!"
 msgstr ""
 
 #. [message]: speaker=Kapou'e
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/11_Clash_of_Armies.cfg:1264
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/11_Clash_of_Armies.cfg:1270
 msgid "The Great Horde at last! I was beginning to think they would never come."
 msgstr ""
 
 #. [message]: speaker=Gork
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/11_Clash_of_Armies.cfg:1269
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/11_Clash_of_Armies.cfg:1275
 msgid "Your defense of Prestim was heroic, facing such opposition surely undermined the morale of the humans. Now they are retreating to their fortresses and will not venture out again anytime soon."
 msgstr ""
 
 #. [message]: speaker=Pirk
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/11_Clash_of_Armies.cfg:1274
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/11_Clash_of_Armies.cfg:1280
 msgid "It is now time to show them who we are and to lead the Great Horde in pursuit. We will not rest until we destroy Earl Lanbec’h. Smite, stab, slay!"
 msgstr ""
 
@@ -1428,7 +1471,7 @@ msgid "Defeat the elves"
 msgstr ""
 
 #. [side]: type=Elvish Shyde, id=Lucile
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/08_Silent_Forest.cfg:76
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/08_Silent_Forest.cfg:88
 msgid "Lucile"
 msgstr ""
 
@@ -1438,8 +1481,8 @@ msgstr ""
 #. [side]: type=Elvish Marshal, id=Hida'tul
 #. [side]: type=Elvish Marshal, id=Ammon
 #. [side]: type=Elvish Marshal, id=Sammual
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/08_Silent_Forest.cfg:79
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/08_Silent_Forest.cfg:101
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/08_Silent_Forest.cfg:91
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/08_Silent_Forest.cfg:113
 #: Son_Of_The_Black_Eye_Easy_Edition/scenarios/04_The_Siege_of_Barag_Gor.cfg:75
 #: Son_Of_The_Black_Eye_Easy_Edition/scenarios/04_The_Siege_of_Barag_Gor.cfg:112
 #: Son_Of_The_Black_Eye_Easy_Edition/scenarios/04_The_Siege_of_Barag_Gor.cfg:127
@@ -1448,192 +1491,192 @@ msgid "Elves"
 msgstr ""
 
 #. [side]: type=Elvish Captain, id=Raceme
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/08_Silent_Forest.cfg:98
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/08_Silent_Forest.cfg:110
 msgid "Raceme"
 msgstr ""
 
 #. [part]
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/08_Silent_Forest.cfg:117
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/08_Silent_Forest.cfg:129
 msgid "As soon as the sandstorm died down, Kapou’e and his men — eager to escape the searing heat — left the oasis and continued on their trek."
 msgstr ""
 
 #. [part]
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/08_Silent_Forest.cfg:123
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/08_Silent_Forest.cfg:135
 msgid "It was with great relief that they finally spotted the Silent Forest on the evening of their second day. They quickly made camp in the hope of getting some much needed rest. However, as dawn approached, a thick fog rolled in and all the natural sounds of the forest died away — leaving everything deathly quiet."
 msgstr ""
 
 #. [message]: speaker=Kapou'e
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/08_Silent_Forest.cfg:151
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/08_Silent_Forest.cfg:163
 msgid "This fog and the silence are starting to unsettle me. What is this place, anyway?"
 msgstr ""
 
 #. [message]: speaker=Gork
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/08_Silent_Forest.cfg:155
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/08_Silent_Forest.cfg:167
 msgid "It has not always been like this. A lot of hunters from the tribes used to hunt here and fish in the River Bork. But that all changed a few years ago. Now, few would enter here unless forced."
 msgstr ""
 
 #. [message]: speaker=Vraurk
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/08_Silent_Forest.cfg:159
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/08_Silent_Forest.cfg:171
 msgid "What happened? Why did people stop coming here?"
 msgstr ""
 
 #. [message]: speaker=Gork
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/08_Silent_Forest.cfg:163
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/08_Silent_Forest.cfg:175
 msgid "The fact is that few people entered this forest and returned home safe. I am not sure, but most likely, this forest is full of elvish renegades."
 msgstr ""
 
 #. [message]: speaker=Kapou'e
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/08_Silent_Forest.cfg:167
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/08_Silent_Forest.cfg:179
 msgid "What would elves be doing so far into orcish territory? Anyway, we need some rest. We are sufficiently armed to cope with a bunch of elvish poachers. If we meet any, we’ll cut them to pieces."
 msgstr ""
 
 #. [message]: speaker=second_unit
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/08_Silent_Forest.cfg:204
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/08_Silent_Forest.cfg:216
 msgid "Elves! I was right, this place is infested with the skinny weaklings."
 msgstr ""
 
 #. [message]: speaker=second_unit
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/08_Silent_Forest.cfg:210
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/08_Silent_Forest.cfg:222
 msgid "Elves! You were right, Gork, this place is infested with the skinny weaklings."
 msgstr ""
 
 #. [message]: speaker=unit
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/08_Silent_Forest.cfg:217
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/08_Silent_Forest.cfg:229
 msgid "Blast it, the orcs have discovered us."
 msgstr ""
 
 #. [message]: speaker=Kapou'e
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/08_Silent_Forest.cfg:222
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/08_Silent_Forest.cfg:234
 msgid "What is your purpose for trespassing on orcish territory?"
 msgstr ""
 
 #. [message]: speaker=unit
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/08_Silent_Forest.cfg:227
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/08_Silent_Forest.cfg:239
 msgid "Fool, do you really think we are going to tell you?"
 msgstr ""
 
 #. [message]: speaker=Kapou'e
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/08_Silent_Forest.cfg:232
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/08_Silent_Forest.cfg:244
 msgid "Men, capture one of these elves and interrogate him. I am sure that will get us some answers."
 msgstr ""
 
 #. [message]: speaker=second_unit
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/08_Silent_Forest.cfg:244
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/08_Silent_Forest.cfg:256
 msgid "Now we’re going to have some answers out of you."
 msgstr ""
 
 #. [message]: speaker=unit
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/08_Silent_Forest.cfg:249
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/08_Silent_Forest.cfg:261
 msgid "You might as well go ahead and kill me, I’m not telling you anything."
 msgstr ""
 
 #. [message]: speaker=second_unit
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/08_Silent_Forest.cfg:254
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/08_Silent_Forest.cfg:266
 msgid "Very well then..."
 msgstr ""
 
 #. [message]: speaker=narrator
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/08_Silent_Forest.cfg:259
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/08_Silent_Forest.cfg:271
 msgid "Some time later..."
 msgstr ""
 
 #. [message]: speaker=second_unit
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/08_Silent_Forest.cfg:265
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/08_Silent_Forest.cfg:277
 msgid "So you elves have set up an enclave here have you. Why is that?"
 msgstr ""
 
 #. [message]: speaker=unit
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/08_Silent_Forest.cfg:270
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/08_Silent_Forest.cfg:282
 msgid "We made an agreement with the humans some time ago. They were planning a major assault on you war-mongers, and the humans pledged that if we assisted them they would give us a large chunk of your territory once the battle was over."
 msgstr ""
 
 #. [message]: speaker=second_unit
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/08_Silent_Forest.cfg:275
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/08_Silent_Forest.cfg:287
 msgid "Why would you elves want still more territory? You guys already have the undisputed rule of the whole elvish forest."
 msgstr ""
 
 #. [message]: speaker=unit
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/08_Silent_Forest.cfg:280
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/08_Silent_Forest.cfg:292
 msgid "Yes, but our prince has been banished from those lands for collaborating with humans. He now seeks to carve out an empire for himself."
 msgstr ""
 
 #. [message]: speaker=second_unit
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/08_Silent_Forest.cfg:285
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/08_Silent_Forest.cfg:297
 msgid "Hmmm, interesting. So you set up a base here to launch your attacks on us. Is that right?"
 msgstr ""
 
 #. [message]: speaker=unit
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/08_Silent_Forest.cfg:290
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/08_Silent_Forest.cfg:302
 msgid "Yes, that is correct."
 msgstr ""
 
 #. [message]: speaker=Kapou'e
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/08_Silent_Forest.cfg:295
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/08_Silent_Forest.cfg:307
 msgid "Well folks, it looks like we have our work cut out for us. We must destroy this enclave."
 msgstr ""
 
 #. [message]: speaker=Kapou'e
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/08_Silent_Forest.cfg:314
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/08_Silent_Forest.cfg:326
 msgid "As for this weakling, I’ll personally behead her."
 msgstr ""
 
 #. [message]: speaker=Kapou'e
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/08_Silent_Forest.cfg:321
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/08_Silent_Forest.cfg:333
 msgid "As for this weakling, I’ll personally behead him."
 msgstr ""
 
 #. [message]: speaker=second_unit
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/08_Silent_Forest.cfg:337
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/08_Silent_Forest.cfg:349
 msgid "female^With pleasure. But what should I do with this weakling?"
 msgstr ""
 
 #. [message]: speaker=Kapou'e
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/08_Silent_Forest.cfg:342
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/08_Silent_Forest.cfg:354
 msgid "Behead her."
 msgstr ""
 
 #. [message]: speaker=second_unit
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/08_Silent_Forest.cfg:349
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/08_Silent_Forest.cfg:361
 msgid "With pleasure. But what should I do with this weakling?"
 msgstr ""
 
 #. [message]: speaker=Kapou'e
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/08_Silent_Forest.cfg:354
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/08_Silent_Forest.cfg:366
 msgid "Behead him."
 msgstr ""
 
 #. [message]: speaker=unit
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/08_Silent_Forest.cfg:363
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/08_Silent_Forest.cfg:375
 msgid "Ahhhhh!"
 msgstr ""
 
 #. [message]: speaker=second_unit
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/08_Silent_Forest.cfg:374
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/08_Silent_Forest.cfg:386
 msgid "She was carrying some gold!"
 msgstr ""
 
 #. [message]: speaker=second_unit
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/08_Silent_Forest.cfg:380
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/08_Silent_Forest.cfg:392
 msgid "He was carrying some gold!"
 msgstr ""
 
 #. [message]: speaker=Kapou'e
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/08_Silent_Forest.cfg:403
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/08_Silent_Forest.cfg:415
 msgid "Good work, men, we’ve done it! Now we don’t have to worry about these elves attacking us. Let’s get some rest and continue our journey."
 msgstr ""
 
 #. [message]: speaker=Lucile
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/08_Silent_Forest.cfg:421
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/08_Silent_Forest.cfg:433
 msgid "Ahhh! Flee; warn the prince that I have been slain and the enclave destroyed."
 msgstr ""
 
 #. [unit]: type=Elvish Scout, id=Linduilas
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/08_Silent_Forest.cfg:430
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/08_Silent_Forest.cfg:442
 msgid "Linduilas"
 msgstr ""
 
 #. [message]: speaker=Linduilas
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/08_Silent_Forest.cfg:435
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/08_Silent_Forest.cfg:447
 msgid "As you command, my lady."
 msgstr ""
 
@@ -1835,198 +1878,203 @@ msgid "Whoever detonates the bridge will die."
 msgstr ""
 
 #. [event]
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/10_Saving_Inarix.cfg:155
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/10_Saving_Inarix.cfg:157
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/10_Saving_Inarix.cfg:159
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/10_Saving_Inarix.cfg:161
 msgid "Plonk"
 msgstr ""
 
 #. [message]: speaker=Plonk
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/10_Saving_Inarix.cfg:204
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/10_Saving_Inarix.cfg:208
 msgid "Reinforcements, at last! Whoever you are, you are welcome in Prestim! The fortified bridge over the River Bork was taken this morning by a small commando of elves, we have already tried to assault it twice without success."
 msgstr ""
 
 #. [message]: speaker=Grüü
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/10_Saving_Inarix.cfg:208
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/10_Saving_Inarix.cfg:212
 msgid "Ah! They are no match against my hammer."
 msgstr ""
 
 #. [message]: speaker=Plonk
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/10_Saving_Inarix.cfg:212
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/10_Saving_Inarix.cfg:216
 msgid "There is worse; our scouts report that our saurian allies led by Inarix are still trapped on the other side of the river some miles away. They won’t be able to cross the river."
 msgstr ""
 
 #. [message]: speaker=Plonk
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/10_Saving_Inarix.cfg:216
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/10_Saving_Inarix.cfg:220
 msgid "Elves and dwarves have joined humans against us and have set up camp nearby. Humans will arrive soon. We must destroy the southern bridge on the river."
 msgstr ""
 
 #. [message]: speaker=Kapou'e
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/10_Saving_Inarix.cfg:220
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/10_Saving_Inarix.cfg:224
 msgid "If Inarix falls prey to those humans then we won’t be able to count on their help in this struggle. We must do something!"
 msgstr ""
 
 #. [message]: speaker=Grüü
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/10_Saving_Inarix.cfg:225
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/10_Saving_Inarix.cfg:229
 msgid "I know what we must do. Kill elves and help Inarix cross."
 msgstr ""
 
 #. [message]: speaker=Plonk
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/10_Saving_Inarix.cfg:229
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/10_Saving_Inarix.cfg:233
 msgid "It won’t be that easy! Our enemies are well entrenched."
 msgstr ""
 
 #. [message]: speaker=Plonk
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/10_Saving_Inarix.cfg:233
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/10_Saving_Inarix.cfg:237
 msgid "We can sabotage the southern bridge to slow them down. When the bulk of the saurians have crossed, someone needs to go and light the barrel of oil we have set up beside the bridge to destroy it. Any warriors trapped on the bridge or on the other side of the river will perish!"
 msgstr ""
 
 #. [message]: speaker=Thelarion
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/10_Saving_Inarix.cfg:240
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/10_Saving_Inarix.cfg:244
 msgid "Hey look, that tribe of orcs that destroyed my enclave in the Silent Forest have reinforced Prestim. It is time to avenge the death of our fallen kin my friends — get them!"
 msgstr ""
 
 #. [message]: speaker=Kapou'e
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/10_Saving_Inarix.cfg:244
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/10_Saving_Inarix.cfg:248
 msgid "Ahhh, it’s ‘the Prince’ from the Silent Forest. Unfortunately, I don’t think we can deal with him now, we have to focus on saving Inarix."
 msgstr ""
 
 #. [event]
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/10_Saving_Inarix.cfg:251
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/10_Saving_Inarix.cfg:255
 msgid "Inarix"
 msgstr ""
 
 #. [message]: speaker=Inarix
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/10_Saving_Inarix.cfg:280
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/10_Saving_Inarix.cfg:284
 msgid "Hurry-hurry, friends. Lanbec’h and his kind are right on our tails, we must reach Prestim quickly."
 msgstr ""
 
 #. [message]: speaker=Kapou'e
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/10_Saving_Inarix.cfg:363
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/10_Saving_Inarix.cfg:367
 msgid "Bah! I’m not going to blow myself to bits!"
 msgstr ""
 
 #. [message]: speaker=Kapou'e
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/10_Saving_Inarix.cfg:381
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/10_Saving_Inarix.cfg:385
 msgid "Grüü, stay away from that thing! I still have a use for you!"
 msgstr ""
 
 #. [message]: speaker=Grüü
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/10_Saving_Inarix.cfg:387
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/10_Saving_Inarix.cfg:391
 msgid "Uh... Fine, Chief!"
 msgstr ""
 
 #. [message]: speaker=Inarix
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/10_Saving_Inarix.cfg:405
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/10_Saving_Inarix.cfg:409
 msgid "I’m not going to do it!"
 msgstr ""
 
 #. [message]: speaker=Kapou'e
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/10_Saving_Inarix.cfg:434
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/10_Saving_Inarix.cfg:438
 msgid "Get away from there you idiot, I’m still over here!"
 msgstr ""
 
 #. [message]: speaker=Grüü
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/10_Saving_Inarix.cfg:449
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/10_Saving_Inarix.cfg:453
 msgid "Hey, don’t light it up, I’m not safe!"
 msgstr ""
 
 #. [message]: speaker=Grüü
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/10_Saving_Inarix.cfg:472
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/10_Saving_Inarix.cfg:476
 msgid "Chief, we can’t be blowing the bridge before Inarix is here, can we?"
 msgstr ""
 
 #. [then]
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/10_Saving_Inarix.cfg:484
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/10_Saving_Inarix.cfg:488
 msgid "Chief, Inarix hasn’t yet made it across! Are you really sure you want to do this?"
 msgstr ""
 
 #. [else]
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/10_Saving_Inarix.cfg:488
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/10_Saving_Inarix.cfg:492
 msgid "I’m ready, Chief!"
 msgstr ""
 
 #. [option]
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/10_Saving_Inarix.cfg:497
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/10_Saving_Inarix.cfg:501
 msgid "Let her blow!"
 msgstr ""
 
 #. [message]: speaker=Grüü
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/10_Saving_Inarix.cfg:502
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/10_Saving_Inarix.cfg:506
 msgid "Bye bye, $unit.name|!"
 msgstr ""
 
 #. [message]: speaker=Inarix
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/10_Saving_Inarix.cfg:514
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/10_Saving_Inarix.cfg:518
 msgid "Damn you, Son of the Black-Eye! You’ll pay for this!"
 msgstr ""
 
 #. [message]
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/10_Saving_Inarix.cfg:528
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/10_Saving_Inarix.cfg:532
 msgid "No, wait!"
 msgstr ""
 
 #. [message]: speaker=unit
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/10_Saving_Inarix.cfg:535
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/10_Saving_Inarix.cfg:539
 msgid "Aaaaaaaargh!"
 msgstr ""
 
 #. [option]
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/10_Saving_Inarix.cfg:551
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/10_Saving_Inarix.cfg:555
 msgid "Wait a moment."
 msgstr ""
 
 #. [message]: speaker=unit
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/10_Saving_Inarix.cfg:556
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/10_Saving_Inarix.cfg:560
 msgid "<i>Phew!</i>"
 msgstr ""
 
 #. [message]: speaker=Kapou'e
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/10_Saving_Inarix.cfg:613
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/10_Saving_Inarix.cfg:617
 msgid "Blast it! The saurians have had too many casualties in order for them to be of any real help to us. We won’t be able to recruit them in the future."
 msgstr ""
 
 #. [message]: speaker=Thelarion
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/10_Saving_Inarix.cfg:661
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/10_Saving_Inarix.cfg:665
 msgid "This isn’t working. Mobilize all our troops and send these creatures back to hell."
 msgstr ""
 
 #. [message]: speaker=Darstang
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/10_Saving_Inarix.cfg:665
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/10_Saving_Inarix.cfg:669
 msgid "It won’t be said that Elves were braver than us, everyone attack!"
 msgstr ""
 
 #. [message]: speaker=Earl Lanbec'h
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/10_Saving_Inarix.cfg:700
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/10_Saving_Inarix.cfg:704
 msgid "At them! Rip them to the last!"
 msgstr ""
 
 #. [message]: speaker=Kapou'e
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/10_Saving_Inarix.cfg:704
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/10_Saving_Inarix.cfg:708
 msgid "It is too late, we are defeated."
 msgstr ""
 
 #. [message]: speaker=Thelarion
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/10_Saving_Inarix.cfg:717
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/10_Saving_Inarix.cfg:721
 msgid "Troops, protect your leader!"
 msgstr ""
 
 #. [message]: speaker=Darstang
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/10_Saving_Inarix.cfg:752
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/10_Saving_Inarix.cfg:756
 msgid "You want to take the battle to me myself? Fine, have at ye!"
 msgstr ""
 
+#. [message]
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/10_Saving_Inarix.cfg:798
+msgid "We're with ye, Darstang!"
+msgstr ""
+
 #. [message]: speaker=Earl Lanbec'h
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/10_Saving_Inarix.cfg:783
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/10_Saving_Inarix.cfg:818
 msgid "So, the elves and dwarves failed to take the fortress and the beasts were able to muster a defense. No matter. Once the vanguard of my army arrives, I will storm their pitiful fortress myself."
 msgstr ""
 
 #. [message]: speaker=unit
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/10_Saving_Inarix.cfg:823
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/10_Saving_Inarix.cfg:866
 msgid "The green earth will curse you for this..."
 msgstr ""
 
 #. [message]: speaker=unit
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/10_Saving_Inarix.cfg:835
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/10_Saving_Inarix.cfg:878
 msgid "Curse you, foul orc!"
 msgstr ""
 
@@ -2071,82 +2119,82 @@ msgid "Finally, after over three months, Kapou’e and his exhausted but hardene
 msgstr ""
 
 #. [message]: speaker=Kapou'e
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/16_The_Coward.cfg:200
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/16_The_Coward.cfg:222
 msgid "Good morning, Shan Taum!"
 msgstr ""
 
 #. [message]: speaker=Shan Taum
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/16_The_Coward.cfg:207
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/16_The_Coward.cfg:229
 msgid "What... Kapou’e! What in the frozen Northlands are you doing here?!"
 msgstr ""
 
 #. [message]: speaker=Kapou'e
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/16_The_Coward.cfg:212
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/16_The_Coward.cfg:234
 msgid "Oh, I just thought I would take a bracing winter stroll and visit my father’s old friend. How could I not, given his impressive list of recent accomplishments."
 msgstr ""
 
 #. [message]: speaker=Shan Taum
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/16_The_Coward.cfg:218
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/16_The_Coward.cfg:240
 msgid "Accomplishments?"
 msgstr ""
 
 #. [message]: speaker=Kapou'e
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/16_The_Coward.cfg:223
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/16_The_Coward.cfg:245
 msgid "Well let’s see, first he betrays the trust of his sworn sovereign and becomes no less than a boot-licking spy for the humans. Then he goes on to engineer the death of half of the Great Council and in doing so makes himself directly responsible for the deaths of hundreds of orcs. And best of all, he is directly responsible for a bloody civil war right at the time when his people are on the edge of total extermination!"
 msgstr ""
 
 #. [message]: speaker=Shan Taum
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/16_The_Coward.cfg:229
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/16_The_Coward.cfg:251
 msgid "LIES! THESE ARE ALL LIES!"
 msgstr ""
 
 #. [message]: speaker=Kapou'e
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/16_The_Coward.cfg:234
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/16_The_Coward.cfg:256
 msgid "Tell you what, you ungrateful backstabbing traitor, if you surrender right now I will just cut off your head instead of torturing you to death."
 msgstr ""
 
 #. [message]: speaker=Shan Taum
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/16_The_Coward.cfg:240
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/16_The_Coward.cfg:262
 msgid "How dare you accuse me of being a traitor, you turdlicker!"
 msgstr ""
 
 #. [message]: speaker=Kapou'e
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/16_The_Coward.cfg:245
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/16_The_Coward.cfg:267
 msgid "Right... So what will it be, beheading or torture?"
 msgstr ""
 
 #. [message]: speaker=Shan Taum
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/16_The_Coward.cfg:252
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/16_The_Coward.cfg:274
 msgid "Orga, kill this kid for me. I’ll be in my keep."
 msgstr ""
 
 #. [message]: speaker=Orga
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/16_The_Coward.cfg:258
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/16_The_Coward.cfg:280
 msgid "Yes, sir!"
 msgstr ""
 
 #. [message]: speaker=Kapou'e
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/16_The_Coward.cfg:274
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/16_The_Coward.cfg:296
 msgid "What! Fight like an orc, you gutless coward!"
 msgstr ""
 
 #. [message]: role=Helper
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/16_The_Coward.cfg:291
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/16_The_Coward.cfg:313
 msgid "Hey Chief, it’s pretty odd. Shan Taum doesn’t seem to have too many of his men around. He was given control of half the Great Horde. Do you think they left him?"
 msgstr ""
 
 #. [message]: speaker=Kapou'e
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/16_The_Coward.cfg:296
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/16_The_Coward.cfg:318
 msgid "I doubt it. Shan Taum knows how to dissemble. I’ll bet he sent them out like we did to clobber the other tribes to his rule. In any case, it will be convenient for us."
 msgstr ""
 
 #. [message]: speaker=Orga
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/16_The_Coward.cfg:309
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/16_The_Coward.cfg:331
 msgid "Hey Shan Taum, where's my protection?! This upstart is already on my doorstep!"
 msgstr ""
 
 #. [message]: speaker=Kapou'e
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/16_The_Coward.cfg:329
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/16_The_Coward.cfg:351
 msgid "Good, we crushed this pocket of resistance too. Now where in the world did that coward Shan Taum run off to?"
 msgstr ""
 
@@ -2378,7 +2426,7 @@ msgstr ""
 #. [unit]: type=General, id=Howgarth III
 #. [side]: type=General, id=Howgarth III
 #: Son_Of_The_Black_Eye_Easy_Edition/scenarios/17_The_Human_Attack.cfg:462
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/18_Northern_Alliance.cfg:206
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/18_Northern_Alliance.cfg:211
 msgid "Howgarth III"
 msgstr ""
 
@@ -2680,142 +2728,142 @@ msgid "Death of Howgarth III"
 msgstr ""
 
 #. [part]
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/18_Northern_Alliance.cfg:236
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/18_Northern_Alliance.cfg:241
 msgid "Kapou’e agreed to meet Howgarth III. Not trusting the human however, Kapou’e brought along Grüü, as well as one of his most trusted soldiers. Earl Lanbec’h flatly refused to attend the parley."
 msgstr ""
 
 #. [part]
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/18_Northern_Alliance.cfg:242
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/18_Northern_Alliance.cfg:247
 msgid "The human attack having stopped for the time being, both parties met in the middle of the battlefield. Howgarth III demanded that Kapou’e give Dorest back to the humans and return to their lands as defined in the treaty. Kapou’e refused to do so as long as the humans were attacking orcish lands. He demanded that the humans disperse their forces and return any land they had stolen from the orcs. Only then would he return Dorest and disperse the Horde."
 msgstr ""
 
 #. [part]
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/18_Northern_Alliance.cfg:248
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/18_Northern_Alliance.cfg:253
 msgid "Howgarth III agreed and further added that, if Earl Lanbec’h continued in aggression, then under the dictates of the Northern Alliance, he himself would be forced to move against the Earl."
 msgstr ""
 
 #. [part]
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/18_Northern_Alliance.cfg:254
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/18_Northern_Alliance.cfg:259
 msgid "That having been settled, Kapou’e began to inquire about the death of his father. Howgarth III repeated his story, that the last thing they heard from Black-Eye Karun was the message declining their invitation to join the Northern Alliance, brought by none other than Shan Taum himself."
 msgstr ""
 
 #. [part]
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/18_Northern_Alliance.cfg:260
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/18_Northern_Alliance.cfg:265
 msgid "As they were discussing the matter, a group of orcs charged from the surrounding trees and hills and surrounded the parley."
 msgstr ""
 
 #. [message]: speaker=Shan Taum
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/18_Northern_Alliance.cfg:531
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/18_Northern_Alliance.cfg:536
 msgid "Now now now, what do we have here. Collaborating with the enemy again just like your disgusting father, are you?"
 msgstr ""
 
 #. [message]: speaker=Kapou'e
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/18_Northern_Alliance.cfg:537
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/18_Northern_Alliance.cfg:542
 msgid "Collaborating with the humans, pfff. You’re one to talk. What are you doing here, Shan Taum?"
 msgstr ""
 
 #. [message]: speaker=Shan Taum
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/18_Northern_Alliance.cfg:542
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/18_Northern_Alliance.cfg:547
 msgid "I am here to do to you what I did to your father."
 msgstr ""
 
 #. [message]: speaker=Kapou'e
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/18_Northern_Alliance.cfg:547
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/18_Northern_Alliance.cfg:552
 msgid "So you did kill my father then."
 msgstr ""
 
 #. [message]: speaker=Howgarth III
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/18_Northern_Alliance.cfg:552
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/18_Northern_Alliance.cfg:557
 msgid "What did I tell you, Kapou’e?"
 msgstr ""
 
 #. [message]: speaker=Earl Lanbec'h
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/18_Northern_Alliance.cfg:558
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/18_Northern_Alliance.cfg:563
 msgid "Ha ha! Good work Shan Taum. That will teach them. Attack, boys, I want Dorest recaptured by sunset."
 msgstr ""
 
 #. [message]: speaker=Howgarth III
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/18_Northern_Alliance.cfg:563
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/18_Northern_Alliance.cfg:568
 msgid "Hold, Earl Lanbec’h. I have reached an agreement with these orcs. Since your army has been the aggressor, you must immediately disperse your army and withdraw from orcish territory. Once that is done then Kapou’e will give you back Dorest and call off the horde. I have had dealings with Kapou’e’s father before and I believe his blood will be trustworthy. And if that isn’t enough, then we are here to protect you in case he violates the pact."
 msgstr ""
 
 #. [message]: speaker=Earl Lanbec'h
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/18_Northern_Alliance.cfg:569
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/18_Northern_Alliance.cfg:574
 msgid "You and your damned compromises can go to hell. Your beloved Kapou’e will be joining you shortly."
 msgstr ""
 
 #. [message]: speaker=Howgarth III
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/18_Northern_Alliance.cfg:574
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/18_Northern_Alliance.cfg:579
 msgid "You leave us no choice but to take military action against you."
 msgstr ""
 
 #. [message]: speaker=Earl Lanbec'h
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/18_Northern_Alliance.cfg:580
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/18_Northern_Alliance.cfg:585
 msgid "Ha ha! Very funny, Howgarth. Look around you. You are going to be dead as soon as my orc friend here gives the order. And then your men will automatically assume that Kapou’e tricked and killed you."
 msgstr ""
 
 #. [message]: speaker=Howgarth III
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/18_Northern_Alliance.cfg:585
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/18_Northern_Alliance.cfg:590
 msgid "Not today, my friend. (<i>Whistles</i>)"
 msgstr ""
 
 #. [message]: speaker=Howgarth III
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/18_Northern_Alliance.cfg:693
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/18_Northern_Alliance.cfg:698
 msgid "Kapou’e, it is essential that I make it back to my camp to bring news of our agreement and this treachery. One of my gryphon riders will take me. My bodyguards and the rest of my gryphons will help you fight free of this ambush. Once you get back to your camp, we will make a joint assault on these traitors. Once they are dead and dispersed, then I trust you will carry out our agreement."
 msgstr ""
 
 #. [message]: speaker=Kapou'e
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/18_Northern_Alliance.cfg:698
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/18_Northern_Alliance.cfg:703
 msgid "Agreed. Let’s get to it. BLOOD AND STEEL!"
 msgstr ""
 
 #. [message]: speaker=Shan Taum
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/18_Northern_Alliance.cfg:722
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/18_Northern_Alliance.cfg:727
 msgid "Blast! The human has escaped. Orcs, bring me Kapou’e’s head. I must get to my camp and assault the city."
 msgstr ""
 
 #. [message]: speaker=Grüü
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/18_Northern_Alliance.cfg:751
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/18_Northern_Alliance.cfg:756
 msgid "Shan Taum big coward. Never want to fight."
 msgstr ""
 
 #. [message]: speaker=second_unit
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/18_Northern_Alliance.cfg:806
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/18_Northern_Alliance.cfg:811
 msgid "Yeah, we finally got the coward."
 msgstr ""
 
 #. [message]: speaker=second_unit
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/18_Northern_Alliance.cfg:812
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/18_Northern_Alliance.cfg:817
 msgid "Yeah, we finally got the coward. What do you want us to do with him, Chief?"
 msgstr ""
 
 #. [message]: speaker=Kapou'e
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/18_Northern_Alliance.cfg:821
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/18_Northern_Alliance.cfg:826
 msgid "Blood and steel! The traitor was mine!"
 msgstr ""
 
 #. [message]: speaker=Howgarth III
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/18_Northern_Alliance.cfg:827
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/18_Northern_Alliance.cfg:832
 msgid "I’m sorry, Kapou’e. I’ll have my men leave what remains of him to you."
 msgstr ""
 
 #. [message]
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/18_Northern_Alliance.cfg:833
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/18_Northern_Alliance.cfg:838
 msgid "What do you want us to do with him, Chief?"
 msgstr ""
 
 #. [message]: speaker=Kapou'e
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/18_Northern_Alliance.cfg:840
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/18_Northern_Alliance.cfg:845
 msgid "Stick his head at the end of a pike and let the buzzards pick it clean. I wasn’t joking about making a mug from his skull."
 msgstr ""
 
 #. [message]: speaker=Kapou'e
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/18_Northern_Alliance.cfg:853
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/18_Northern_Alliance.cfg:858
 msgid "No! Without him the Northern Alliance will continue to fall apart."
 msgstr ""
 
 #. [message]: speaker=Grüü
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/18_Northern_Alliance.cfg:866
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/18_Northern_Alliance.cfg:871
 msgid "YEAH!"
 msgstr ""
 
@@ -2840,192 +2888,319 @@ msgid "Kwili"
 msgstr ""
 
 #. [side]: type=Dwarvish Lord, type=Dwarvish Steelclad, id=Kwili
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/03_Toward_Mountains_of_Haag.cfg:103
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/03_Toward_Mountains_of_Haag.cfg:105
 msgid "Dwarves"
 msgstr ""
 
 #. [message]: speaker=Kapou'e
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/03_Toward_Mountains_of_Haag.cfg:149
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/03_Toward_Mountains_of_Haag.cfg:156
 msgid "We have almost crossed the mountains. We’re close to the lands of the free tribes. So far so good."
 msgstr ""
 
 #. [message]: speaker=Kwili
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/03_Toward_Mountains_of_Haag.cfg:153
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/03_Toward_Mountains_of_Haag.cfg:160
 msgid "Halt! Who goes there?"
 msgstr ""
 
 #. [message]: speaker=Kapou'e
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/03_Toward_Mountains_of_Haag.cfg:158
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/03_Toward_Mountains_of_Haag.cfg:165
 msgid "It is I, Kapou’e, son of the Black-Eye Karun. What do you want, dwarf?"
 msgstr ""
 
 #. [message]: speaker=Kwili
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/03_Toward_Mountains_of_Haag.cfg:164
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/03_Toward_Mountains_of_Haag.cfg:171
 msgid "Oh, so it’s another group o’ stinkin’ orcs, eh. Begone, or we shall wash our axes in yer blood."
 msgstr ""
 
 #. [message]: speaker=Kapou'e
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/03_Toward_Mountains_of_Haag.cfg:169
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/03_Toward_Mountains_of_Haag.cfg:176
 msgid "Look, you pint-sized idiot, we aren’t out to kill you so why don’t you just scamper away and hide in a cave or something. We’ll be through here in a few hours."
 msgstr ""
 
 #. [message]: role=Helper
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/03_Toward_Mountains_of_Haag.cfg:174
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/03_Toward_Mountains_of_Haag.cfg:181
 msgid "(<i>Snicker</i>)"
 msgstr ""
 
 #. [message]: speaker=Kwili
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/03_Toward_Mountains_of_Haag.cfg:179
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/03_Toward_Mountains_of_Haag.cfg:186
 msgid "Your scorn and rudeness shall be your undoing. Dwarves, let no orc pass this way alive!"
 msgstr ""
 
 #. [message]: speaker=Kapou'e
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/03_Toward_Mountains_of_Haag.cfg:184
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/03_Toward_Mountains_of_Haag.cfg:191
 msgid "It looks like we might have to fight them after all."
 msgstr ""
 
 #. [message]: role=Helper
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/03_Toward_Mountains_of_Haag.cfg:189
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/03_Toward_Mountains_of_Haag.cfg:196
 msgid "Hey, Chief, I was thinking — dwarves are pretty slow; why don’t we just bypass them?"
 msgstr ""
 
 #. [message]: role=Helper
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/03_Toward_Mountains_of_Haag.cfg:194
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/03_Toward_Mountains_of_Haag.cfg:201
 msgid "I mean, we could defeat them easily but it would just slow us down."
 msgstr ""
 
 #. [message]: speaker=Kapou'e
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/03_Toward_Mountains_of_Haag.cfg:199
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/03_Toward_Mountains_of_Haag.cfg:207
 msgid "We could, but then again, if we crush them then we can loot their treasury and their dwellings. The gold will be useful."
 msgstr ""
 
 #. [message]: speaker=Kapou'e
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/03_Toward_Mountains_of_Haag.cfg:204
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/03_Toward_Mountains_of_Haag.cfg:212
 msgid "Whatever else happens, we have to pass through these mountains and I dislike leaving enemies in our rear. Stab, smite, and slay!"
 msgstr ""
 
 #. [message]: speaker=unit
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/03_Toward_Mountains_of_Haag.cfg:220
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/03_Toward_Mountains_of_Haag.cfg:228
 msgid "I’ve never pushed so far. We are crossing the border of the Black-Eye lands."
 msgstr ""
 
+#. [message]: speaker=unit
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/03_Toward_Mountains_of_Haag.cfg:264
+msgid "Blood and steel! This is orcish land, dwarves! Be glad I am merely looting the land you have stolen from us!"
+msgstr ""
+
+#. [message]: speaker=unit
+#. Orcish Archer portrait has a wide grin on its face; he looks like he's thoroughly enjoying this:
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/03_Toward_Mountains_of_Haag.cfg:272
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/03_Toward_Mountains_of_Haag.cfg:371
+msgid "Ahahaha, time for your shakedown, dwarves!"
+msgstr ""
+
+#. [message]: speaker=unit
+#. The expression on the Orcish Crossbowman's face in his portrait looks like more of a sneer; he is looking down on the dwarves:
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/03_Toward_Mountains_of_Haag.cfg:280
+msgid "Puny dwarves, you're going to give me some gold now!"
+msgstr ""
+
+#. [message]: speaker=unit
+#. Facial expression of Orcish Slurbow is more calm:
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/03_Toward_Mountains_of_Haag.cfg:288
+msgid "It is time for your shakedown, dwarves."
+msgstr ""
+
+#. [message]: speaker=unit
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/03_Toward_Mountains_of_Haag.cfg:295
+msgid "Muahaha, time for your shakedown, dwarf runts!"
+msgstr ""
+
+#. [message]: speaker=unit
+#. this is a bloodcurdling scream:
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/03_Toward_Mountains_of_Haag.cfg:303
+msgid "GRAAAAAHHHH! It's time for your shakedown, dwarf weaklings!"
+msgstr ""
+
+#. [message]: speaker=unit
+#. said in a threatening but serious manner:
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/03_Toward_Mountains_of_Haag.cfg:311
+msgid "It is time for you to part with your gold now, you pitiful, insignificant dwarves."
+msgstr ""
+
+#. [message]: speaker=unit
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/03_Toward_Mountains_of_Haag.cfg:319
+msgid "Bweeheehee, time for me to take your gold shinies, dwarves!"
+msgstr ""
+
+#. [message]: speaker=unit
+#. since he's a "rouser" and has leadership, make this sound more like a line from an inspiring speech:
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/03_Toward_Mountains_of_Haag.cfg:327
+msgid "Arise, goblins! Today we take back what is ours from the dwarves!"
+msgstr ""
+
+#. [message]: speaker=unit
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/03_Toward_Mountains_of_Haag.cfg:335
+msgid "Ruarrrgghh! It's time for your shakedown, dwarves! That is, unless you'd rather be food for my wolf!"
+msgstr ""
+
+#. [message]: speaker=unit
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/03_Toward_Mountains_of_Haag.cfg:343
+msgid "Bwaarrrgghh! Halt! It's time for your shakedown, dwarves!"
+msgstr ""
+
+#. [message]: speaker=unit
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/03_Toward_Mountains_of_Haag.cfg:351
+msgid "Ruarrrgghh! It's time for your shakedown, dwarves! That is, unless you'd rather be food for my direwolf!"
+msgstr ""
+
+#. [message]: speaker=unit
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/03_Toward_Mountains_of_Haag.cfg:358
+msgid "Heh, heh... pillage...! PILLAGE!"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/03_Toward_Mountains_of_Haag.cfg:366
+msgid "warning: unhandled unit.type $unit.type"
+msgstr ""
+
+#. [message]
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/03_Toward_Mountains_of_Haag.cfg:378
+msgid "Dwarven Villagers"
+msgstr ""
+
+#. [message]
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/03_Toward_Mountains_of_Haag.cfg:381
+msgid "Aieee!"
+msgstr ""
+
+#. [message]: speaker=unit
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/03_Toward_Mountains_of_Haag.cfg:420
+msgid "Brrr... no dwarves to extort here, just snow..."
+msgstr ""
+
+#. [message]: speaker=unit
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/03_Toward_Mountains_of_Haag.cfg:431
+msgid "That's right, there'd BETTER not be any dwarves here! This is an orcish village!"
+msgstr ""
+
+#. [message]: speaker=unit
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/03_Toward_Mountains_of_Haag.cfg:443
+msgid "Huh, that's strange, there's no dwarves here... you'd think there would be..."
+msgstr ""
+
+#. [message]: speaker=unit
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/03_Toward_Mountains_of_Haag.cfg:450
+msgid "Hm, no dwarves to extort here... oh well."
+msgstr ""
+
+#. [message]: speaker=unit
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/03_Toward_Mountains_of_Haag.cfg:471
+msgid "We should probably let the trolls have a few of their own villages."
+msgstr ""
+
+#. [message]: speaker=Grüü
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/03_Toward_Mountains_of_Haag.cfg:475
+msgid "It ok, it not like we was using it anyways."
+msgstr ""
+
+#. [message]: speaker=unit
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/03_Toward_Mountains_of_Haag.cfg:487
+msgid "Wait a minute... this is one of our own villages. Why does this count as a \\"
+msgstr ""
+
+#. [message]: speaker=unit
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/03_Toward_Mountains_of_Haag.cfg:495
+msgid "What the heck is up with this village?!"
+msgstr ""
+
 #. [unit]: id=Blemaker, type=Troll Warrior
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/03_Toward_Mountains_of_Haag.cfg:239
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/03_Toward_Mountains_of_Haag.cfg:518
 msgid "Blemaker"
 msgstr ""
 
 #. [unit]: id=Grüü, type=Troll Hero
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/03_Toward_Mountains_of_Haag.cfg:248
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/03_Toward_Mountains_of_Haag.cfg:527
 msgid "Grüü"
 msgstr ""
 
 #. [unit]: id=Toughkon, type=Troll Whelp
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/03_Toward_Mountains_of_Haag.cfg:271
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/03_Toward_Mountains_of_Haag.cfg:550
 msgid "Toughkon"
 msgstr ""
 
 #. [unit]: id=Pe, type=Troll Whelp
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/03_Toward_Mountains_of_Haag.cfg:280
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/03_Toward_Mountains_of_Haag.cfg:559
 msgid "Pe"
 msgstr ""
 
 #. [message]: speaker=Blemaker
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/03_Toward_Mountains_of_Haag.cfg:292
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/03_Toward_Mountains_of_Haag.cfg:571
 msgid "Look! Dwarves are fighting orcs!"
 msgstr ""
 
 #. [message]: speaker=Grüü
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/03_Toward_Mountains_of_Haag.cfg:296
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/03_Toward_Mountains_of_Haag.cfg:575
 msgid "Father, we should help them. Orcs are our allies."
 msgstr ""
 
 #. [message]: speaker=Blemaker
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/03_Toward_Mountains_of_Haag.cfg:300
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/03_Toward_Mountains_of_Haag.cfg:579
 msgid "I don’t know. Orcs have been our allies in the past, but they treat us as fools."
 msgstr ""
 
 #. [message]: speaker=Grüü
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/03_Toward_Mountains_of_Haag.cfg:304
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/03_Toward_Mountains_of_Haag.cfg:583
 msgid "But, Father, we don’t know what they are seeking there. Between us, we could squash these dwarves."
 msgstr ""
 
 #. [message]: speaker=Blemaker
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/03_Toward_Mountains_of_Haag.cfg:308
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/03_Toward_Mountains_of_Haag.cfg:587
 msgid "Right, my son. We help our orcish friends. But you take care... I would be desperate if something happened to you."
 msgstr ""
 
 #. [message]: speaker=Grüü
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/03_Toward_Mountains_of_Haag.cfg:322
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/03_Toward_Mountains_of_Haag.cfg:601
 msgid "Father! Oh no!"
 msgstr ""
 
 #. [message]: speaker=Grüü
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/03_Toward_Mountains_of_Haag.cfg:326
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/03_Toward_Mountains_of_Haag.cfg:605
 msgid "Filthy dwarves! Now I’ll kill you to the last!"
 msgstr ""
 
 #. [message]: speaker=unit
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/03_Toward_Mountains_of_Haag.cfg:337
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/03_Toward_Mountains_of_Haag.cfg:616
 msgid "Oh no, I’m defeated."
 msgstr ""
 
 #. [message]: speaker=Blemaker
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/03_Toward_Mountains_of_Haag.cfg:346
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/03_Toward_Mountains_of_Haag.cfg:625
 msgid "My son! I should have never brought him to this fight. Now we return to our caverns, and we never return."
 msgstr ""
 
 #. [message]: speaker=Kapou'e
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/03_Toward_Mountains_of_Haag.cfg:352
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/03_Toward_Mountains_of_Haag.cfg:631
 msgid "The trolls are done. We will desperately need their help in the coming battles. Without them there is no hope."
 msgstr ""
 
 #. [message]: speaker=unit
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/03_Toward_Mountains_of_Haag.cfg:369
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/03_Toward_Mountains_of_Haag.cfg:648
 msgid "Argh! I die!"
 msgstr ""
 
 #. [message]: speaker=Kapou'e
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/03_Toward_Mountains_of_Haag.cfg:374
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/03_Toward_Mountains_of_Haag.cfg:653
 msgid "You were warned, dwarf. Riders, spread out of the area and collect what you can from each of these houses. If anyone refuses to pay, tie them up and take it anyway. Let them know that they live only on my good graces. I’ll take the army to Barag Gór. Catch up when you’re done."
 msgstr ""
 
 #. [message]: role=doggie
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/03_Toward_Mountains_of_Haag.cfg:384
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/03_Toward_Mountains_of_Haag.cfg:665
 msgid "Sounds like fun. All right boys, let’s go!"
 msgstr ""
 
 #. [message]: speaker=Kapou'e
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/03_Toward_Mountains_of_Haag.cfg:409
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/03_Toward_Mountains_of_Haag.cfg:704
 msgid "We’ve succeeded! We’ve passed through the Mountains of Haag! Look at these green hills! The land of the free tribes is near now. I can see the walls of Barag Gór in the distance."
 msgstr ""
 
 #. [message]: speaker=Kapou'e
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/03_Toward_Mountains_of_Haag.cfg:429
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/03_Toward_Mountains_of_Haag.cfg:724
 msgid "Blemaker, many thanks for your help in this fight. Would you like to join us in our journey with your son? You are a powerful warrior, and you would be of great help."
 msgstr ""
 
 #. [message]: speaker=Grüü
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/03_Toward_Mountains_of_Haag.cfg:434
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/03_Toward_Mountains_of_Haag.cfg:729
 msgid "Father, I’d like to join them. Would you mind it?"
 msgstr ""
 
 #. [message]: speaker=Blemaker
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/03_Toward_Mountains_of_Haag.cfg:438
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/03_Toward_Mountains_of_Haag.cfg:733
 msgid "My son, you’re old enough to discover the world. Me, I have to stay here. But take care, there are plenty of creatures that seek our end, like elves or humans. They are clever and merciless."
 msgstr ""
 
 #. [message]: speaker=Grüü
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/03_Toward_Mountains_of_Haag.cfg:442
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/03_Toward_Mountains_of_Haag.cfg:737
 msgid "Thanks, father. Don’t worry, I’ll take care of myself."
 msgstr ""
 
 #. [message]: speaker=Kapou'e
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/03_Toward_Mountains_of_Haag.cfg:448
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/03_Toward_Mountains_of_Haag.cfg:743
 msgid "Grüü, many thanks for your help in this fight. I’m sorry for the loss of your father. Would you like to join us in our journey? Your help would be useful to me."
 msgstr ""
 
 #. [message]: speaker=Grüü
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/03_Toward_Mountains_of_Haag.cfg:452
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/03_Toward_Mountains_of_Haag.cfg:747
 msgid "My father would have come to help you. I would insult his memory not to help you. I come!"
 msgstr ""
 
@@ -3147,28 +3322,48 @@ msgid "Done."
 msgstr ""
 
 #. [message]: role=Helper
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/02_The_Human_Army.cfg:267
-msgid "Chief, we have all our people ready to go. Come on, this way. We managed to gather the last of the gold from the treasury as well."
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/02_The_Human_Army.cfg:279
+msgid "Hey chief, we have all our people ready to go. Come on, this way. We managed to gather the last of the gold from the treasury as well."
 msgstr ""
 
 #. [message]: speaker=Kapou'e
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/02_The_Human_Army.cfg:277
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/02_The_Human_Army.cfg:289
 msgid "Took you long enough. Let’s go!"
 msgstr ""
 
 #. [message]: speaker=Kapou'e
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/02_The_Human_Army.cfg:321
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/02_The_Human_Army.cfg:333
 msgid "We’ll be back, you foul mud-sucking humans!"
 msgstr ""
 
 #. [message]: speaker=Lanbec'h
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/02_The_Human_Army.cfg:326
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/02_The_Human_Army.cfg:338
 msgid "That’s right, flee, you cowardly orcs! This land is mine!"
 msgstr ""
 
 #. [message]: speaker=Kapou'e
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/02_The_Human_Army.cfg:331
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/02_The_Human_Army.cfg:343
 msgid "In your dreams, worm. When the time comes you will pay for all this with your life!"
+msgstr ""
+
+#. [message]: speaker=Lanbec'h
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/02_The_Human_Army.cfg:366
+msgid "What?! This wasn't supposed to happen! I need a guard here!"
+msgstr ""
+
+#. [message]: speaker=Lanbec'h
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/02_The_Human_Army.cfg:390
+msgid "What, me, beaten by a filthy orc?! Impossible, you cannot defeat me!"
+msgstr ""
+
+#. [message]: speaker=second_unit
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/02_The_Human_Army.cfg:405
+msgid "He healed himself! I think this might be time for us to make our exit, Kapou'e."
+msgstr ""
+
+#. [message]: speaker=Kapou'e
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/02_The_Human_Army.cfg:410
+msgid "If you say so."
 msgstr ""
 
 #. [scenario]: id=13_The_Dwarvish_Stand
@@ -3177,127 +3372,127 @@ msgid "The Dwarvish Stand"
 msgstr ""
 
 #. [side]: type=Bandit, id=Sagmar
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/13_The_Dwarvish_Stand.cfg:99
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/13_The_Dwarvish_Stand.cfg:101
 msgid "Sagmar"
 msgstr ""
 
 #. [part]
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/13_The_Dwarvish_Stand.cfg:111
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/13_The_Dwarvish_Stand.cfg:113
 msgid "After conquering and occupying Dorest, Kapou’e and his men set themselves to stabilizing the area and bringing it firmly under the iron-hard orcish rule."
 msgstr ""
 
 #. [part]
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/13_The_Dwarvish_Stand.cfg:117
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/13_The_Dwarvish_Stand.cfg:119
 msgid "After a few weeks of putting down minor rebellions and clearing out the last human strongholds, the first snows of the long northern winter began to fall. A few days after the first snowfall a goblin rider — half dead from exhaustion — raced into Dorest with the news that Borstep was under siege by a large force of dwarves, outlaws and elves."
 msgstr ""
 
 #. [part]
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/13_The_Dwarvish_Stand.cfg:123
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/13_The_Dwarvish_Stand.cfg:125
 msgid "The orcish commanders were stunned. How had such a large enemy force penetrated so deep and so far into orcish territory, especially without their knowledge? How also had their enemies known to strike at Borstep, which was the rally point for orcish forces as well as their main arms and supply depot?"
 msgstr ""
 
 #. [part]
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/13_The_Dwarvish_Stand.cfg:129
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/13_The_Dwarvish_Stand.cfg:131
 msgid "Kapou’e suspected some sort of treachery. Under the assumption that human attacks would be minimal due to the harsh weather, he left only a small force to defend Dorest while he and the main horde of orcs sped to the aid of Borstep."
 msgstr ""
 
 #. [part]
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/13_The_Dwarvish_Stand.cfg:135
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/13_The_Dwarvish_Stand.cfg:137
 msgid "Rushing to reach Borstep before the river froze up for the winter, the orcs sailed up the River Bork. Paddling day and night the horde barely managed to get through the Silent Forest before the river froze solid. Beaching their crafts, they marched the last leg of their journey through the deepening snow of the Mourned Hills."
 msgstr ""
 
 #. [part]
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/13_The_Dwarvish_Stand.cfg:141
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/13_The_Dwarvish_Stand.cfg:143
 msgid "As they crested the last hill before the city, the sight before them cast them into gloom; there was nothing left of Borstep. The walls had been smashed, houses burnt and its inhabitants driven out or slaughtered. Of the orcish shamans there was no sign."
 msgstr ""
 
 #. [part]
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/13_The_Dwarvish_Stand.cfg:147
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/13_The_Dwarvish_Stand.cfg:149
 msgid "With eyes burning with apprehension and rage, Kapou’e sent his riders out to scour the land in all directions for the culprits while he made camp with the rest of the horde. A few hours later a rider reported back that he had picked up a trail of a large body of dwarves, elves and humans heading east through the mountains."
 msgstr ""
 
 #. [part]
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/13_The_Dwarvish_Stand.cfg:153
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/13_The_Dwarvish_Stand.cfg:155
 msgid "Breaking camp the following dusk, the horde set out in hot pursuit. By the third day, they caught up with their enemies."
 msgstr ""
 
 #. [event]
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/13_The_Dwarvish_Stand.cfg:203
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/13_The_Dwarvish_Stand.cfg:205
 msgid "Pelondras"
 msgstr ""
 
 #. [event]
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/13_The_Dwarvish_Stand.cfg:204
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/13_The_Dwarvish_Stand.cfg:206
 msgid "Trithalsul"
 msgstr ""
 
 #. [message]: speaker=Darstang
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/13_The_Dwarvish_Stand.cfg:208
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/13_The_Dwarvish_Stand.cfg:210
 msgid "My my, look at this, two abandoned keeps. Probably built by those orcs in one of their pointless wars against each other."
 msgstr ""
 
 #. [message]: speaker=Thelarion
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/13_The_Dwarvish_Stand.cfg:258
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/13_The_Dwarvish_Stand.cfg:260
 msgid "Blast it, the orcs have caught up to us."
 msgstr ""
 
 #. [message]: speaker=Darstang
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/13_The_Dwarvish_Stand.cfg:263
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/13_The_Dwarvish_Stand.cfg:265
 msgid "Elf, our kind can move and fight far better and faster in these conditions than your kind can. Take the orcish prisoners and hurry to Melmog. The dwarves shall stop this orcish menace!"
 msgstr ""
 
 #. [message]: speaker=Thelarion
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/13_The_Dwarvish_Stand.cfg:268
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/13_The_Dwarvish_Stand.cfg:270
 msgid "Very well, but our human allies will also stay behind and help you. After all, we are dealing with the Son of the Black-Eye here."
 msgstr ""
 
 #. [message]: speaker=Darstang
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/13_The_Dwarvish_Stand.cfg:273
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/13_The_Dwarvish_Stand.cfg:275
 msgid "Bah, have it your way then. Now, hurry on your way elf."
 msgstr ""
 
 #. [message]: speaker=Darstang
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/13_The_Dwarvish_Stand.cfg:289
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/13_The_Dwarvish_Stand.cfg:291
 msgid "Bah, cowardly little elves. No dwarf would have ever agreed to such a proposal. Good riddance too, those elves just get in the way. Come on men, it’s time to show those orcs our steel!"
 msgstr ""
 
 #. [message]: speaker=Grüü
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/13_The_Dwarvish_Stand.cfg:295
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/13_The_Dwarvish_Stand.cfg:297
 msgid "Ahhh, nice. I finally get chance to squash dwarves again."
 msgstr ""
 
 #. [message]: speaker=Kapou'e
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/13_The_Dwarvish_Stand.cfg:301
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/13_The_Dwarvish_Stand.cfg:303
 msgid "Let’s make them pay for what they did to our people. Blood and steel!"
 msgstr ""
 
 #. [unit]: type=Yeti, id=Yeti
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/13_The_Dwarvish_Stand.cfg:310
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/13_The_Dwarvish_Stand.cfg:312
 msgid "Yeti"
 msgstr ""
 
 #. [message]: speaker=Yeti
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/13_The_Dwarvish_Stand.cfg:329
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/13_The_Dwarvish_Stand.cfg:331
 msgid "ROAR!"
 msgstr ""
 
 #. [message]: speaker=Grüü
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/13_The_Dwarvish_Stand.cfg:334
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/13_The_Dwarvish_Stand.cfg:336
 msgid "It look like Yeti want to squash dwarves, too!"
 msgstr ""
 
 #. [message]: speaker=Kapou'e
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/13_The_Dwarvish_Stand.cfg:339
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/13_The_Dwarvish_Stand.cfg:341
 msgid "Welcome to the Great Horde, sir Yeti!"
 msgstr ""
 
 #. [message]: speaker=Kapou'e
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/13_The_Dwarvish_Stand.cfg:349
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/13_The_Dwarvish_Stand.cfg:351
 msgid "Victory! ... Grüü, what <i>is</i> that you are eating?"
 msgstr ""
 
 #. [message]: speaker=Grüü
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/13_The_Dwarvish_Stand.cfg:354
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/13_The_Dwarvish_Stand.cfg:356
 msgid "A human-worm’s dog. Animal meat very tasty. When we fight humans again, can I have a pony?"
 msgstr ""
 
@@ -3619,22 +3814,27 @@ msgid "(Formerly Expert level, edited to be easier, 18 scenarios.)"
 msgstr ""
 
 #. [about]
-#: Son_Of_The_Black_Eye_Easy_Edition/_main.cfg:31
+#: Son_Of_The_Black_Eye_Easy_Edition/_main.cfg:33
 msgid "Campaign Design"
 msgstr ""
 
 #. [about]
-#: Son_Of_The_Black_Eye_Easy_Edition/_main.cfg:46
+#: Son_Of_The_Black_Eye_Easy_Edition/_main.cfg:48
 msgid "Campaign Maintenance"
 msgstr ""
 
 #. [about]
-#: Son_Of_The_Black_Eye_Easy_Edition/_main.cfg:60
+#: Son_Of_The_Black_Eye_Easy_Edition/_main.cfg:62
 msgid "Prose, Grammatical and WML Assistance"
 msgstr ""
 
 #. [about]
-#: Son_Of_The_Black_Eye_Easy_Edition/_main.cfg:66
+#: Son_Of_The_Black_Eye_Easy_Edition/_main.cfg:68
 msgid "Artwork and Graphics"
+msgstr ""
+
+#. [about]
+#: Son_Of_The_Black_Eye_Easy_Edition/_main.cfg:83
+msgid "Playtesting"
 msgstr ""
 
