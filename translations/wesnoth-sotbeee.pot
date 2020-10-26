@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2020-10-26 02:29 UTC\n"
+"POT-Creation-Date: 2020-10-26 02:33 UTC\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -3076,7 +3076,7 @@ msgstr ""
 
 #. [message]: speaker=unit
 #: Son_Of_The_Black_Eye_Easy_Edition/scenarios/03_Toward_Mountains_of_Haag.cfg:487
-msgid "Wait a minute... this is one of our own villages. Why does this count as a \\"
+msgid "Wait a minute... this is one of our own villages. Why does this count as a \"capture\"?"
 msgstr ""
 
 #. [message]: speaker=unit
