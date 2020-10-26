@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2020-10-26 02:33 UTC\n"
+"POT-Creation-Date: 2020-10-26 02:38 UTC\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -476,6 +476,12 @@ msgstr ""
 #. [message]: speaker=Grüü
 #: Son_Of_The_Black_Eye_Easy_Edition/scenarios/12_Giving_Some_Back.cfg:259
 msgid "No matter. Horde smash!"
+msgstr ""
+
+#. [message]: speaker=Grüü
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/12_Giving_Some_Back.cfg:268
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/18_Northern_Alliance.cfg:871
+msgid "YEAH!"
 msgstr ""
 
 #. [scenario]: id=14_Back_Home
@@ -2860,11 +2866,6 @@ msgstr ""
 #. [message]: speaker=Kapou'e
 #: Son_Of_The_Black_Eye_Easy_Edition/scenarios/18_Northern_Alliance.cfg:858
 msgid "No! Without him the Northern Alliance will continue to fall apart."
-msgstr ""
-
-#. [message]: speaker=Grüü
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/18_Northern_Alliance.cfg:871
-msgid "YEAH!"
 msgstr ""
 
 #. [scenario]: id=03_Toward_Mountains_of_Haag
