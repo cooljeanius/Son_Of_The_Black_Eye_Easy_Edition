@@ -64,7 +64,7 @@ survive) are harder. Here's a description of my changes so far:
   Thelarion's side persistent didn't actually work. I might go back and try
   the `persistent=yes` method later (instead of the `save_id=` method currently
   in use), but knyghtmare says that that method results in multiple
-  Lanbec'hs...
+  Lanbec'hs back in S11 (Clash of Armies)...
 15 Civil War: started off as mostly just some basic turns/gold tweaks. I have
   also tried to add back the commented-out assassination code. To try to make
   said code actually work, I felt that I'd need a way to give the player a
@@ -88,7 +88,10 @@ survive) are harder. Here's a description of my changes so far:
   Shan Taum more defensive so he'd defend more against Howgarth rather than
   killing your green side of orcish allies, but that didn't really work. I
   mean, it worked in the sense that I saved my allies after I made my edits,
-  but Howgarth still got to Shan Taum before me though.
+  but Howgarth still got to Shan Taum before me though. Note that it's possible
+  to use the AI_CONTROLLER thing to stop Howgarth from getting to Shan Taum
+  before you, but as that is going to be deprecated soon, I want to make sure
+  it works even without it.
 
 Note: this add-on was originally part of my generalized mods collection;
 its history there can be found at: https://github.com/cooljeanius/wesnoth_mods
