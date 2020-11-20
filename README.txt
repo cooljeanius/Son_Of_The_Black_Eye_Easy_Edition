@@ -95,3 +95,4 @@ survive) are harder. Here's a description of my changes so far:
 
 Note: this add-on was originally part of my generalized mods collection;
 its history there can be found at: https://github.com/cooljeanius/wesnoth_mods
+Forum thread here: https://forums.wesnoth.org/viewtopic.php?f=8&t=53597
