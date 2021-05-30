@@ -40,10 +40,12 @@ function ca_transport:execution()
         then
             transport_map:insert(u.x, u.y)
             table.insert(transports, u)
-            --print("----> Inserting " .. u.id, u.x, u.y, u.variables.destination_x, u.variables.destination_y)
+            if (wesnoth.game_config.debug) then
+                print("----> Inserting " .. u.id, u.x, u.y, u.variables.destination_x, u.variables.destination_y)
+            end
         else
             blocked_hex_map:insert(u.x, u.y)
-       end
+        end
     end
 
     -- First see if a transport is within landing distance
