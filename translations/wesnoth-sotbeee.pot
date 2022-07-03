@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2022-07-03 19:24 UTC\n"
+"POT-Creation-Date: 2022-07-03 19:34 UTC\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -49,37 +49,47 @@ msgid "The snowshoes allow movement on frozen terrain."
 msgstr ""
 
 #. [message]: speaker=unit
-#: Son_Of_The_Black_Eye_Easy_Edition/utils/deaths.cfg:17
+#. unit = orcish shaman who is dying:
+#: Son_Of_The_Black_Eye_Easy_Edition/utils/deaths.cfg:18
 msgid "Ouch! This hurts!"
 msgstr ""
 
 #. [message]: speaker=Kapou'e
-#: Son_Of_The_Black_Eye_Easy_Edition/utils/deaths.cfg:21
+#: Son_Of_The_Black_Eye_Easy_Edition/utils/deaths.cfg:22
 msgid "The Council will never be complete again. This is hopeless."
 msgstr ""
 
 #. [message]: speaker=unit
-#: Son_Of_The_Black_Eye_Easy_Edition/utils/deaths.cfg:35
+#. unit = Kapou'e:
+#: Son_Of_The_Black_Eye_Easy_Edition/utils/deaths.cfg:37
 msgid "Argh! I’m done. My people are doomed!"
 msgstr ""
 
 #. [message]: speaker=unit
-#: Son_Of_The_Black_Eye_Easy_Edition/utils/deaths.cfg:49
+#. unit = Grüü:
+#: Son_Of_The_Black_Eye_Easy_Edition/utils/deaths.cfg:52
 msgid "Oh no, I am defeated."
 msgstr ""
 
 #. [message]: speaker=unit
-#: Son_Of_The_Black_Eye_Easy_Edition/utils/deaths.cfg:63
+#. unit = Rugh:
+#: Son_Of_The_Black_Eye_Easy_Edition/utils/deaths.cfg:67
 msgid "No! Barag Gór is lost without me!"
 msgstr ""
 
+#. [message]: speaker=unit
+#. unit = Jetto
+#: Son_Of_The_Black_Eye_Easy_Edition/utils/deaths.cfg:82
+msgid "Assassins, even if I'm dying, go on with our mission!"
+msgstr ""
+
 #. [message]: speaker=Inarix
-#: Son_Of_The_Black_Eye_Easy_Edition/utils/deaths.cfg:85
+#: Son_Of_The_Black_Eye_Easy_Edition/utils/deaths.cfg:104
 msgid "Ahhh!"
 msgstr ""
 
 #. [message]: speaker=Kapou'e
-#: Son_Of_The_Black_Eye_Easy_Edition/utils/deaths.cfg:91
+#: Son_Of_The_Black_Eye_Easy_Edition/utils/deaths.cfg:110
 msgid "Blast it, without Inarix to lead her saurians, we can no longer count on their help."
 msgstr ""
 
