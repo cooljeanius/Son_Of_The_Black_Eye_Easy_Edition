@@ -7,12 +7,17 @@ objectives easier; I've also tried rebalancing so that the optional objectives
 survive) are harder. Here's a description of my changes so far:
 
 01 End of Peace: Just some basic gold tweaks. Probably too easy now, but it's
-  the first scenario, so it ought to be easy IMO.
+  the first scenario, so it ought to be easy IMO. Also Vrag is loyal now.
 02 The Human Army: Just gold tweaks; add some easter eggs for people using
   debug mode to attack Lanbec'h
 03 Toward Mountains of Haag: Started off as just basic gold/turns tweaks, on
   another playthru I decided to add some looting events for capturing dwarven
-  villages, too. The dwarven recruiting instructions here are a WIP.
+  villages, too. The dwarven recruiting instructions here are a WIP. In later
+  versions: add "Over the Northern Mountains" to music playlist (since you are
+  going over the northern mountains), use Dwarvish Woodcutters, add dwarf responses
+  to getting looted, have trolls be slowed when they appear (so they don't get to
+  the dwarves before you do), use LIMIT_CONTEMPORANEOUS_RECRUITS, try to have troll
+  AI protect Grüü better, etc.
 04 The Siege of Barag Gor: OK now here's where things really start to change.
   The defenders of Barag Gor kept dying before I could save them, so I had to
   make them stronger. The shamans wouldn't hit anything whenever they attacked,
@@ -27,7 +32,8 @@ survive) are harder. Here's a description of my changes so far:
   I also added some traits to the shamans. While putting "Aged" on the Old one
   might make things harder, it just made more sense flavor-wise. And the traits
   I put on the other two were positive. I also gave the defenders of Barag Gor
-  2 more archers on Easy. Also the usual gold, income, & turn limit tweaks.
+  2 more archers on Easy. Also the usual gold, income, & turn limit tweaks. In
+  later versions: give Rugh and Jetto traits, AI tweaks
 05 To the Harbor of Tirigaz: apologize for Holy Water being a red herring, also
   gold tweaks.
 06 Black Flag: Here the enemies kept overtaking me before I really had a chance
@@ -44,7 +50,9 @@ survive) are harder. Here's a description of my changes so far:
 09 Shan Taum the Smug: just gold tweaks (at first); I also tried to make
   Shan Taum's side persistent, but then later decided against it. Gave Shan Taum
   some guards if he is attacked (since I'm only trying to make the main objectives
-  easier here, not the bonus objectives), and an income.
+  easier here, not the bonus objectives), and an income. In later versions: add
+  another keep, more gold/income tweaks, modify Shan Taum AI and recruits, give
+  Shan Taum more gold if you try to play too aggressively
 10 Saving Inarix: I made it much easier to save Inarix here. I turned Thelarion
   from an Elvish Champion into an Elvish Hero here, and since he keeps coming
   back in later missions, I made (or at least tried to make) his side
@@ -55,24 +63,38 @@ survive) are harder. Here's a description of my changes so far:
   attacked. On another playthru, I made the guards on the bridge weaker, and gave
   the player a hint as to how to break thru them. I also had Inarix reprimand the
   player if the player forgets to move any saurians on the turn they appear, as
-  I did that once.
+  I did that once. In later versions: make use of Dwarvish Woodcutters, give Plonk
+  an extra trait (on EASY), give Inarix traits, add some delays to the explosion
+  animation
 11 Clash of Armies: I reduced the number of gryphons the dwarves recruit here
   so you don't have to split your attention as much and can focus more easily.
   I also reduced the HP boosts for the transport ships so they can be destroyed
   more easily. On another playthru, I handled the case of the player having an
-  empty recall list when the roles at the start are assigned.
-12 Giving Some Back: basic gold/turns tweaks; also gave orcs starting villages
+  empty recall list when the roles at the start are assigned. In later versions:
+  debug message tweaks, have falcons appear with merfolk on EASY
+12 Giving Some Back: basic gold/turns tweaks; also gave orcs starting villages. In
+  later versions: give Arthain more recruits, try to prevent your allies from
+  killing the enemy leaders for you and stealing your experience, have enemies
+  target your allies more
 13 The Dwarvish Stand: Started off as just gold tweaks, also decided to give
   the player a yeti here as it's the first of a series of winter levels. On
   another playthru, I also let the player start recruiting Frost Stoats and
   Icemonaxes here, for the duration of the winter, as they are specialized for
-  snowy terrain.
+  snowy terrain. In later versions: increase turn limit, use "Over the Northern
+  Mountains", have dwarves use Dwarvish Woodcutters, have bandits use Ruffians and
+  Woodsmen, make terrain snowier (and add snowshoes to compensate), give enemies a
+  bit more gold if you have too much, add events for attacking enemy leaders so
+  that they're better defended, more gold/income tweaks, give enemies more guards,
+  update cutscenes, add sound effects to certain new events so you can tell if they
+  happen or not, even more enemy defenses, etc.
 14 Back Home: I used the LIMIT_CONTEMPORANEOUS_RECRUITS and ON_DIFFICULTY
   macros here a lot. This is about where I started to realize that making
   Thelarion's side persistent didn't actually work. I might go back and try
   the `persistent=yes` method later (instead of the `save_id=` method currently
   in use), but knyghtmare says that that method results in multiple
-  Lanbec'hs back in S11 (Clash of Armies)...
+  Lanbec'hs back in S11 (Clash of Armies)... In later versions: increase turn
+  limit, add more snowshoes, make terrain snowier here too, modify enemy AI, let
+  elves recruit Elvish Horsemen, give enemies more gold if you have too much, etc.
 15 Civil War: started off as mostly just some basic turns/gold tweaks. I have
   also tried to add back the commented-out assassination code. To try to make
   said code actually work, I felt that I'd need a way to give the player a
@@ -81,7 +103,10 @@ survive) are harder. Here's a description of my changes so far:
   (the option of) some additional units, assuming they have either Plonk or
   Jetto still around. It's still kind of hard to make sure the enemies still
   have enough units left for one to take over as a leader though; any
-  suggestions as to how to improve this while still keeping it are welcome.
+  suggestions as to how to improve this while still keeping it are welcome. In
+  later versions: use "Over the Northern Mountains", increase turn limit, one more
+  pair of snowshoes, make terrain snowier here too, modify enemy AI, disable
+  poison-spreading behavior
 16 The Coward: I edited the map here to give the player more keep tiles for
   recruiting, so they can catch up to the stream on enemies flooding them on
   time. Also some gold levels tweaks. After the enemy's initial assault wears
@@ -92,7 +117,8 @@ survive) are harder. Here's a description of my changes so far:
 17 The Human Attack: started off as just gold tweaks; also added an event
   giving Lanbec'h guards when he's attacked to keep the focus on just
   surviving, rather than trying to kill him. The guards do drop gold when killed,
-  though, to make sure they aren't TOO overpowering.
+  though, to make sure they aren't TOO overpowering. In later versions: give
+  Lanbec'h more recruits, add a few more events
 18 Northern Alliance: again, mostly just gold tweaks. I also tried to make
   Shan Taum more defensive so he'd defend more against Howgarth rather than
   killing your green side of orcish allies, but that didn't really work. I
@@ -100,7 +126,9 @@ survive) are harder. Here's a description of my changes so far:
   but Howgarth still got to Shan Taum before me though. Note that it's possible
   to use the AI_CONTROLLER thing to stop Howgarth from getting to Shan Taum
   before you, but as that is going to be deprecated soon, I want to make sure
-  it works even without it.
+  it works even without it. In later versions: give Lanbec'h, Shan Taum, and
+  Howgarth more recruits, modify enemy AI, add an event for Shan Taum being
+  attacked
 
 Note: this add-on was originally part of my generalized mods collection;
 its history there can be found at: https://github.com/cooljeanius/wesnoth_mods
