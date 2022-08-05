@@ -3,6 +3,7 @@
 *.swp
 *.pxd
 .git/*
+.github/*
 
 # default values not already specified:
 .+
