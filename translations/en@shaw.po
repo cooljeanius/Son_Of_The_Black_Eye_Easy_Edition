@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: en@shaw\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2022-08-01 23:45 UTC\n"
+"POT-Creation-Date: 2023-03-01 02:47 UTC\n"
 "PO-Revision-Date: 2009-10-13 13:00-0400\n"
 "Last-Translator: Arc Riley <arcriley@ubuntu.com>\n"
 "Language-Team: Shavian English <ubuntu-l10n-en-shaw@lists.launchpad.net>\n"
@@ -842,17 +842,17 @@ msgid "Valan"
 msgstr "Valan"
 
 #. [message]: speaker=Kapou'e
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/14_Back_Home.cfg:329
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/14_Back_Home.cfg:351
 msgid "Well, boys, we’re home. I told you we would return one day."
 msgstr "𐑢𐑧𐑤, 𐑚𐑶𐑟, 𐑢𐑰'𐑼 𐑣𐑴𐑥. 𐑲 𐑑𐑴𐑤𐑛 𐑿 𐑢𐑰 𐑢𐑫𐑛 𐑮𐑦𐑑𐑻𐑯 𐑢𐑳𐑯 𐑛𐑱."
 
 #. [message]: role=army
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/14_Back_Home.cfg:336
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/14_Back_Home.cfg:358
 msgid "Boy, have they ever built this place up."
 msgstr "𐑚𐑶, 𐑣𐑨𐑝 𐑞𐑱 𐑧𐑝𐑼 𐑚𐑦𐑤𐑑 𐑞𐑦𐑕 𐑐𐑤𐑱𐑕 𐑳𐑐."
 
 #. [message]: speaker=Kapou'e
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/14_Back_Home.cfg:342
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/14_Back_Home.cfg:364
 msgid ""
 "Listen up, orcs. Our main objective is to rescue the shamans. It won’t work "
 "to take the human runts head-on while they sneak the shamans out the back "
@@ -862,12 +862,12 @@ msgstr ""
 "𐑣𐑿𐑥𐑩𐑯 𐑮𐑳𐑯𐑑𐑕 𐑣𐑧𐑛-𐑪𐑯 𐑢𐑲𐑤 𐑞𐑱 𐑕𐑯𐑰𐑒 𐑞 𐑖𐑱𐑥𐑩𐑯𐑟 𐑬𐑑 𐑞 𐑚𐑨𐑒 𐑛𐑹."
 
 #. [message]: speaker=Flar'Tar
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/14_Back_Home.cfg:348
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/14_Back_Home.cfg:370
 msgid "What are you thinking, Chief?"
 msgstr "𐑢𐑪𐑑 𐑸 𐑿 𐑔𐑦𐑙𐑒𐑦𐑙, 𐑡𐑰𐑓?"
 
 #. [message]: speaker=Kapou'e
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/14_Back_Home.cfg:354
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/14_Back_Home.cfg:376
 #, fuzzy
 #| msgid ""
 #| "My men know the land well. Flar’Tar and Al’Brock, both of you take a "
@@ -885,17 +885,17 @@ msgstr ""
 "𐑯𐑹𐑔𐑢𐑧𐑕𐑑. 𐑦𐑓 𐑷𐑤 𐑜𐑴𐑟 𐑢𐑧𐑤 𐑢𐑰 𐑖𐑨𐑤 𐑕𐑼𐑬𐑯𐑛 𐑞𐑧𐑥."
 
 #. [message]: speaker=Grüü
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/14_Back_Home.cfg:360
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/14_Back_Home.cfg:382
 msgid "I like this plan, Chief!"
 msgstr "𐑲 𐑤𐑲𐑒 𐑞𐑦𐑕 𐑐𐑤𐑨𐑯, 𐑡𐑰𐑓!"
 
 #. [message]: role=army
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/14_Back_Home.cfg:366
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/14_Back_Home.cfg:388
 msgid "You always like his plans, Grüü."
 msgstr "𐑿 𐑷𐑤𐑢𐑱𐑟 𐑤𐑲𐑒 𐑣𐑦𐑟 𐑐𐑤𐑨𐑯𐑟, Grüü."
 
 #. [message]: speaker=Grüü
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/14_Back_Home.cfg:372
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/14_Back_Home.cfg:394
 msgid ""
 "Of course. Squash elves, squash undead, squash dwarves, squash humans. "
 "Squash them all, very good plan!"
@@ -904,12 +904,12 @@ msgstr ""
 "𐑝𐑧𐑮𐑦 𐑜𐑫𐑛 𐑐𐑤𐑨𐑯!"
 
 #. [message]: role=army
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/14_Back_Home.cfg:378
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/14_Back_Home.cfg:400
 msgid "Well, he has the right idea, anyway."
 msgstr "𐑢𐑧𐑤, 𐑣𐑰 𐑣𐑨𐑟 𐑞 𐑮𐑲𐑑 𐑲𐑛𐑾, 𐑧𐑯𐑦𐑢𐑱."
 
 #. [message]: speaker=Kapou'e
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/14_Back_Home.cfg:385
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/14_Back_Home.cfg:407
 msgid ""
 "Good, everyone move out. I will begin the attack from here. I want everyone "
 "to be in position by first watch at the latest. Is that clear?"
@@ -919,84 +919,84 @@ msgstr ""
 
 #. [message]: speaker=Flar'Tar
 #. [message]: speaker=second_unit
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/14_Back_Home.cfg:391
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/14_Back_Home.cfg:838
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/14_Back_Home.cfg:413
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/14_Back_Home.cfg:860
 #, fuzzy
 msgid "Yes, Chief."
 msgstr "𐑘𐑨 𐑡𐑰𐑓?"
 
 #. [message]: speaker=Al'Brock
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/14_Back_Home.cfg:397
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/14_Back_Home.cfg:419
 msgid "Understood."
 msgstr ""
 
 #. [message]: speaker=Grüü
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/14_Back_Home.cfg:419
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/14_Back_Home.cfg:441
 msgid "Uh, Chief..."
 msgstr "𐑩, 𐑡𐑰𐑓..."
 
 #. [message]: speaker=Kapou'e
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/14_Back_Home.cfg:425
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/14_Back_Home.cfg:447
 #, fuzzy
 msgid "... Yes, Grüü?"
 msgstr "...𐑘𐑧𐑕, Grüü?"
 
 #. [message]: speaker=Grüü
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/14_Back_Home.cfg:431
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/14_Back_Home.cfg:453
 msgid "Can I get some gold with me?"
 msgstr "𐑒𐑨𐑯 𐑲 𐑜𐑧𐑑 𐑕𐑳𐑥 𐑜𐑴𐑤𐑛 𐑢𐑦𐑞 𐑥𐑰?"
 
 #. [message]: speaker=Kapou'e
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/14_Back_Home.cfg:437
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/14_Back_Home.cfg:459
 msgid "Fine, take a hundred. Don’t lose it."
 msgstr "𐑓𐑲𐑯, 𐑑𐑱𐑒 𐑩 𐑣𐑳𐑯𐑛𐑮𐑧𐑛. 𐑛𐑴𐑯𐑑 𐑤𐑵𐑟 𐑦𐑑."
 
 #. [message]: speaker=Al'Brock
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/14_Back_Home.cfg:505
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/14_Back_Home.cfg:527
 msgid "I am in position, Chief."
 msgstr "𐑲 𐑨𐑥 𐑦𐑯 𐑐𐑩𐑟𐑦𐑖𐑩𐑯, 𐑡𐑰𐑓."
 
 #. [message]: speaker=Kapou'e
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/14_Back_Home.cfg:511
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/14_Back_Home.cfg:533
 msgid "Excellent. Now, where are the others?"
 msgstr "𐑧𐑒𐑕𐑩𐑤𐑩𐑯𐑑. 𐑯𐑬, 𐑢𐑺 𐑸 𐑞 𐑳𐑞𐑼𐑟?"
 
 #. [message]: speaker=Flar'Tar
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/14_Back_Home.cfg:578
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/14_Back_Home.cfg:600
 msgid "We made it."
 msgstr "𐑢𐑰 𐑥𐑱𐑛 𐑦𐑑."
 
 #. [message]: speaker=Kapou'e
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/14_Back_Home.cfg:584
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/14_Back_Home.cfg:606
 msgid "Good, but where is Grüü?"
 msgstr "𐑜𐑫𐑛, 𐑚𐑳𐑑 𐑢𐑺 𐑦𐑟 Grüü?"
 
 #. [message]: speaker=Flar'Tar
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/14_Back_Home.cfg:589
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/14_Back_Home.cfg:611
 msgid "Dumb trolls, you can never rely on them."
 msgstr "𐑛𐑳𐑥 𐑑𐑮𐑴𐑤𐑟, 𐑿 𐑒𐑨𐑯 𐑯𐑧𐑝𐑼 𐑮𐑦𐑤𐑲 𐑪𐑯 𐑞𐑧𐑥."
 
 #. [message]: speaker=Grüü
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/14_Back_Home.cfg:690
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/14_Back_Home.cfg:712
 #, fuzzy
 #| msgid "I’m here, chief!"
 msgid "I’m here, Chief!"
 msgstr "𐑲'𐑧𐑥 𐑣𐑽, 𐑡𐑰𐑓!"
 
 #. [message]: speaker=Kapou'e
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/14_Back_Home.cfg:696
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/14_Back_Home.cfg:718
 msgid ""
 "Blood and stone, Grüü! You were supposed to be in position by first watch. "
 "It’s dawn!"
 msgstr "𐑚𐑤𐑳𐑛 𐑯 𐑕𐑑𐑴𐑯, Grüü! 𐑿 𐑢𐑻 𐑕𐑩𐑐𐑴𐑟𐑛 𐑑 𐑚𐑰 𐑦𐑯 𐑐𐑩𐑟𐑦𐑖𐑩𐑯 𐑚𐑲 𐑓𐑻𐑕𐑑 𐑢𐑪𐑡. 𐑦𐑑'𐑕 𐑛𐑷𐑯!"
 
 #. [message]: speaker=Grüü
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/14_Back_Home.cfg:702
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/14_Back_Home.cfg:724
 msgid "Err, sorry, there were some humans in way. We squash, no problem."
 msgstr "𐑺, 𐑕𐑪𐑮𐑦, 𐑞𐑺 𐑢𐑻 𐑕𐑳𐑥 𐑣𐑿𐑥𐑩𐑯𐑟 𐑦𐑯 𐑢𐑱. 𐑢𐑰 𐑕𐑒𐑢𐑭𐑖, 𐑯𐑴 𐑐𐑮𐑪𐑚𐑤𐑩𐑥."
 
 #. [message]: speaker=Kapou'e
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/14_Back_Home.cfg:708
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/14_Back_Home.cfg:730
 #, fuzzy
 #| msgid ""
 #| "Better late than never. Now it’s time to kill! Let nobody escape and "
@@ -1009,49 +1009,49 @@ msgstr ""
 "𐑓𐑹 𐑞 𐑖𐑱𐑥𐑩𐑯𐑟."
 
 #. [message]: speaker=Flar'Tar
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/14_Back_Home.cfg:713
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/14_Back_Home.cfg:735
 msgid "Sounds simple enough."
 msgstr "𐑕𐑬𐑯𐑛𐑟 𐑕𐑦𐑥𐑐𐑩𐑤 𐑦𐑯𐑳𐑓."
 
 #. [message]: speaker=second_unit
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/14_Back_Home.cfg:749
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/14_Back_Home.cfg:771
 msgid "Miserable elf, we want some answers!"
 msgstr "𐑥𐑦𐑟𐑩𐑮𐑩𐑚𐑤 𐑧𐑤𐑓, 𐑢𐑰 𐑢𐑪𐑯𐑑 𐑕𐑳𐑥 𐑭𐑯𐑕𐑼𐑟!"
 
 #. [message]: speaker=Thelarion
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/14_Back_Home.cfg:754
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/14_Back_Home.cfg:776
 msgid "Ugh!"
 msgstr "𐑳𐑜!"
 
 #. [message]: speaker=second_unit
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/14_Back_Home.cfg:759
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/14_Back_Home.cfg:781
 msgid "SPEAK!"
 msgstr "𐑕𐑐𐑰𐑒!"
 
 #. [message]: speaker=Thelarion
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/14_Back_Home.cfg:764
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/14_Back_Home.cfg:786
 #, fuzzy
 msgid "... Well, what do you want to know?"
 msgstr "...𐑢𐑧𐑤, 𐑢𐑪𐑑 𐑛𐑵 𐑿 𐑢𐑪𐑯𐑑 𐑑 𐑯𐑴?"
 
 #. [message]: speaker=second_unit
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/14_Back_Home.cfg:769
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/14_Back_Home.cfg:791
 msgid "You can start by telling us who told you to strike at Borstep."
 msgstr "𐑿 𐑒𐑨𐑯 𐑕𐑑𐑸𐑑 𐑚𐑲 𐑑𐑧𐑤𐑦𐑙 𐑳𐑕 𐑣𐑵 𐑑𐑴𐑤𐑛 𐑿 𐑑 𐑕𐑑𐑮𐑲𐑒 𐑨𐑑 ·𐑚𐑹𐑕𐑑𐑧𐑐."
 
 #. [message]: speaker=Thelarion
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/14_Back_Home.cfg:774
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/14_Back_Home.cfg:796
 #, fuzzy
 msgid "Uh... we have intelligence."
 msgstr "𐑩.... 𐑢𐑰 𐑣𐑨𐑝 𐑦𐑯𐑑𐑧𐑤𐑦𐑡𐑩𐑯𐑕."
 
 #. [message]: speaker=second_unit
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/14_Back_Home.cfg:779
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/14_Back_Home.cfg:801
 msgid "Don’t make me hurt you more."
 msgstr "𐑛𐑴𐑯𐑑 𐑥𐑱𐑒 𐑥𐑰 𐑣𐑻𐑑 𐑿 𐑥𐑹."
 
 #. [message]: speaker=Thelarion
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/14_Back_Home.cfg:784
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/14_Back_Home.cfg:806
 #, fuzzy
 msgid ""
 "I yield. Shan Taum the Smug told us that that’s where the shamans were, and "
@@ -1061,13 +1061,13 @@ msgstr ""
 "𐑮𐑨𐑤𐑰 𐑐𐑶𐑯𐑑 𐑯 𐑢𐑧𐑐𐑩𐑯𐑟 𐑛𐑰𐑐𐑴 𐑓𐑹 𐑿 𐑹𐑒𐑕."
 
 #. [message]: speaker=second_unit
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/14_Back_Home.cfg:789
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/14_Back_Home.cfg:811
 msgid ""
 "Bah, do not think you can break the unity of the horde with your stupid lies!"
 msgstr "𐑚𐑭, 𐑛𐑵 𐑯𐑪𐑑 𐑔𐑦𐑙𐑒 𐑿 𐑒𐑨𐑯 𐑚𐑮𐑱𐑒 𐑞 𐑿𐑯𐑦𐑑𐑦 𐑝 𐑞 𐑣𐑹𐑛 𐑢𐑦𐑞 𐑿𐑼 𐑕𐑑𐑵𐑐𐑦𐑛 𐑤𐑲𐑟!"
 
 #. [message]: speaker=Thelarion
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/14_Back_Home.cfg:794
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/14_Back_Home.cfg:816
 msgid ""
 "No really, it’s true. He is jealous of some young upstart called Kapou’e. He "
 "says all the shamans ‘suck up’ to him just because his father had a black "
@@ -1077,44 +1077,44 @@ msgstr ""
 "𐑖𐑱𐑥𐑩𐑯𐑟 '𐑕𐑳𐑒 𐑳𐑐' 𐑑 𐑣𐑦𐑥 𐑡𐑳𐑕𐑑 𐑚𐑦𐑒𐑪𐑟 𐑣𐑦𐑟 𐑓𐑭𐑞𐑼 𐑣𐑨𐑛 𐑩 𐑚𐑤𐑨𐑒 𐑲 𐑹 𐑕𐑳𐑥𐑔𐑦𐑙 𐑤𐑲𐑒 𐑞𐑨𐑑."
 
 #. [message]: speaker=second_unit
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/14_Back_Home.cfg:799
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/14_Back_Home.cfg:821
 msgid ""
 "Refer to Black-Eye Karun with respect, wose-born. Now, where are the shamans?"
 msgstr "𐑮𐑦𐑓𐑻 𐑑 𐑚𐑤𐑨𐑒-𐑲 𐑒𐑻𐑵𐑯 𐑢𐑦𐑞 𐑮𐑦𐑕𐑐𐑧𐑒𐑑, 𐑢𐑴𐑟-𐑚𐑹𐑯. 𐑯𐑬, 𐑢𐑺 𐑸 𐑞 𐑖𐑱𐑥𐑩𐑯𐑟?"
 
 #. [message]: speaker=Thelarion
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/14_Back_Home.cfg:804
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/14_Back_Home.cfg:826
 #, fuzzy
 msgid "They’re... the humans killed them."
 msgstr "𐑞𐑱'𐑼.... 𐑞 𐑣𐑿𐑥𐑩𐑯𐑟 𐑒𐑦𐑤𐑛 𐑞𐑧𐑥."
 
 #. [message]: speaker=second_unit
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/14_Back_Home.cfg:809
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/14_Back_Home.cfg:831
 msgid "You lie!"
 msgstr "𐑿 𐑤𐑲!"
 
 #. [message]: speaker=Thelarion
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/14_Back_Home.cfg:814
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/14_Back_Home.cfg:836
 msgid "I do not. Their bodies are frozen in the lake just over there."
 msgstr "𐑲 𐑛𐑵 𐑯𐑪𐑑. 𐑞𐑺 𐑚𐑪𐑛𐑦𐑟 𐑸 𐑓𐑮𐑴𐑟𐑩𐑯 𐑦𐑯 𐑞 𐑤𐑱𐑒 𐑡𐑳𐑕𐑑 𐑴𐑝𐑼 𐑞𐑺."
 
 #. [message]: speaker=Kapou'e
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/14_Back_Home.cfg:826
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/14_Back_Home.cfg:848
 msgid "We had better go look."
 msgstr "𐑢𐑰 𐑣𐑨𐑛 𐑚𐑧𐑑𐑼 𐑜𐑴 𐑤𐑫𐑒."
 
 #. [message]: speaker=Kapou'e
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/14_Back_Home.cfg:833
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/14_Back_Home.cfg:855
 msgid "You had better go look."
 msgstr "𐑿 𐑣𐑨𐑛 𐑚𐑧𐑑𐑼 𐑜𐑴 𐑤𐑫𐑒."
 
 #. [message]: speaker=narrator
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/14_Back_Home.cfg:845
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/14_Back_Home.cfg:867
 msgid "A few minutes later..."
 msgstr "𐑩 𐑓𐑿 𐑥𐑦𐑯𐑦𐑑𐑕 𐑤𐑱𐑑𐑼..."
 
 #. [message]: speaker=Kapou'e
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/14_Back_Home.cfg:858
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/14_Back_Home.cfg:880
 #, fuzzy
 msgid ""
 "The human-worms and tree-shaggers have gone too far! BLOOD AND STEEL! I want "
@@ -1124,12 +1124,12 @@ msgstr ""
 "𐑯 𐑧𐑤𐑓 𐑦𐑯 𐑞𐑦𐑕 𐑺𐑦𐑩 𐑕𐑤𐑪𐑑𐑻𐑛! 𐑖𐑴 𐑯𐑴 𐑥𐑻𐑕𐑦, 𐑜𐑦𐑝 𐑯𐑴 𐑒𐑢𐑹𐑑𐑼!"
 
 #. [message]: speaker=second_unit
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/14_Back_Home.cfg:864
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/14_Back_Home.cfg:886
 msgid "Chief! It’s true, the shamans have been murdered!"
 msgstr "𐑡𐑰𐑓! 𐑦𐑑'𐑕 𐑑𐑮𐑵, 𐑞 𐑖𐑱𐑥𐑩𐑯𐑟 𐑣𐑨𐑝 𐑚𐑰𐑯 𐑥𐑻𐑛𐑼𐑛!"
 
 #. [message]: speaker=Kapou'e
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/14_Back_Home.cfg:870
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/14_Back_Home.cfg:892
 #, fuzzy
 msgid ""
 "<i>What</i>?! The human-worms and tree-shaggers have gone too far! BLOOD AND "
@@ -1140,17 +1140,17 @@ msgstr ""
 "𐑯 𐑧𐑤𐑓 𐑦𐑯 𐑞𐑦𐑕 𐑺𐑦𐑩 𐑕𐑤𐑪𐑑𐑻𐑛! 𐑖𐑴 𐑯𐑴 𐑥𐑻𐑕𐑦, 𐑜𐑦𐑝 𐑯𐑴 𐑒𐑢𐑹𐑑𐑼!"
 
 #. [message]: speaker=second_unit
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/14_Back_Home.cfg:875
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/14_Back_Home.cfg:897
 msgid "What should I do with this one?"
 msgstr "𐑢𐑪𐑑 𐑖𐑫𐑛 𐑲 𐑛𐑵 𐑢𐑦𐑞 𐑞𐑦𐑕 𐑢𐑳𐑯?"
 
 #. [message]: speaker=Kapou'e
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/14_Back_Home.cfg:881
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/14_Back_Home.cfg:903
 msgid "Throw him in the lake. If he freezes to death, all the better."
 msgstr "𐑔𐑮𐑴 𐑣𐑦𐑥 𐑦𐑯 𐑞 𐑤𐑱𐑒. 𐑦𐑓 𐑣𐑰 𐑓𐑮𐑰𐑟𐑦𐑟 𐑑 𐑛𐑧𐑔, 𐑷𐑤 𐑞 𐑚𐑧𐑑𐑼."
 
 #. [message]
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/14_Back_Home.cfg:904
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/14_Back_Home.cfg:926
 msgid "You retrieve $amount_gold of Grüü's leftover gold."
 msgstr ""
 
@@ -1952,8 +1952,8 @@ msgstr "Darstang"
 #. [unit]: type=General, id=Earl Lanbec'h
 #. [side]: type=Grand Marshal, id=Earl Lanbec'h
 #: Son_Of_The_Black_Eye_Easy_Edition/scenarios/11_Clash_of_Armies.cfg:158
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/10_Saving_Inarix.cfg:800
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/10_Saving_Inarix.cfg:920
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/10_Saving_Inarix.cfg:802
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/10_Saving_Inarix.cfg:922
 #: Son_Of_The_Black_Eye_Easy_Edition/scenarios/17_The_Human_Attack.cfg:86
 #: Son_Of_The_Black_Eye_Easy_Edition/scenarios/18_Northern_Alliance.cfg:104
 #, fuzzy
@@ -2908,100 +2908,105 @@ msgstr ""
 msgid "I said to hurry!"
 msgstr ""
 
+#. [disallow_end_turn]
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/10_Saving_Inarix.cfg:348
+msgid "Inarix must hurry!"
+msgstr ""
+
 #. [message]: speaker=narrator
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/10_Saving_Inarix.cfg:351
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/10_Saving_Inarix.cfg:353
 msgid "You must move some saurians first before ending this turn!"
 msgstr ""
 
 #. [message]: speaker=Kapou'e
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/10_Saving_Inarix.cfg:466
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/10_Saving_Inarix.cfg:468
 msgid "Bah! I’m not going to blow myself to bits!"
 msgstr "𐑚𐑭! 𐑲'𐑧𐑥 𐑯𐑪𐑑 𐑜𐑴𐑦𐑙 𐑑 𐑚𐑤𐑴 𐑥𐑲𐑕𐑧𐑤𐑓 𐑑 𐑚𐑦𐑑𐑕!"
 
 #. [message]: speaker=Kapou'e
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/10_Saving_Inarix.cfg:484
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/10_Saving_Inarix.cfg:486
 msgid "Grüü, stay away from that thing! I still have a use for you!"
 msgstr "Grüü, 𐑕𐑑𐑱 𐑩𐑢𐑱 𐑓𐑮𐑪𐑥 𐑞𐑨𐑑 𐑔𐑦𐑙! 𐑲 𐑕𐑑𐑦𐑤 𐑣𐑨𐑝 𐑩 𐑿𐑕 𐑓𐑹 𐑿!"
 
 #. [message]: speaker=Grüü
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/10_Saving_Inarix.cfg:490
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/10_Saving_Inarix.cfg:492
 #, fuzzy
 #| msgid "Uh... OK, Chief!"
 msgid "Uh... Fine, Chief!"
 msgstr "𐑩... 𐑴𐑒𐑱, 𐑡𐑰𐑓!"
 
 #. [message]: speaker=Inarix
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/10_Saving_Inarix.cfg:508
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/10_Saving_Inarix.cfg:510
 msgid "I’m not going to do it!"
 msgstr "𐑲'𐑧𐑥 𐑯𐑪𐑑 𐑜𐑴𐑦𐑙 𐑑 𐑛𐑵 𐑦𐑑!"
 
 #. [message]: speaker=Kapou'e
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/10_Saving_Inarix.cfg:537
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/10_Saving_Inarix.cfg:539
 msgid "Get away from there you idiot, I’m still over here!"
 msgstr "𐑜𐑧𐑑 𐑩𐑢𐑱 𐑓𐑮𐑪𐑥 𐑞𐑺 𐑿 𐑦𐑛𐑦𐑩𐑑, 𐑲'𐑧𐑥 𐑕𐑑𐑦𐑤 𐑴𐑝𐑼 𐑣𐑽!"
 
 #. [message]: speaker=Grüü
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/10_Saving_Inarix.cfg:552
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/10_Saving_Inarix.cfg:554
 msgid "Hey, don’t light it up, I’m not safe!"
 msgstr "𐑣𐑱, 𐑛𐑴𐑯𐑑 𐑤𐑲𐑑 𐑦𐑑 𐑳𐑐, 𐑲'𐑧𐑥 𐑯𐑪𐑑 𐑕𐑱𐑓!"
 
 #. [message]: speaker=Grüü
 #. "blowing" in this context is used as shorthand for "blowing up", i.e., causing to explode:
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/10_Saving_Inarix.cfg:576
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/10_Saving_Inarix.cfg:578
 msgid "Chief, we can’t be blowing the bridge before Inarix is here, can we?"
 msgstr "𐑡𐑰𐑓, 𐑢𐑰 𐑒𐑭𐑯𐑑 𐑚𐑰 𐑚𐑤𐑴𐑦𐑙 𐑞 𐑚𐑮𐑦𐑡 𐑚𐑦𐑓𐑹 ·𐑦𐑯𐑸𐑦𐑒𐑕 𐑦𐑟 𐑣𐑽, 𐑒𐑨𐑯 𐑢𐑰?"
 
 #. [then]
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/10_Saving_Inarix.cfg:588
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/10_Saving_Inarix.cfg:590
 msgid ""
 "Chief, Inarix hasn’t yet made it across! Are you really sure you want to do "
 "this?"
 msgstr "𐑡𐑰𐑓, ·𐑦𐑯𐑸𐑦𐑒𐑕 𐑣𐑨𐑟𐑯𐑑 𐑘𐑧𐑑 𐑥𐑱𐑛 𐑦𐑑 𐑩𐑒𐑮𐑪𐑕! 𐑸 𐑿 𐑮𐑾𐑤𐑦 𐑖𐑫𐑼 𐑿 𐑢𐑪𐑯𐑑 𐑑 𐑛𐑵 𐑞𐑦𐑕?"
 
 #. [else]
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/10_Saving_Inarix.cfg:592
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/10_Saving_Inarix.cfg:594
 msgid "I’m ready, Chief!"
 msgstr "𐑲'𐑧𐑥 𐑮𐑧𐑛𐑦, 𐑡𐑰𐑓!"
 
 #. [option]
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/10_Saving_Inarix.cfg:601
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/10_Saving_Inarix.cfg:603
 msgid "Let her blow!"
 msgstr "𐑤𐑧𐑑 𐑣𐑻 𐑚𐑤𐑴!"
 
 #. [message]: speaker=Grüü
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/10_Saving_Inarix.cfg:606
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/10_Saving_Inarix.cfg:608
 msgid "Bye bye, $unit.name|!"
 msgstr "𐑚𐑲 𐑚𐑲, $unit.name|!"
 
 #. [message]: speaker=Inarix
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/10_Saving_Inarix.cfg:618
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/10_Saving_Inarix.cfg:620
 #, fuzzy
 msgid "Damn you, Son of the Black-Eye! You’ll pay for this!"
 msgstr "𐑛𐑨𐑥 𐑿, 𐑕𐑳𐑯 𐑝 𐑞 𐑚𐑤𐑨𐑒-𐑲! 𐑿'𐑤 𐑐𐑱 𐑓𐑹 𐑞𐑦𐑕!"
 
 #. [message]
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/10_Saving_Inarix.cfg:636
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/10_Saving_Inarix.cfg:638
 msgid "No, wait!"
 msgstr "𐑯𐑴, 𐑢𐑱𐑑!"
 
 #. [message]: speaker=unit
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/10_Saving_Inarix.cfg:647
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/10_Saving_Inarix.cfg:649
 #, fuzzy
 msgid "Aaaaaaaargh!"
 msgstr "Aaaaaaaargh!"
 
 #. [option]
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/10_Saving_Inarix.cfg:667
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/10_Saving_Inarix.cfg:669
 msgid "Wait a moment."
 msgstr "𐑢𐑱𐑑 𐑩 𐑥𐑴𐑥𐑩𐑯𐑑."
 
 #. [message]: speaker=unit
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/10_Saving_Inarix.cfg:672
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/10_Saving_Inarix.cfg:674
 msgid "<i>Phew!</i>"
 msgstr ""
 
 #. [message]: speaker=Kapou'e
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/10_Saving_Inarix.cfg:729
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/10_Saving_Inarix.cfg:731
 msgid ""
 "Blast it! The saurians have had too many casualties in order for them to be "
 "of any real help to us. We won’t be able to recruit them in the future."
@@ -3010,7 +3015,7 @@ msgstr ""
 "𐑣𐑧𐑤𐑐 𐑑 𐑳𐑕. 𐑢𐑰 𐑢𐑴𐑯𐑑 𐑚𐑰 𐑱𐑚𐑩𐑤 𐑑 𐑮𐑩𐑒𐑮𐑵𐑑 𐑞𐑧𐑥 𐑦𐑯 𐑞 𐑓𐑿𐑗𐑼."
 
 #. [message]: speaker=Thelarion
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/10_Saving_Inarix.cfg:777
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/10_Saving_Inarix.cfg:779
 #, fuzzy
 #| msgid ""
 #| "This has taken too much time, we should send all of our troops and send "
@@ -3023,37 +3028,37 @@ msgstr ""
 "𐑣𐑧𐑤."
 
 #. [message]: speaker=Darstang
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/10_Saving_Inarix.cfg:781
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/10_Saving_Inarix.cfg:783
 msgid "It won’t be said that Elves were braver than us, everyone attack!"
 msgstr "𐑦𐑑 𐑢𐑴𐑯𐑑 𐑚𐑰 𐑕𐑧𐑛 𐑞𐑨𐑑 𐑧𐑤𐑝𐑟 𐑢𐑻 𐑚𐑮𐑱𐑝𐑼 𐑞𐑨𐑯 𐑳𐑕, 𐑧𐑝𐑮𐑰𐑢𐑳𐑯 𐑩𐑑𐑨𐑒!"
 
 #. [message]: speaker=Earl Lanbec'h
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/10_Saving_Inarix.cfg:816
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/10_Saving_Inarix.cfg:818
 msgid "At them! Rip them to the last!"
 msgstr "𐑨𐑑 𐑞𐑧𐑥! 𐑮𐑦𐑐 𐑞𐑧𐑥 𐑑 𐑞 𐑤𐑭𐑕𐑑!"
 
 #. [message]: speaker=Kapou'e
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/10_Saving_Inarix.cfg:820
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/10_Saving_Inarix.cfg:822
 msgid "It is too late, we are defeated."
 msgstr "𐑦𐑑 𐑦𐑟 𐑑𐑵 𐑤𐑱𐑑, 𐑢𐑰 𐑸 𐑛𐑦𐑓𐑰𐑑𐑩𐑛."
 
 #. [message]: speaker=Thelarion
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/10_Saving_Inarix.cfg:833
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/10_Saving_Inarix.cfg:835
 msgid "Troops, protect your leader!"
 msgstr ""
 
 #. [message]: speaker=Darstang
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/10_Saving_Inarix.cfg:868
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/10_Saving_Inarix.cfg:870
 msgid "You want to take the battle to me myself? Fine, have at ye!"
 msgstr ""
 
 #. [message]
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/10_Saving_Inarix.cfg:910
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/10_Saving_Inarix.cfg:912
 msgid "We're with ye, Darstang!"
 msgstr ""
 
 #. [message]: speaker=Earl Lanbec'h
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/10_Saving_Inarix.cfg:930
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/10_Saving_Inarix.cfg:932
 msgid ""
 "So, the elves and dwarves failed to take the fortress and the beasts were "
 "able to muster a defense. No matter. Once the vanguard of my army arrives, I "
@@ -3061,12 +3066,12 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=unit
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/10_Saving_Inarix.cfg:978
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/10_Saving_Inarix.cfg:980
 msgid "The green earth will curse you for this..."
 msgstr "𐑞 𐑜𐑮𐑰𐑯 𐑻𐑔 𐑢𐑦𐑤 𐑒𐑻𐑕 𐑿 𐑓𐑹 𐑞𐑦𐑕..."
 
 #. [message]: speaker=unit
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/10_Saving_Inarix.cfg:990
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/10_Saving_Inarix.cfg:992
 msgid "Curse you, foul orc!"
 msgstr "𐑒𐑻𐑕 𐑿, 𐑓𐑬𐑤 𐑹𐑒!"
 
