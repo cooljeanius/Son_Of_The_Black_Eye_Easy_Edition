@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: bg\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2024-10-27 06:08 UTC\n"
+"POT-Creation-Date: 2024-10-27 06:17 UTC\n"
 "PO-Revision-Date: 2007-05-15 18:35+0300\n"
 "Last-Translator: Denica <dmincheva2002@gmail.com>\n"
 "Language-Team: Bulgarian <bg@li.org>\n"
@@ -511,34 +511,34 @@ msgstr ""
 "направим нейн предводител."
 
 #. [floating_text]
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/09_Shan_Taum_the_Smug.cfg:297
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/09_Shan_Taum_the_Smug.cfg:298
 msgid ""
 "<span color='red' size='large' font_weight='ultrabold'>⚠︎ </span><span "
 "color='#BCB088'>$turn_number|g</span><span color='blue'> to side 2</span>"
 msgstr ""
 
 #. [message]: speaker=Shan Taum
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/09_Shan_Taum_the_Smug.cfg:310
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/09_Shan_Taum_the_Smug.cfg:312
 msgid "You dare attack me? Pffft, how laughable!"
 msgstr ""
 
 #. [message]
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/09_Shan_Taum_the_Smug.cfg:351
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/09_Shan_Taum_the_Smug.cfg:353
 msgid "Reportin' for guard duty, master."
 msgstr ""
 
 #. [message]: speaker=Shan Taum
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/09_Shan_Taum_the_Smug.cfg:369
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/09_Shan_Taum_the_Smug.cfg:371
 msgid "Get back to your side of the battlefield!"
 msgstr ""
 
 #. [message]
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/09_Shan_Taum_the_Smug.cfg:403
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/09_Shan_Taum_the_Smug.cfg:405
 msgid "I'm here to help drive back the attackers, master."
 msgstr ""
 
 #. [message]: speaker=Shan Taum
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/09_Shan_Taum_the_Smug.cfg:416
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/09_Shan_Taum_the_Smug.cfg:418
 #, fuzzy
 #| msgid "Nooo! Don’t kill me, I surrender to you little earthworm."
 msgid "Nooo! Don’t kill me, I surrender to you, you little earthworm."
@@ -1350,7 +1350,7 @@ msgstr "Раф"
 
 #. [message]: speaker=Kapou'e
 #. "whupping" is not a typo for "whipping"; it is a Southern
-#. American dialect word meaning "a severe beating".
+#. American dialect word meaning "a severe beating" or "spanking".
 #: Son_Of_The_Black_Eye_Easy_Edition/scenarios/15_Civil_War.cfg:286
 msgid ""
 "It’s been a chilly winter. How about we warm ourselves up a bit by giving "
@@ -1776,14 +1776,14 @@ msgstr ""
 "избием и да върнем тази земя на хората!"
 
 #. [message]: speaker=Kapou'e
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/01_End_of_Peace.cfg:146
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/01_End_of_Peace.cfg:147
 #, fuzzy
 msgid "Who is this unlicked whelp? Grunts — kill him and bring me his head!"
 msgstr ""
 "Кой е този нагъл дребосък? Войници - убийте го и ми донесете главата му!"
 
 #. [message]: speaker=unit
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/01_End_of_Peace.cfg:157
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/01_End_of_Peace.cfg:158
 #, fuzzy
 msgid "Argh! I die! But other humans will come to avenge me, filthy orcs!"
 msgstr ""
@@ -1791,35 +1791,35 @@ msgstr ""
 "орки!"
 
 #. [message]: role=second
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/01_End_of_Peace.cfg:166
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/01_End_of_Peace.cfg:167
 #, fuzzy
 msgid "Victory!"
 msgstr "Ура! Победа!"
 
 #. [message]: speaker=Kapou'e
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/01_End_of_Peace.cfg:171
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/01_End_of_Peace.cfg:172
 #, fuzzy
 msgid "Oh, just die, human-worm."
 msgstr "Умри, човешки червей."
 
 #. [unit]: type=Wolf Rider, id=Vrag
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/01_End_of_Peace.cfg:190
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/01_End_of_Peace.cfg:191
 msgid "Vrag"
 msgstr "Враг"
 
 #. [message]: speaker=Vrag
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/01_End_of_Peace.cfg:205
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/01_End_of_Peace.cfg:206
 #, fuzzy
 msgid "(<i>Pant</i>) Chief! Chief!"
 msgstr "*задъхано* Господарю! Господарю! "
 
 #. [message]: speaker=Kapou'e
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/01_End_of_Peace.cfg:210
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/01_End_of_Peace.cfg:211
 msgid "Speak, rider."
 msgstr "Говори, ездачо."
 
 #. [message]: speaker=Vrag
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/01_End_of_Peace.cfg:215
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/01_End_of_Peace.cfg:216
 #, fuzzy
 #| msgid ""
 #| "There is a huge human army marching on us! They can’t be more then one or "
@@ -1832,12 +1832,12 @@ msgstr ""
 "път оттук."
 
 #. [message]: role=second
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/01_End_of_Peace.cfg:220
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/01_End_of_Peace.cfg:221
 msgid "Uh oh! What should we do, Chief?"
 msgstr "О-о! Какво ще правим, господарю?"
 
 #. [message]: speaker=Kapou'e
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/01_End_of_Peace.cfg:225
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/01_End_of_Peace.cfg:226
 #, fuzzy
 msgid ""
 "Don’t be afraid. If any more of these pathetic humans come, we’ll deal with "
@@ -1847,7 +1847,7 @@ msgstr ""
 "както с последната група."
 
 #. [message]: speaker=Vrag
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/01_End_of_Peace.cfg:230
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/01_End_of_Peace.cfg:231
 #, fuzzy
 msgid ""
 "Uh, Chief, with all respect that army is huge! Not only that, but most of "
@@ -1860,12 +1860,12 @@ msgstr ""
 "момента."
 
 #. [message]: speaker=Kapou'e
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/01_End_of_Peace.cfg:235
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/01_End_of_Peace.cfg:236
 msgid "Hmmm..."
 msgstr "Хммм..."
 
 #. [option]
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/01_End_of_Peace.cfg:238
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/01_End_of_Peace.cfg:239
 msgid ""
 "If what you say is true, then there is no way our tribe can face such an "
 "army alone."
@@ -1874,7 +1874,7 @@ msgstr ""
 "армия. "
 
 #. [message]: speaker=Vrag
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/01_End_of_Peace.cfg:243
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/01_End_of_Peace.cfg:244
 #, fuzzy
 msgid ""
 "Wise decision, Kapou’e. By the size of that army, this is no mere raid — it "
@@ -1884,12 +1884,12 @@ msgstr ""
 "набег. Изглежда хората са решили да ни обявят война."
 
 #. [message]: speaker=Kapou'e
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/01_End_of_Peace.cfg:248
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/01_End_of_Peace.cfg:249
 msgid "If they want war, then they shall get war!"
 msgstr "Щом искат война, война ще получат!"
 
 #. [message]: speaker=Kapou'e
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/01_End_of_Peace.cfg:253
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/01_End_of_Peace.cfg:254
 #, fuzzy
 msgid ""
 "We’ll head for Barag Gór in the lands of the free tribes and demand "
@@ -1901,7 +1901,7 @@ msgstr ""
 "племена, за да смажем тези хора."
 
 #. [message]: role=second
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/01_End_of_Peace.cfg:258
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/01_End_of_Peace.cfg:259
 msgid ""
 "But the free tribes are beyond the Mountains of Haag. These mountains are "
 "infested with dwarves and wild trolls."
@@ -1910,7 +1910,7 @@ msgstr ""
 "джуджета и диви тролове."
 
 #. [message]: speaker=Kapou'e
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/01_End_of_Peace.cfg:263
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/01_End_of_Peace.cfg:264
 #, fuzzy
 msgid ""
 "Don’t be so cowardly. The trolls have been our allies in the past — maybe "
@@ -1923,12 +1923,12 @@ msgstr ""
 "трябва да тръгнем възможно най-бързо. "
 
 #. [option]
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/01_End_of_Peace.cfg:275
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/01_End_of_Peace.cfg:276
 msgid "Bah, humans? No better than goblins. We’ll break them!"
 msgstr ""
 
 #. [message]: speaker=Kapou'e
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/01_End_of_Peace.cfg:280
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/01_End_of_Peace.cfg:281
 #, fuzzy
 msgid ""
 "Prepare for battle, my grunts! We’ll show these humans what happens when you "
@@ -3759,7 +3759,7 @@ msgstr ""
 "в делата ни."
 
 #. [message]: speaker=Howgarth III
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/17_The_Human_Attack.cfg:595
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/17_The_Human_Attack.cfg:596
 #, fuzzy
 #| msgid ""
 #| "The hell I don’t, Earl Lanbec’h, the Northern Alliance was witness to a "
@@ -3778,7 +3778,7 @@ msgstr ""
 "организатор и свидетел на споразумението, е да следим то да се спазва."
 
 #. [message]: speaker=Earl Lanbec'h
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/17_The_Human_Attack.cfg:601
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/17_The_Human_Attack.cfg:602
 msgid ""
 "Well, good for you. As a matter of fact, this land is clearly defined under "
 "your precious treaty as human territory. So if you are so keen on being all "
@@ -3790,7 +3790,7 @@ msgstr ""
 "армията си, за да ни помогнете да отблъснем тая оркска напаст."
 
 #. [message]: speaker=Howgarth III
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/17_The_Human_Attack.cfg:606
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/17_The_Human_Attack.cfg:607
 #, fuzzy
 msgid ""
 "Cease your lies, Lanbec’h. We all know that you were the one who started "
@@ -3802,7 +3802,7 @@ msgstr ""
 "страни да участват в преговори, където да обсъдим ситуацията."
 
 #. [message]: speaker=Kapou'e
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/17_The_Human_Attack.cfg:611
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/17_The_Human_Attack.cfg:612
 #, fuzzy
 msgid ""
 "Ha ha, very funny, old fool. You think we are stupid enough to fall for "
@@ -3812,12 +3812,12 @@ msgstr ""
 "та да се хванем? Не сме забравили как постъпихте с баща ми."
 
 #. [message]: speaker=Howgarth III
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/17_The_Human_Attack.cfg:617
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/17_The_Human_Attack.cfg:618
 msgid "What in the world are you talking about?"
 msgstr "Нямам никаква представа за какво говориш."
 
 #. [message]: speaker=Kapou'e
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/17_The_Human_Attack.cfg:622
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/17_The_Human_Attack.cfg:623
 #, fuzzy
 #| msgid ""
 #| "I am Kapou’e, son of the Black-Eye Karun. Twenty-seven years ago you "
@@ -3832,7 +3832,7 @@ msgstr ""
 "Северния съюз."
 
 #. [message]: speaker=Howgarth III
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/17_The_Human_Attack.cfg:628
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/17_The_Human_Attack.cfg:629
 msgid ""
 "What? We received word that he declined our invitation and that was the end "
 "of the matter. I know nothing of his assassination. As a matter of fact, I "
@@ -3843,29 +3843,29 @@ msgstr ""
 "присъствах, когато оркският вестоносец донесе на Раул отговора на Кейрън."
 
 #. [message]: speaker=Kapou'e
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/17_The_Human_Attack.cfg:633
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/17_The_Human_Attack.cfg:634
 msgid "Messenger, what messenger?"
 msgstr "Вестоносец, какъв вестоносец?"
 
 #. [message]: speaker=Howgarth III
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/17_The_Human_Attack.cfg:639
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/17_The_Human_Attack.cfg:640
 msgid "If I remember correctly, it was some orc named Shan Taum."
 msgstr "Ако паметта на ме лъже, беше един орк на има Шан Таум."
 
 #. [message]: speaker=Kapou'e
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/17_The_Human_Attack.cfg:644
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/17_The_Human_Attack.cfg:645
 #, fuzzy
 msgid "Funny, that name sounds oddly familiar..."
 msgstr "Странно, това име ми звучи някак познато..."
 
 #. [message]: speaker=Earl Lanbec'h
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/17_The_Human_Attack.cfg:671
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/17_The_Human_Attack.cfg:672
 msgid "Hey wait, I'm supposed to be the one attacking here! Guards!"
 msgstr ""
 
 #. [message]: speaker=second_unit
 #. "First Faction of Fanatics" = fancy/alliterative way of saying "side 1":
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/17_The_Human_Attack.cfg:752
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/17_The_Human_Attack.cfg:753
 msgid ""
 "Hey Kapou'e, that guard dropped some gold! I'll pick it up for Kapou'e's "
 "First Faction of Fanatics!"
@@ -3873,7 +3873,7 @@ msgstr ""
 
 #. [message]: speaker=second_unit
 #. "Second Squadron of Skullcrushers" = fancy/alliterative way of saying "side 2":
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/17_The_Human_Attack.cfg:761
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/17_The_Human_Attack.cfg:762
 msgid ""
 "Hey Al'Brock, that guard dropped some gold! I'll pick it up for Al'Brock's "
 "Second Squadron of Skullcrushers!"
@@ -3881,7 +3881,7 @@ msgstr ""
 
 #. [message]: speaker=second_unit
 #. Neither this unit nor I could think of a good collective noun that starts with "Th":
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/17_The_Human_Attack.cfg:769
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/17_The_Human_Attack.cfg:771
 msgid ""
 "Hey Flar'Tar, that guard dropped some gold! I'll pick it up for Flar'Tar's "
 "Third Th...Th... well, the point is, we're the third!"
@@ -3889,13 +3889,13 @@ msgstr ""
 
 #. [message]: speaker=second_unit
 #. This shouldn't ever be displayed unless the player is doing something weird with debug mode:
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/17_The_Human_Attack.cfg:777
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/17_The_Human_Attack.cfg:779
 msgid "Due to your poor skill at guarding, we are reclaiming your pay."
 msgstr ""
 
 #. [message]: speaker=second_unit
 #. default fallback; probably unreached:
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/17_The_Human_Attack.cfg:784
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/17_The_Human_Attack.cfg:786
 msgid "The guard dropped some gold!"
 msgstr ""
 
@@ -4636,7 +4636,7 @@ msgstr ""
 #. [message]: speaker=unit
 #. Orcish Archer portrait has a wide grin on its face; he looks like he's thoroughly enjoying this:
 #: Son_Of_The_Black_Eye_Easy_Edition/scenarios/03_Toward_Mountains_of_Haag.cfg:281
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/03_Toward_Mountains_of_Haag.cfg:380
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/03_Toward_Mountains_of_Haag.cfg:383
 msgid "Ahahaha, time for your shakedown, dwarves!"
 msgstr ""
 
@@ -4653,154 +4653,155 @@ msgid "It is time for your shakedown, dwarves."
 msgstr ""
 
 #. [message]: speaker=unit
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/03_Toward_Mountains_of_Haag.cfg:304
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/03_Toward_Mountains_of_Haag.cfg:305
 msgid "Muahaha, time for your shakedown, dwarf runts!"
 msgstr ""
 
 #. [message]: speaker=unit
 #. this is a bloodcurdling scream:
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/03_Toward_Mountains_of_Haag.cfg:312
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/03_Toward_Mountains_of_Haag.cfg:313
 msgid "GRAAAAAHHHH! It's time for your shakedown, dwarf weaklings!"
 msgstr ""
 
 #. [message]: speaker=unit
 #. said in a threatening but serious manner:
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/03_Toward_Mountains_of_Haag.cfg:320
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/03_Toward_Mountains_of_Haag.cfg:321
 msgid ""
 "It is time for you to part with your gold now, you pitiful, insignificant "
 "dwarves."
 msgstr ""
 
 #. [message]: speaker=unit
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/03_Toward_Mountains_of_Haag.cfg:328
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/03_Toward_Mountains_of_Haag.cfg:329
 msgid "Bweeheehee, time for me to take your gold shinies, dwarves!"
 msgstr ""
 
 #. [message]: speaker=unit
 #. since he's a "rouser" and has leadership, make this sound more like a line from an inspiring speech:
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/03_Toward_Mountains_of_Haag.cfg:336
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/03_Toward_Mountains_of_Haag.cfg:337
 msgid "Arise, goblins! Today we take back what is ours from the dwarves!"
 msgstr ""
 
 #. [message]: speaker=unit
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/03_Toward_Mountains_of_Haag.cfg:344
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/03_Toward_Mountains_of_Haag.cfg:345
 msgid ""
 "Ruarrrgghh! It's time for your shakedown, dwarves! That is, unless you'd "
 "rather be food for my wolf!"
 msgstr ""
 
 #. [message]: speaker=unit
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/03_Toward_Mountains_of_Haag.cfg:352
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/03_Toward_Mountains_of_Haag.cfg:353
 msgid "Bwaarrrgghh! Halt! It's time for your shakedown, dwarves!"
 msgstr ""
 
 #. [message]: speaker=unit
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/03_Toward_Mountains_of_Haag.cfg:360
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/03_Toward_Mountains_of_Haag.cfg:361
 msgid ""
 "Ruarrrgghh! It's time for your shakedown, dwarves! That is, unless you'd "
 "rather be food for my direwolf!"
 msgstr ""
 
 #. [message]: speaker=unit
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/03_Toward_Mountains_of_Haag.cfg:367
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/03_Toward_Mountains_of_Haag.cfg:368
 msgid "Heh, heh... pillage...! PILLAGE!"
 msgstr ""
 
 #. [message]: speaker=narrator
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/03_Toward_Mountains_of_Haag.cfg:375
+#. debug message; ok to skip translating:
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/03_Toward_Mountains_of_Haag.cfg:378
 msgid "warning: unhandled unit.type $unit.type"
 msgstr ""
 
 #. [message]: type=Dwarvish Woodcutter
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/03_Toward_Mountains_of_Haag.cfg:406
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/03_Toward_Mountains_of_Haag.cfg:409
 msgid "Dwarvish Villager"
 msgstr ""
 
 #. [message]: type=Dwarvish Woodcutter
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/03_Toward_Mountains_of_Haag.cfg:408
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/03_Toward_Mountains_of_Haag.cfg:411
 msgid "Aieee!"
 msgstr ""
 
 #. [message]: speaker=unit
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/03_Toward_Mountains_of_Haag.cfg:448
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/03_Toward_Mountains_of_Haag.cfg:452
 msgid "Brrr... no dwarves to extort here, just snow..."
 msgstr ""
 
 #. [message]: speaker=unit
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/03_Toward_Mountains_of_Haag.cfg:459
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/03_Toward_Mountains_of_Haag.cfg:463
 msgid ""
 "That's right, there'd BETTER not be any dwarves here! This is an orcish "
 "village!"
 msgstr ""
 
 #. [message]: speaker=unit
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/03_Toward_Mountains_of_Haag.cfg:471
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/03_Toward_Mountains_of_Haag.cfg:475
 msgid ""
 "Huh, that's strange, there's no dwarves here... you'd think there would be..."
 msgstr ""
 
 #. [message]: speaker=unit
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/03_Toward_Mountains_of_Haag.cfg:478
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/03_Toward_Mountains_of_Haag.cfg:482
 msgid "Hm, no dwarves to extort here... oh well."
 msgstr ""
 
 #. [message]: speaker=unit
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/03_Toward_Mountains_of_Haag.cfg:499
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/03_Toward_Mountains_of_Haag.cfg:503
 msgid "We should probably let the trolls have a few of their own villages."
 msgstr ""
 
 #. [message]: speaker=Grüü
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/03_Toward_Mountains_of_Haag.cfg:503
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/03_Toward_Mountains_of_Haag.cfg:507
 msgid "It ok, it not like we was using it anyways."
 msgstr ""
 
 #. [message]: speaker=unit
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/03_Toward_Mountains_of_Haag.cfg:515
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/03_Toward_Mountains_of_Haag.cfg:519
 msgid ""
 "Wait a minute... this is one of our own villages. Why does this count as a "
 "“capture”?"
 msgstr ""
 
 #. [message]: speaker=unit
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/03_Toward_Mountains_of_Haag.cfg:523
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/03_Toward_Mountains_of_Haag.cfg:527
 #, fuzzy
 #| msgid "What should I do with this one?"
 msgid "What the heck is up with this village?!"
 msgstr "А какво да правя с този тук?"
 
 #. [unit]: id=Blemaker, type=Troll Warrior
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/03_Toward_Mountains_of_Haag.cfg:546
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/03_Toward_Mountains_of_Haag.cfg:550
 msgid "Blemaker"
 msgstr "Блимейкър"
 
 #. [unit]: id=Grüü, type=Troll Hero
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/03_Toward_Mountains_of_Haag.cfg:558
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/03_Toward_Mountains_of_Haag.cfg:562
 msgid "Grüü"
 msgstr "Грю"
 
 #. [unit]: id=Toughkon, type=Troll Whelp
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/03_Toward_Mountains_of_Haag.cfg:584
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/03_Toward_Mountains_of_Haag.cfg:588
 msgid "Toughkon"
 msgstr "Тафкон"
 
 #. [unit]: id=Pe, type=Troll Whelp
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/03_Toward_Mountains_of_Haag.cfg:596
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/03_Toward_Mountains_of_Haag.cfg:600
 msgid "Pe"
 msgstr "Пи"
 
 #. [message]: speaker=Blemaker
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/03_Toward_Mountains_of_Haag.cfg:611
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/03_Toward_Mountains_of_Haag.cfg:615
 #, fuzzy
 msgid "Look! Dwarves are fighting orcs!"
 msgstr "Вижте! Джуджета се бият с орки!"
 
 #. [message]: speaker=Grüü
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/03_Toward_Mountains_of_Haag.cfg:615
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/03_Toward_Mountains_of_Haag.cfg:619
 msgid "Father, we should help them. Orcs are our allies."
 msgstr "Татко, трябва да им помогнем. Орките са наши съюзници."
 
 #. [message]: speaker=Blemaker
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/03_Toward_Mountains_of_Haag.cfg:619
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/03_Toward_Mountains_of_Haag.cfg:623
 #, fuzzy
 msgid ""
 "I don’t know. Orcs have been our allies in the past, but they treat us as "
@@ -4810,7 +4811,7 @@ msgstr ""
 "миналото, но винаги са ни третирали като глупаци"
 
 #. [message]: speaker=Grüü
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/03_Toward_Mountains_of_Haag.cfg:623
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/03_Toward_Mountains_of_Haag.cfg:627
 #, fuzzy
 msgid ""
 "But, Father, we don’t know what they are seeking there. Between us, we could "
@@ -4820,7 +4821,7 @@ msgstr ""
 "повод да се отървем от тези джуджета."
 
 #. [message]: speaker=Blemaker
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/03_Toward_Mountains_of_Haag.cfg:627
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/03_Toward_Mountains_of_Haag.cfg:631
 #, fuzzy
 msgid ""
 "Right, my son. We help our orcish friends. But you take care... I would be "
@@ -4830,23 +4831,23 @@ msgstr ""
 "да го преживея, ако нещо ти се случи."
 
 #. [message]: speaker=Grüü
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/03_Toward_Mountains_of_Haag.cfg:641
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/03_Toward_Mountains_of_Haag.cfg:645
 msgid "Father! Oh no!"
 msgstr "Татко! О, не!"
 
 #. [message]: speaker=Grüü
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/03_Toward_Mountains_of_Haag.cfg:645
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/03_Toward_Mountains_of_Haag.cfg:649
 #, fuzzy
 msgid "Filthy dwarves! Now I’ll kill you to the last!"
 msgstr "Мръсни джуджета! Ще ви изтребя до крак!"
 
 #. [message]: speaker=unit
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/03_Toward_Mountains_of_Haag.cfg:656
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/03_Toward_Mountains_of_Haag.cfg:660
 msgid "Oh no, I’m defeated."
 msgstr "О, не, загубих."
 
 #. [message]: speaker=Blemaker
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/03_Toward_Mountains_of_Haag.cfg:665
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/03_Toward_Mountains_of_Haag.cfg:669
 #, fuzzy
 msgid ""
 "My son! I should have never brought him to this fight. Now we return to our "
@@ -4856,7 +4857,7 @@ msgstr ""
 "пещерите си и никога няма да се върнем."
 
 #. [message]: speaker=Kapou'e
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/03_Toward_Mountains_of_Haag.cfg:671
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/03_Toward_Mountains_of_Haag.cfg:675
 #, fuzzy
 msgid ""
 "The trolls are done. We will desperately need their help in the coming "
@@ -4866,12 +4867,12 @@ msgstr ""
 "нужда от тяхната помощ. Без тях почти нямаме надежда."
 
 #. [message]: speaker=unit
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/03_Toward_Mountains_of_Haag.cfg:688
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/03_Toward_Mountains_of_Haag.cfg:692
 msgid "Argh! I die!"
 msgstr "Аргх! Умирам!"
 
 #. [message]: speaker=Kapou'e
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/03_Toward_Mountains_of_Haag.cfg:693
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/03_Toward_Mountains_of_Haag.cfg:697
 #, fuzzy
 msgid ""
 "You were warned, dwarf. Riders, spread out over the area and collect what "
@@ -4886,13 +4887,13 @@ msgstr ""
 "тук, настигнете ни."
 
 #. [message]: role=doggie
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/03_Toward_Mountains_of_Haag.cfg:705
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/03_Toward_Mountains_of_Haag.cfg:709
 #, fuzzy
 msgid "Sounds like fun. All right boys, let’s go!"
 msgstr "Звучи забавно. Хайде, момчета, да вървим!"
 
 #. [message]: speaker=Kapou'e
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/03_Toward_Mountains_of_Haag.cfg:744
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/03_Toward_Mountains_of_Haag.cfg:748
 #, fuzzy
 msgid ""
 "We’ve succeeded! We’ve passed through the Mountains of Haag! Look at these "
@@ -4904,7 +4905,7 @@ msgstr ""
 "Гор."
 
 #. [message]: speaker=Kapou'e
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/03_Toward_Mountains_of_Haag.cfg:764
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/03_Toward_Mountains_of_Haag.cfg:768
 #, fuzzy
 msgid ""
 "Blemaker, many thanks for your help in this fight. Would you and your son "
@@ -4915,12 +4916,12 @@ msgstr ""
 "ти можете да се присъедините към нашия поход. Помощта ви ще е добре дошла!"
 
 #. [message]: speaker=Grüü
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/03_Toward_Mountains_of_Haag.cfg:769
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/03_Toward_Mountains_of_Haag.cfg:773
 msgid "Father, I’d like to join them. Would you mind it?"
 msgstr "Татко, бих искал да останем с тях. Имаш ли нещо против?"
 
 #. [message]: speaker=Blemaker
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/03_Toward_Mountains_of_Haag.cfg:773
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/03_Toward_Mountains_of_Haag.cfg:777
 msgid ""
 "My son, you’re old enough to discover the world. Me, I have to stay here. "
 "But take care, there are plenty of creatures that seek our end, like elves "
@@ -4931,12 +4932,12 @@ msgstr ""
 "елфи и хора ни мислят злото. Те са умни и безмилостни."
 
 #. [message]: speaker=Grüü
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/03_Toward_Mountains_of_Haag.cfg:777
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/03_Toward_Mountains_of_Haag.cfg:781
 msgid "Thanks, father. Don’t worry, I’ll take care of myself."
 msgstr "Благодаря, татко, не се тревожи, ще се грижа за себе си."
 
 #. [message]: speaker=Kapou'e
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/03_Toward_Mountains_of_Haag.cfg:783
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/03_Toward_Mountains_of_Haag.cfg:787
 #, fuzzy
 msgid ""
 "Grüü, many thanks for your help in this fight. I’m sorry for the loss of "
@@ -4947,7 +4948,7 @@ msgstr ""
 "желаеш можеш да се присъединиш към нашия поход. Помощта ти ще е добре дошла!"
 
 #. [message]: speaker=Grüü
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/03_Toward_Mountains_of_Haag.cfg:787
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/03_Toward_Mountains_of_Haag.cfg:791
 msgid ""
 "My father would have come to help you. I would insult his memory not to help "
 "you. I come!"
