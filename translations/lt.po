@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Battle for Wesnoth 1.11\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2024-01-16 04:10 UTC\n"
+"POT-Creation-Date: 2024-10-27 06:08 UTC\n"
 "PO-Revision-Date: 2019-02-21 00:55+0000\n"
 "Last-Translator: Andrius Štikonas <andrius@stikonas.eu>\n"
 "Language-Team: Lithuanian <wesnoth-lt@googlegroups.com>\n"
@@ -13,8 +13,8 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=4; plural=(n==1 ? 0 : n%10>=2 && (n%100<10 || n"
-"%100>=20) ? 1 : n%10==0 || (n%100>10 && n%100<20) ? 2 : 3);\n"
+"Plural-Forms: nplurals=4; plural=(n==1 ? 0 : n%10>=2 && (n%100<10 || "
+"n%100>=20) ? 1 : n%10==0 || (n%100>10 && n%100<20) ? 2 : 3);\n"
 "X-Generator: Poedit 2.1.1\n"
 
 #. Previously I assumed all units that could pick these up were male, until I remembered that Inarix is female,
@@ -1872,12 +1872,12 @@ msgstr "Tylusis miškas"
 msgid "Defeat the elves"
 msgstr "Nugalėkite elfus"
 
-#. [side]: type=Elvish Lady # A sharpshooter in mainline as of 1.16, but her dialogue makes more sense this way, id=Lucile
+#. [side]: type=Elvish Lady # A sharpshooter in mainline as of 1.16, but her dialogue makes more sense this way, id=Lucile, gender=female
 #: Son_Of_The_Black_Eye_Easy_Edition/scenarios/08_Silent_Forest.cfg:84
 msgid "Lucile"
 msgstr "Lucilė"
 
-#. [side]: type=Elvish Lady # A sharpshooter in mainline as of 1.16, but her dialogue makes more sense this way, id=Lucile
+#. [side]: type=Elvish Lady # A sharpshooter in mainline as of 1.16, but her dialogue makes more sense this way, id=Lucile, gender=female
 #. [side]: type=Elvish Captain, id=Raceme
 #. [side]: type=Elvish Marshal, id=Etheliel
 #. [side]: type=Elvish Marshal, id=Hida'tul

@@ -10,7 +10,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hu-sotbe\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2024-01-16 04:10 UTC\n"
+"POT-Creation-Date: 2024-10-27 06:08 UTC\n"
 "PO-Revision-Date: 2012-01-02 16:47+0100\n"
 "Last-Translator: Kádár-Németh Krisztián <krisztian.kad@gmail.com>\n"
 "Language-Team: Hungarian <wesnoth-hungtrans@gna.org>\n"
@@ -2280,12 +2280,12 @@ msgstr "A Néma-erdő"
 msgid "Defeat the elves"
 msgstr "Legyőzöd a tündéket"
 
-#. [side]: type=Elvish Lady # A sharpshooter in mainline as of 1.16, but her dialogue makes more sense this way, id=Lucile
+#. [side]: type=Elvish Lady # A sharpshooter in mainline as of 1.16, but her dialogue makes more sense this way, id=Lucile, gender=female
 #: Son_Of_The_Black_Eye_Easy_Edition/scenarios/08_Silent_Forest.cfg:84
 msgid "Lucile"
 msgstr "Lucile"
 
-#. [side]: type=Elvish Lady # A sharpshooter in mainline as of 1.16, but her dialogue makes more sense this way, id=Lucile
+#. [side]: type=Elvish Lady # A sharpshooter in mainline as of 1.16, but her dialogue makes more sense this way, id=Lucile, gender=female
 #. [side]: type=Elvish Captain, id=Raceme
 #. [side]: type=Elvish Marshal, id=Etheliel
 #. [side]: type=Elvish Marshal, id=Hida'tul

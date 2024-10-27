@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Battle for Wesnoth 0.8.5-CVS\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2024-01-16 04:10 UTC\n"
+"POT-Creation-Date: 2024-10-27 06:08 UTC\n"
 "PO-Revision-Date: 2005-12-05 10:51+0200\n"
 "Last-Translator: \n"
 "Language-Team: Afrikaans\n"
@@ -1985,12 +1985,12 @@ msgstr "Stille Woud"
 msgid "Defeat the elves"
 msgstr "Maak al die vyand se leiers dood"
 
-#. [side]: type=Elvish Lady # A sharpshooter in mainline as of 1.16, but her dialogue makes more sense this way, id=Lucile
+#. [side]: type=Elvish Lady # A sharpshooter in mainline as of 1.16, but her dialogue makes more sense this way, id=Lucile, gender=female
 #: Son_Of_The_Black_Eye_Easy_Edition/scenarios/08_Silent_Forest.cfg:84
 msgid "Lucile"
 msgstr "Lucile"
 
-#. [side]: type=Elvish Lady # A sharpshooter in mainline as of 1.16, but her dialogue makes more sense this way, id=Lucile
+#. [side]: type=Elvish Lady # A sharpshooter in mainline as of 1.16, but her dialogue makes more sense this way, id=Lucile, gender=female
 #. [side]: type=Elvish Captain, id=Raceme
 #. [side]: type=Elvish Marshal, id=Etheliel
 #. [side]: type=Elvish Marshal, id=Hida'tul

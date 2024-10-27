@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: en@shaw\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2024-01-16 04:10 UTC\n"
+"POT-Creation-Date: 2024-10-27 06:08 UTC\n"
 "PO-Revision-Date: 2009-10-13 13:00-0400\n"
 "Last-Translator: Arc Riley <arcriley@ubuntu.com>\n"
 "Language-Team: Shavian English <ubuntu-l10n-en-shaw@lists.launchpad.net>\n"
@@ -2166,12 +2166,12 @@ msgstr "𐑕𐑲𐑤𐑩𐑯𐑑 𐑓𐑹𐑦𐑕𐑑"
 msgid "Defeat the elves"
 msgstr "𐑛𐑦𐑓𐑰𐑑 𐑞 𐑧𐑤𐑝𐑟"
 
-#. [side]: type=Elvish Lady # A sharpshooter in mainline as of 1.16, but her dialogue makes more sense this way, id=Lucile
+#. [side]: type=Elvish Lady # A sharpshooter in mainline as of 1.16, but her dialogue makes more sense this way, id=Lucile, gender=female
 #: Son_Of_The_Black_Eye_Easy_Edition/scenarios/08_Silent_Forest.cfg:84
 msgid "Lucile"
 msgstr "𐑤𐑵𐑕𐑰𐑤"
 
-#. [side]: type=Elvish Lady # A sharpshooter in mainline as of 1.16, but her dialogue makes more sense this way, id=Lucile
+#. [side]: type=Elvish Lady # A sharpshooter in mainline as of 1.16, but her dialogue makes more sense this way, id=Lucile, gender=female
 #. [side]: type=Elvish Captain, id=Raceme
 #. [side]: type=Elvish Marshal, id=Etheliel
 #. [side]: type=Elvish Marshal, id=Hida'tul

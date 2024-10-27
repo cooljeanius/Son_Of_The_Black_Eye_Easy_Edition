@@ -1,11 +1,11 @@
 --- wesnoth-sotbe.pot	2020-09-11 18:39:04.000000000 -0400
-+++ wesnoth-sotbeee.pot	2024-01-15 23:10:03.000000000 -0500
++++ wesnoth-sotbeee.pot	2024-10-27 02:08:16.000000000 -0400
 @@ -2,7 +2,7 @@
  msgstr ""
  "Project-Id-Version: PACKAGE VERSION\n"
  "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 -"POT-Creation-Date: 2020-08-08 09:20 UTC\n"
-+"POT-Creation-Date: 2024-01-16 04:10 UTC\n"
++"POT-Creation-Date: 2024-10-27 06:08 UTC\n"
  "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
  "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
  "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -2256,7 +2256,7 @@
 -#. [message]: role=Scout
 -#: data/campaigns/Son_Of_The_Black_Eye/scenarios/04_The_Siege_of_Barag_Gor.cfg:306
 -msgid "What business do you high-and-mighty elves have with our shamans?"
-+#. [side]: type=Elvish Lady # A sharpshooter in mainline as of 1.16, but her dialogue makes more sense this way, id=Lucile
++#. [side]: type=Elvish Lady # A sharpshooter in mainline as of 1.16, but her dialogue makes more sense this way, id=Lucile, gender=female
 +#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/08_Silent_Forest.cfg:84
 +msgid "Lucile"
  msgstr ""
@@ -2264,7 +2264,7 @@
 -#. [message]: speaker=Ammon
 -#: data/campaigns/Son_Of_The_Black_Eye/scenarios/04_The_Siege_of_Barag_Gor.cfg:311
 -msgid "Our business with them is none of your concern."
-+#. [side]: type=Elvish Lady # A sharpshooter in mainline as of 1.16, but her dialogue makes more sense this way, id=Lucile
++#. [side]: type=Elvish Lady # A sharpshooter in mainline as of 1.16, but her dialogue makes more sense this way, id=Lucile, gender=female
 +#. [side]: type=Elvish Captain, id=Raceme
 +#. [side]: type=Elvish Marshal, id=Etheliel
 +#. [side]: type=Elvish Marshal, id=Hida'tul
