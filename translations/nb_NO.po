@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Battle for Wesnoth 0.8.2-CVS\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2024-10-27 06:17 UTC\n"
+"POT-Creation-Date: 2024-10-28 04:06 UTC\n"
 "PO-Revision-Date: 2004-09-18 20:19+0100\n"
 "Last-Translator: Erik <erikmesoy@yahoo.com>\n"
 "Language-Team: none\n"
@@ -115,8 +115,8 @@ msgstr "Uten Inarix  her for å lede saurianerene er det ikke håp."
 #. [side]: type=Orcish Nightblade, type=Orcish Slayer, id=Rugh
 #: Son_Of_The_Black_Eye_Easy_Edition/utils/utils.cfg:80
 #: Son_Of_The_Black_Eye_Easy_Edition/utils/utils.cfg:88
-#: Son_Of_The_Black_Eye_Easy_Edition/utils/utils.cfg:109
-#: Son_Of_The_Black_Eye_Easy_Edition/utils/utils.cfg:133
+#: Son_Of_The_Black_Eye_Easy_Edition/utils/utils.cfg:113
+#: Son_Of_The_Black_Eye_Easy_Edition/utils/utils.cfg:137
 #: Son_Of_The_Black_Eye_Easy_Edition/scenarios/14_Back_Home.cfg:88
 #: Son_Of_The_Black_Eye_Easy_Edition/scenarios/15_Civil_War.cfg:782
 #: Son_Of_The_Black_Eye_Easy_Edition/scenarios/06_Black_Flag.cfg:105
@@ -126,16 +126,22 @@ msgstr "Uten Inarix  her for å lede saurianerene er det ikke håp."
 msgid "Kapou’e"
 msgstr "Kapou’e"
 
-#: Son_Of_The_Black_Eye_Easy_Edition/utils/utils.cfg:102
+#: Son_Of_The_Black_Eye_Easy_Edition/utils/utils.cfg:90
+#, fuzzy
+#| msgid "Kapou’e"
+msgid "Kapou’e Side"
+msgstr "Kapou’e"
+
+#: Son_Of_The_Black_Eye_Easy_Edition/utils/utils.cfg:106
 msgid "Al’Brock"
 msgstr ""
 
-#: Son_Of_The_Black_Eye_Easy_Edition/utils/utils.cfg:126
+#: Son_Of_The_Black_Eye_Easy_Edition/utils/utils.cfg:130
 msgid "Flar’Tar"
 msgstr ""
 
 #. [note]
-#: Son_Of_The_Black_Eye_Easy_Edition/utils/utils.cfg:149
+#: Son_Of_The_Black_Eye_Easy_Edition/utils/utils.cfg:153
 msgid "The Great Horde: upkeep cost of every unit decreased by one."
 msgstr ""
 
@@ -734,6 +740,13 @@ msgstr ""
 #: Son_Of_The_Black_Eye_Easy_Edition/scenarios/14_Back_Home.cfg:4
 msgid "Back Home"
 msgstr ""
+
+#. [side]: id=Grüü, type=Great Troll
+#. [unit]: id=Grüü, type=Troll Hero
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/14_Back_Home.cfg:84
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/03_Toward_Mountains_of_Haag.cfg:562
+msgid "Grüü"
+msgstr "Grüü"
 
 #. [side]: type=General, id=Telthys
 #: Son_Of_The_Black_Eye_Easy_Edition/scenarios/14_Back_Home.cfg:122
@@ -4158,11 +4171,6 @@ msgstr "Hva mener du vi bør gjøre?"
 #: Son_Of_The_Black_Eye_Easy_Edition/scenarios/03_Toward_Mountains_of_Haag.cfg:550
 msgid "Blemaker"
 msgstr "Blemaker"
-
-#. [unit]: id=Grüü, type=Troll Hero
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/03_Toward_Mountains_of_Haag.cfg:562
-msgid "Grüü"
-msgstr "Grüü"
 
 #. [unit]: id=Toughkon, type=Troll Whelp
 #: Son_Of_The_Black_Eye_Easy_Edition/scenarios/03_Toward_Mountains_of_Haag.cfg:588

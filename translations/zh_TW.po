@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wesnoth-1.14\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2024-10-27 06:17 UTC\n"
+"POT-Creation-Date: 2024-10-28 04:06 UTC\n"
 "PO-Revision-Date: 2020-05-09 22:36+0800\n"
 "Last-Translator: 楊綮銘 <steven2880@gmail.com>\n"
 "Language-Team: Wesnoth Traditional Chinese Team\n"
@@ -118,8 +118,8 @@ msgstr "可惡，少了音娜芮克絲領導蜥蜴人，我們根本無法徵召
 #. [side]: type=Orcish Nightblade, type=Orcish Slayer, id=Rugh
 #: Son_Of_The_Black_Eye_Easy_Edition/utils/utils.cfg:80
 #: Son_Of_The_Black_Eye_Easy_Edition/utils/utils.cfg:88
-#: Son_Of_The_Black_Eye_Easy_Edition/utils/utils.cfg:109
-#: Son_Of_The_Black_Eye_Easy_Edition/utils/utils.cfg:133
+#: Son_Of_The_Black_Eye_Easy_Edition/utils/utils.cfg:113
+#: Son_Of_The_Black_Eye_Easy_Edition/utils/utils.cfg:137
 #: Son_Of_The_Black_Eye_Easy_Edition/scenarios/14_Back_Home.cfg:88
 #: Son_Of_The_Black_Eye_Easy_Edition/scenarios/15_Civil_War.cfg:782
 #: Son_Of_The_Black_Eye_Easy_Edition/scenarios/06_Black_Flag.cfg:105
@@ -129,16 +129,22 @@ msgstr "可惡，少了音娜芮克絲領導蜥蜴人，我們根本無法徵召
 msgid "Kapou’e"
 msgstr "卡叵尹"
 
-#: Son_Of_The_Black_Eye_Easy_Edition/utils/utils.cfg:102
+#: Son_Of_The_Black_Eye_Easy_Edition/utils/utils.cfg:90
+#, fuzzy
+#| msgid "Kapou’e"
+msgid "Kapou’e Side"
+msgstr "卡叵尹"
+
+#: Son_Of_The_Black_Eye_Easy_Edition/utils/utils.cfg:106
 msgid "Al’Brock"
 msgstr "奧伯洛克"
 
-#: Son_Of_The_Black_Eye_Easy_Edition/utils/utils.cfg:126
+#: Son_Of_The_Black_Eye_Easy_Edition/utils/utils.cfg:130
 msgid "Flar’Tar"
 msgstr "弗拉塔"
 
 #. [note]
-#: Son_Of_The_Black_Eye_Easy_Edition/utils/utils.cfg:149
+#: Son_Of_The_Black_Eye_Easy_Edition/utils/utils.cfg:153
 msgid "The Great Horde: upkeep cost of every unit decreased by one."
 msgstr "大部落：每個單位的維持費用降低一金幣。"
 
@@ -783,6 +789,13 @@ msgstr "耶！！"
 #: Son_Of_The_Black_Eye_Easy_Edition/scenarios/14_Back_Home.cfg:4
 msgid "Back Home"
 msgstr "回家"
+
+#. [side]: id=Grüü, type=Great Troll
+#. [unit]: id=Grüü, type=Troll Hero
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/14_Back_Home.cfg:84
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/03_Toward_Mountains_of_Haag.cfg:562
+msgid "Grüü"
+msgstr "庫魯"
 
 #. [side]: type=General, id=Telthys
 #: Son_Of_The_Black_Eye_Easy_Edition/scenarios/14_Back_Home.cfg:122
@@ -4481,11 +4494,6 @@ msgstr "那這傢伙要如何處置呢？"
 #: Son_Of_The_Black_Eye_Easy_Edition/scenarios/03_Toward_Mountains_of_Haag.cfg:550
 msgid "Blemaker"
 msgstr "布壘馬克"
-
-#. [unit]: id=Grüü, type=Troll Hero
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/03_Toward_Mountains_of_Haag.cfg:562
-msgid "Grüü"
-msgstr "庫魯"
 
 #. [unit]: id=Toughkon, type=Troll Whelp
 #: Son_Of_The_Black_Eye_Easy_Edition/scenarios/03_Toward_Mountains_of_Haag.cfg:588

@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wesnoth-sotbe\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2024-10-27 06:17 UTC\n"
+"POT-Creation-Date: 2024-10-28 04:06 UTC\n"
 "PO-Revision-Date: 2011-12-10 09:11+0100\n"
 "Last-Translator: Chusslove Illich <caslav.ilic@gmx.net>\n"
 "Language-Team: Serbian\n"
@@ -120,8 +120,8 @@ msgstr ""
 #. [side]: type=Orcish Nightblade, type=Orcish Slayer, id=Rugh
 #: Son_Of_The_Black_Eye_Easy_Edition/utils/utils.cfg:80
 #: Son_Of_The_Black_Eye_Easy_Edition/utils/utils.cfg:88
-#: Son_Of_The_Black_Eye_Easy_Edition/utils/utils.cfg:109
-#: Son_Of_The_Black_Eye_Easy_Edition/utils/utils.cfg:133
+#: Son_Of_The_Black_Eye_Easy_Edition/utils/utils.cfg:113
+#: Son_Of_The_Black_Eye_Easy_Edition/utils/utils.cfg:137
 #: Son_Of_The_Black_Eye_Easy_Edition/scenarios/14_Back_Home.cfg:88
 #: Son_Of_The_Black_Eye_Easy_Edition/scenarios/15_Civil_War.cfg:782
 #: Son_Of_The_Black_Eye_Easy_Edition/scenarios/06_Black_Flag.cfg:105
@@ -131,16 +131,22 @@ msgstr ""
 msgid "Kapou’e"
 msgstr "Kapue"
 
-#: Son_Of_The_Black_Eye_Easy_Edition/utils/utils.cfg:102
+#: Son_Of_The_Black_Eye_Easy_Edition/utils/utils.cfg:90
+#, fuzzy
+#| msgid "Kapou’e"
+msgid "Kapou’e Side"
+msgstr "Kapue"
+
+#: Son_Of_The_Black_Eye_Easy_Edition/utils/utils.cfg:106
 msgid "Al’Brock"
 msgstr "Albrok"
 
-#: Son_Of_The_Black_Eye_Easy_Edition/utils/utils.cfg:126
+#: Son_Of_The_Black_Eye_Easy_Edition/utils/utils.cfg:130
 msgid "Flar’Tar"
 msgstr "Flartar"
 
 #. [note]
-#: Son_Of_The_Black_Eye_Easy_Edition/utils/utils.cfg:149
+#: Son_Of_The_Black_Eye_Easy_Edition/utils/utils.cfg:153
 msgid "The Great Horde: upkeep cost of every unit decreased by one."
 msgstr "Velika horda: izdaci svake jedinice smanjeni su za po jedan."
 
@@ -816,6 +822,13 @@ msgstr "DA!"
 #: Son_Of_The_Black_Eye_Easy_Edition/scenarios/14_Back_Home.cfg:4
 msgid "Back Home"
 msgstr "Povratak kući"
+
+#. [side]: id=Grüü, type=Great Troll
+#. [unit]: id=Grüü, type=Troll Hero
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/14_Back_Home.cfg:84
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/03_Toward_Mountains_of_Haag.cfg:562
+msgid "Grüü"
+msgstr "Gri"
 
 # |, no-check-spell
 #. [side]: type=General, id=Telthys
@@ -4874,11 +4887,6 @@ msgstr "Šta ćemo sa ovim?"
 #: Son_Of_The_Black_Eye_Easy_Edition/scenarios/03_Toward_Mountains_of_Haag.cfg:550
 msgid "Blemaker"
 msgstr "Blemaker"
-
-#. [unit]: id=Grüü, type=Troll Hero
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/03_Toward_Mountains_of_Haag.cfg:562
-msgid "Grüü"
-msgstr "Gri"
 
 # |, no-check-spell
 #. [unit]: id=Toughkon, type=Troll Whelp

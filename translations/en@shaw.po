@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: en@shaw\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2024-10-27 06:17 UTC\n"
+"POT-Creation-Date: 2024-10-28 04:06 UTC\n"
 "PO-Revision-Date: 2009-10-13 13:00-0400\n"
 "Last-Translator: Arc Riley <arcriley@ubuntu.com>\n"
 "Language-Team: Shavian English <ubuntu-l10n-en-shaw@lists.launchpad.net>\n"
@@ -121,8 +121,8 @@ msgstr ""
 #. [side]: type=Orcish Nightblade, type=Orcish Slayer, id=Rugh
 #: Son_Of_The_Black_Eye_Easy_Edition/utils/utils.cfg:80
 #: Son_Of_The_Black_Eye_Easy_Edition/utils/utils.cfg:88
-#: Son_Of_The_Black_Eye_Easy_Edition/utils/utils.cfg:109
-#: Son_Of_The_Black_Eye_Easy_Edition/utils/utils.cfg:133
+#: Son_Of_The_Black_Eye_Easy_Edition/utils/utils.cfg:113
+#: Son_Of_The_Black_Eye_Easy_Edition/utils/utils.cfg:137
 #: Son_Of_The_Black_Eye_Easy_Edition/scenarios/14_Back_Home.cfg:88
 #: Son_Of_The_Black_Eye_Easy_Edition/scenarios/15_Civil_War.cfg:782
 #: Son_Of_The_Black_Eye_Easy_Edition/scenarios/06_Black_Flag.cfg:105
@@ -132,16 +132,22 @@ msgstr ""
 msgid "Kapou’e"
 msgstr "·𐑒𐑨𐑐𐑬'𐑰"
 
-#: Son_Of_The_Black_Eye_Easy_Edition/utils/utils.cfg:102
+#: Son_Of_The_Black_Eye_Easy_Edition/utils/utils.cfg:90
+#, fuzzy
+#| msgid "Kapou’e"
+msgid "Kapou’e Side"
+msgstr "·𐑒𐑨𐑐𐑬'𐑰"
+
+#: Son_Of_The_Black_Eye_Easy_Edition/utils/utils.cfg:106
 msgid "Al’Brock"
 msgstr "·𐑨𐑤'𐑚𐑮𐑪𐑒"
 
-#: Son_Of_The_Black_Eye_Easy_Edition/utils/utils.cfg:126
+#: Son_Of_The_Black_Eye_Easy_Edition/utils/utils.cfg:130
 msgid "Flar’Tar"
 msgstr "·𐑓𐑤𐑸'𐑑𐑸"
 
 #. [note]
-#: Son_Of_The_Black_Eye_Easy_Edition/utils/utils.cfg:149
+#: Son_Of_The_Black_Eye_Easy_Edition/utils/utils.cfg:153
 msgid "The Great Horde: upkeep cost of every unit decreased by one."
 msgstr "𐑞 𐑜𐑮𐑱𐑑 𐑣𐑹𐑛: 𐑳𐑐𐑒𐑰𐑐 𐑒𐑪𐑕𐑑 𐑝 𐑧𐑝𐑮𐑦 𐑿𐑯𐑦𐑑 𐑛𐑦𐑒𐑮𐑰𐑕𐑑 𐑚𐑲 𐑢𐑳𐑯."
 
@@ -792,6 +798,13 @@ msgstr "𐑘𐑨!"
 #: Son_Of_The_Black_Eye_Easy_Edition/scenarios/14_Back_Home.cfg:4
 msgid "Back Home"
 msgstr "𐑚𐑨𐑒 𐑣𐑴𐑥"
+
+#. [side]: id=Grüü, type=Great Troll
+#. [unit]: id=Grüü, type=Troll Hero
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/14_Back_Home.cfg:84
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/03_Toward_Mountains_of_Haag.cfg:562
+msgid "Grüü"
+msgstr "Grüü"
 
 #. [side]: type=General, id=Telthys
 #: Son_Of_The_Black_Eye_Easy_Edition/scenarios/14_Back_Home.cfg:122
@@ -4704,11 +4717,6 @@ msgstr "𐑢𐑪𐑑 𐑖𐑫𐑛 𐑲 𐑛𐑵 𐑢𐑦𐑞 𐑞𐑦𐑕 𐑢�
 #: Son_Of_The_Black_Eye_Easy_Edition/scenarios/03_Toward_Mountains_of_Haag.cfg:550
 msgid "Blemaker"
 msgstr "·𐑚𐑤𐑧𐑥𐑱𐑒𐑻"
-
-#. [unit]: id=Grüü, type=Troll Hero
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/03_Toward_Mountains_of_Haag.cfg:562
-msgid "Grüü"
-msgstr "Grüü"
 
 #. [unit]: id=Toughkon, type=Troll Whelp
 #: Son_Of_The_Black_Eye_Easy_Edition/scenarios/03_Toward_Mountains_of_Haag.cfg:588
