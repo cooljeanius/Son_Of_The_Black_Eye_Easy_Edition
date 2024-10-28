@@ -1,6 +1,8 @@
 *~
 *.cfg-bak
 *.swp
+*.orig
+*.rej
 *.pxd
 .git/*
 .github/*
