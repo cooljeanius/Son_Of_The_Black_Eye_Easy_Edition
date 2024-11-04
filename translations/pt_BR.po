@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Battle for Wesnoth 0.8.2-CVS\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2024-11-04 05:45 UTC\n"
+"POT-Creation-Date: 2024-11-04 07:18 UTC\n"
 "PO-Revision-Date: 2020-05-21 16:08-0300\n"
 "Last-Translator: Andrei Machado <andreisp.machado@yahoo.com>\n"
 "Language-Team: none\n"
@@ -123,7 +123,7 @@ msgstr ""
 #: Son_Of_The_Black_Eye_Easy_Edition/utils/utils.cfg:137
 #: Son_Of_The_Black_Eye_Easy_Edition/scenarios/14_Back_Home.cfg:88
 #: Son_Of_The_Black_Eye_Easy_Edition/scenarios/15_Civil_War.cfg:782
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/06_Black_Flag.cfg:105
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/06_Black_Flag.cfg:108
 #: Son_Of_The_Black_Eye_Easy_Edition/scenarios/18_Northern_Alliance.cfg:241
 #: Son_Of_The_Black_Eye_Easy_Edition/scenarios/03_Toward_Mountains_of_Haag.cfg:155
 #: Son_Of_The_Black_Eye_Easy_Edition/scenarios/04_The_Siege_of_Barag_Gor.cfg:107
@@ -267,10 +267,10 @@ msgstr "Derrote Shan Taum"
 #: Son_Of_The_Black_Eye_Easy_Edition/scenarios/05_To_the_Harbor_of_Tirigaz.cfg:48
 #: Son_Of_The_Black_Eye_Easy_Edition/scenarios/10_Saving_Inarix.cfg:49
 #: Son_Of_The_Black_Eye_Easy_Edition/scenarios/16_The_Coward.cfg:27
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/06_Black_Flag.cfg:146
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/06_Black_Flag.cfg:149
 #: Son_Of_The_Black_Eye_Easy_Edition/scenarios/17_The_Human_Attack.cfg:32
 #: Son_Of_The_Black_Eye_Easy_Edition/scenarios/07_The_Desert_of_Death.cfg:24
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/07_The_Desert_of_Death.cfg:438
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/07_The_Desert_of_Death.cfg:442
 #: Son_Of_The_Black_Eye_Easy_Edition/scenarios/18_Northern_Alliance.cfg:30
 #: Son_Of_The_Black_Eye_Easy_Edition/scenarios/03_Toward_Mountains_of_Haag.cfg:37
 #: Son_Of_The_Black_Eye_Easy_Edition/scenarios/02_The_Human_Army.cfg:60
@@ -289,10 +289,10 @@ msgstr "Morte de Kapou'e"
 #: Son_Of_The_Black_Eye_Easy_Edition/scenarios/05_To_the_Harbor_of_Tirigaz.cfg:52
 #: Son_Of_The_Black_Eye_Easy_Edition/scenarios/10_Saving_Inarix.cfg:53
 #: Son_Of_The_Black_Eye_Easy_Edition/scenarios/16_The_Coward.cfg:31
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/06_Black_Flag.cfg:150
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/06_Black_Flag.cfg:153
 #: Son_Of_The_Black_Eye_Easy_Edition/scenarios/17_The_Human_Attack.cfg:44
 #: Son_Of_The_Black_Eye_Easy_Edition/scenarios/07_The_Desert_of_Death.cfg:28
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/07_The_Desert_of_Death.cfg:442
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/07_The_Desert_of_Death.cfg:446
 #: Son_Of_The_Black_Eye_Easy_Edition/scenarios/18_Northern_Alliance.cfg:33
 #: Son_Of_The_Black_Eye_Easy_Edition/scenarios/03_Toward_Mountains_of_Haag.cfg:42
 #: Son_Of_The_Black_Eye_Easy_Edition/scenarios/13_The_Dwarvish_Stand.cfg:28
@@ -305,7 +305,7 @@ msgstr "Morte de Grüü"
 #: Son_Of_The_Black_Eye_Easy_Edition/scenarios/08_Silent_Forest.cfg:32
 #: Son_Of_The_Black_Eye_Easy_Edition/scenarios/05_To_the_Harbor_of_Tirigaz.cfg:56
 #: Son_Of_The_Black_Eye_Easy_Edition/scenarios/07_The_Desert_of_Death.cfg:32
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/07_The_Desert_of_Death.cfg:446
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/07_The_Desert_of_Death.cfg:450
 #: Son_Of_The_Black_Eye_Easy_Edition/scenarios/04_The_Siege_of_Barag_Gor.cfg:35
 msgid "Death of a Shaman"
 msgstr "Morte de um Xamã"
@@ -1698,8 +1698,8 @@ msgstr "Alber"
 #. [side]: type=General, id=Lanbec'h
 #: Son_Of_The_Black_Eye_Easy_Edition/scenarios/01_End_of_Peace.cfg:76
 #: Son_Of_The_Black_Eye_Easy_Edition/scenarios/06_Black_Flag.cfg:34
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/06_Black_Flag.cfg:47
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/06_Black_Flag.cfg:74
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/06_Black_Flag.cfg:50
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/06_Black_Flag.cfg:77
 #: Son_Of_The_Black_Eye_Easy_Edition/scenarios/02_The_Human_Army.cfg:90
 msgid "Humans"
 msgstr "Humanos"
@@ -3397,27 +3397,27 @@ msgid "Slowhand"
 msgstr "Mão-lenta"
 
 #. [side]: type=Lieutenant, type=General, id=Harman
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/06_Black_Flag.cfg:71
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/06_Black_Flag.cfg:74
 msgid "Harman"
 msgstr "Harman"
 
 #. [side]: type=Orcish Warrior, type=Orcish Grunt, id=Affman
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/06_Black_Flag.cfg:92
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/06_Black_Flag.cfg:95
 msgid "Affman"
 msgstr "Affman"
 
 #. [objective]: condition=win
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/06_Black_Flag.cfg:142
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/06_Black_Flag.cfg:145
 msgid "Defeat Slowhand and Harman"
 msgstr "Derrote Mão-lenta e Harman"
 
 #. [message]: speaker=Kapou'e
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/06_Black_Flag.cfg:194
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/06_Black_Flag.cfg:197
 msgid "So, here is Tirigaz. But what’s going on?"
 msgstr "Então, aqui está Tirigaz. Mas o que está acontecendo?"
 
 #. [message]: speaker=Pirk
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/06_Black_Flag.cfg:198
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/06_Black_Flag.cfg:201
 msgid ""
 "Looks like humans have attacked here too. You were right, Kapou’e, the "
 "humans have declared all-out war on us."
@@ -3426,7 +3426,7 @@ msgstr ""
 "humanos declararam guerra contra nós."
 
 #. [message]: speaker=Kapou'e
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/06_Black_Flag.cfg:202
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/06_Black_Flag.cfg:205
 msgid ""
 "Listen, if we are to meet with the rest of the Great Council, we have to "
 "repel this attack. You shamans hide here in the forest until we defeat them. "
@@ -3439,12 +3439,12 @@ msgstr ""
 "precisarmos nos preocupar em proteger vocês."
 
 #. [message]: speaker=Gork
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/06_Black_Flag.cfg:206
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/06_Black_Flag.cfg:209
 msgid "This is a wise choice. Good luck, Son of the Black-Eye."
 msgstr "Sábia decisão. Boa sorte, filho do Olho-Negro."
 
 #. [message]: speaker=Slowhand
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/06_Black_Flag.cfg:215
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/06_Black_Flag.cfg:218
 msgid ""
 "Haha! Our plan is going well, let’s surround them on land while our allies "
 "attack them from sea!"
@@ -3453,29 +3453,29 @@ msgstr ""
 "atacam-os pelo mar!"
 
 #. [message]: speaker=Affman
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/06_Black_Flag.cfg:232
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/06_Black_Flag.cfg:235
 msgid "Look, a party of our kind approaches from the North."
 msgstr "Vejam, um grupo dos nossos aproximam-se pelo Norte."
 
 #. [message]: speaker=Kapou'e
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/06_Black_Flag.cfg:237
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/06_Black_Flag.cfg:240
 msgid "Greetings from Kapou’e, Son of the Black-Eye Karun."
 msgstr "Kapou’e, Filho de Karun Olho-Negro lhe saúda."
 
 #. [message]: speaker=Affman
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/06_Black_Flag.cfg:242
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/06_Black_Flag.cfg:245
 msgid "Son of the great Black-Eye Karun?! You do us honor, Chief."
 msgstr "Filho de Karun Olho-Negro?! Você nos honra, Chefe."
 
 #. [message]: speaker=Kapou'e
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/06_Black_Flag.cfg:247
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/06_Black_Flag.cfg:250
 msgid "Do not grovel like humans, just tell me what’s going on here."
 msgstr ""
 "Não me bajule como os humanos fazem, apenas me diga o que está acontecendo "
 "aqui."
 
 #. [message]: speaker=Affman
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/06_Black_Flag.cfg:252
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/06_Black_Flag.cfg:255
 msgid ""
 "I don’t really know, one day all was calm and peaceful and the next day a "
 "fleet of human ships showed up and began spewing out troops. Did our best to "
@@ -3488,12 +3488,12 @@ msgstr ""
 "reforços humanos chegaram dos assentamentos deles ao Sul."
 
 #. [message]: speaker=Kapou'e
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/06_Black_Flag.cfg:257
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/06_Black_Flag.cfg:260
 msgid "Are the shamans safe?"
 msgstr "Os xamãs estão a salvo?"
 
 #. [message]: speaker=Affman
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/06_Black_Flag.cfg:262
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/06_Black_Flag.cfg:265
 msgid ""
 "When we realized that there was no way we could hold the humans off, we sent "
 "them east to a place near the Mourned Hills along with most of our women and "
@@ -3505,7 +3505,7 @@ msgstr ""
 "comprar algum tempo pra eles."
 
 #. [message]: speaker=Kapou'e
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/06_Black_Flag.cfg:267
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/06_Black_Flag.cfg:270
 #, fuzzy
 #| msgid ""
 #| "Wise decision. We have actually come to speak to the shamans, but while "
@@ -3528,32 +3528,43 @@ msgstr ""
 "destruir a base de operações que eles estabeleceram na terra."
 
 #. [message]: speaker=Grüü
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/06_Black_Flag.cfg:272
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/06_Black_Flag.cfg:275
 msgid "I love this strategy, Chief!"
 msgstr "Eu amo essa estratégia, Chefe!"
 
 #. [message]: speaker=Affman
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/06_Black_Flag.cfg:278
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/06_Black_Flag.cfg:281
 msgid "Come now fellow orcs; attack and drive the humans off!"
 msgstr ""
 
+#. [message]: speaker=unit
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/06_Black_Flag.cfg:309
+msgid "Made it! Troops, make this encampment a bit bigger!"
+msgstr ""
+
 #. [message]
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/06_Black_Flag.cfg:377
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/06_Black_Flag.cfg:398
 msgid "Let’s get those orcs!"
 msgstr "Vamos pegar aqueles orcs!"
 
 #. [message]: speaker=unit
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/06_Black_Flag.cfg:402
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/06_Black_Flag.cfg:423
+msgid ""
+"I did my best to hold them off, Kapou’e! Now it’s up to you to defeat them!"
+msgstr ""
+
+#. [message]: speaker=unit
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/06_Black_Flag.cfg:434
 msgid "Aaaargh! I die!"
 msgstr "Aaargh! Estou morrendo!"
 
 #. [message]: speaker=Kapou'e
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/06_Black_Flag.cfg:406
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/06_Black_Flag.cfg:438
 msgid "Finally, you pay for what you did to my orc brothers!"
 msgstr "Finalmente você pagou pelo que fez com os meus irmãos orcs!"
 
 #. [message]: speaker=Kapou'e
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/06_Black_Flag.cfg:416
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/06_Black_Flag.cfg:448
 msgid ""
 "We are victorious at last. Someone go tell the shamans that they can come "
 "out now."
@@ -3562,14 +3573,14 @@ msgstr ""
 "sair dos seus esconderijos."
 
 #. [message]: speaker=Gork
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/06_Black_Flag.cfg:432
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/06_Black_Flag.cfg:464
 msgid ""
 "Congratulations on your victory, Kapou’e. You do honor to the memory of your "
 "father."
 msgstr "Parabéns pela sua vitória, Kapou’e. Você honra a memória de seu pai."
 
 #. [message]: speaker=Kapou'e
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/06_Black_Flag.cfg:436
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/06_Black_Flag.cfg:468
 msgid ""
 "Thanks, but I have news. Since the forces here were certain they were going "
 "to be defeated, they sent the shamans to the Mourned Hills. If we want to "
@@ -3580,7 +3591,7 @@ msgstr ""
 "quisermos ver eles, teremos que ir até lá."
 
 #. [message]: speaker=Pirk
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/06_Black_Flag.cfg:440
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/06_Black_Flag.cfg:472
 msgid ""
 "Oh, great. That means we have to cross the Desert of Death which is full of "
 "poisonous giant scorpions and human outlaws. And bypassing it would take too "
@@ -3593,7 +3604,7 @@ msgstr ""
 "Deserto teremos que atravessar a Floresta Silenciosa!"
 
 #. [message]: speaker=Grüü
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/06_Black_Flag.cfg:444
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/06_Black_Flag.cfg:476
 msgid ""
 "Well, we have no choice... I’ve never tasted scorpions but I am sure they "
 "are good. This journey will be fun."
@@ -3972,7 +3983,7 @@ msgid "Ar-Dant"
 msgstr "Ar-Dant"
 
 #. [part]
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/07_The_Desert_of_Death.cfg:113
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/07_The_Desert_of_Death.cfg:117
 msgid ""
 "Resting during the day and doing most of their marching by night, the party "
 "moved steadily through the sand for two days."
@@ -3981,7 +3992,7 @@ msgstr ""
 "grupo se manteve em um ritmo constante atravessando a areia por doid dias."
 
 #. [part]
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/07_The_Desert_of_Death.cfg:119
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/07_The_Desert_of_Death.cfg:123
 msgid ""
 "The heat of the day and the chill of the night wore heavily on the orcs. "
 "Fortunately, they didn’t encounter any giant scorpions, but neither did they "
@@ -3992,7 +4003,7 @@ msgstr ""
 "encontraram nenhuma fonte de comida ou água."
 
 #. [part]
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/07_The_Desert_of_Death.cfg:125
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/07_The_Desert_of_Death.cfg:129
 msgid ""
 "By the dawn of the third day the party was hungry, tired and weary, but "
 "according to their map, a good-sized oasis was not far away."
@@ -4002,7 +4013,7 @@ msgstr ""
 "onde estavam."
 
 #. [part]
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/07_The_Desert_of_Death.cfg:131
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/07_The_Desert_of_Death.cfg:135
 msgid ""
 "Just then, however, a strong wind began to blow. It rapidly increased in "
 "fury, whipping hot sand up all around them. They could see little further "
@@ -4015,12 +4026,12 @@ msgstr ""
 "enterrados vivos pela areia sufocante."
 
 #. [message]: speaker=Kapou'e
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/07_The_Desert_of_Death.cfg:160
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/07_The_Desert_of_Death.cfg:164
 msgid "Ack! This blasted sand!"
 msgstr "Ack! Essa maldita areia!"
 
 #. [message]: speaker=Grüü
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/07_The_Desert_of_Death.cfg:165
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/07_The_Desert_of_Death.cfg:169
 msgid ""
 "I’m hungry and we found no giant scorpion yet. I’m sure it would be tasty."
 msgstr ""
@@ -4028,7 +4039,7 @@ msgstr ""
 "que eles são saborosos."
 
 #. [message]: speaker=Kapou'e
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/07_The_Desert_of_Death.cfg:169
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/07_The_Desert_of_Death.cfg:173
 msgid ""
 "I hope we won’t find one! They are terrible armored beasts; your hammer "
 "would be useless against their heavy shells."
@@ -4037,7 +4048,7 @@ msgstr ""
 "martelo seria inútil contra suas fortes carapaças."
 
 #. [message]: speaker=Vraurk
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/07_The_Desert_of_Death.cfg:173
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/07_The_Desert_of_Death.cfg:177
 msgid ""
 "I’ve been told the best way to defeat them is to attack their eyes with "
 "sharp blades, set them afire, or pierce them with arrows. But I hope too we "
@@ -4048,7 +4059,7 @@ msgstr ""
 "também espero que não encontremos nenhum deles."
 
 #. [message]: speaker=Pirk
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/07_The_Desert_of_Death.cfg:177
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/07_The_Desert_of_Death.cfg:181
 #, fuzzy
 #| msgid ""
 #| "I wouldn’t worry about the scorpions right now, I would worry about "
@@ -4064,25 +4075,25 @@ msgstr ""
 "pela areia, morreremos de fome ou de sede."
 
 #. [message]: speaker=Kapou'e
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/07_The_Desert_of_Death.cfg:181
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/07_The_Desert_of_Death.cfg:185
 msgid "Hurry then, break camp, we must get to the oasis!"
 msgstr ""
 "Apressem-se então, desmontem o acampamento, precisamos chegar no oásis!"
 
 #. [message]: speaker=Pirk
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/07_The_Desert_of_Death.cfg:186
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/07_The_Desert_of_Death.cfg:190
 msgid "What?! Through all this chaos?!"
 msgstr "O que?! Através de todo esse caos?!"
 
 #. [message]: speaker=Kapou'e
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/07_The_Desert_of_Death.cfg:191
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/07_The_Desert_of_Death.cfg:195
 #, fuzzy
 #| msgid "We don’t have any other choice. If we remain here we’ll die."
 msgid "We don’t have any other choice. If we remain here, we’ll die."
 msgstr "Não temos opção. Se continuarmos aqui, morreremos."
 
 #. [message]: speaker=Kapou'e
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/07_The_Desert_of_Death.cfg:215
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/07_The_Desert_of_Death.cfg:219
 msgid ""
 "Finally we’ve done it! Now let’s wait out this sandstorm, resupply and get "
 "some rest before we continue on our journey."
@@ -4091,42 +4102,42 @@ msgstr ""
 "nossos suprimentos e então prosseguir viagem."
 
 #. [message]: speaker=Kapou'e
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/07_The_Desert_of_Death.cfg:288
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/07_The_Desert_of_Death.cfg:292
 msgid "There you go, Grüü, there is your giant scorpion!"
 msgstr "Aí está, Grüü, o seu escorpião gigante!"
 
 #. [message]: speaker=Vraurk
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/07_The_Desert_of_Death.cfg:293
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/07_The_Desert_of_Death.cfg:297
 msgid "Oh great, perfect timing."
 msgstr "Oh, ótimo! Apareceu na melhor hora."
 
 #. [message]: speaker=Grüü
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/07_The_Desert_of_Death.cfg:298
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/07_The_Desert_of_Death.cfg:302
 msgid "Yeah, I am really hungry."
 msgstr "Sim, eu realmente estou com fome."
 
 #. [message]: speaker=Vraurk
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/07_The_Desert_of_Death.cfg:303
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/07_The_Desert_of_Death.cfg:307
 msgid "That is not what I meant!"
 msgstr "Não é isso que eu quis dizer!"
 
 #. [message]: speaker=Grüü
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/07_The_Desert_of_Death.cfg:320
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/07_The_Desert_of_Death.cfg:324
 msgid "Ahh, finally! Lunchtime!"
 msgstr "Ahh, finalmente! Hora do almoço!"
 
 #. [message]: speaker=Vraurk
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/07_The_Desert_of_Death.cfg:325
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/07_The_Desert_of_Death.cfg:329
 msgid "You trolls are just sick!"
 msgstr "Vocês trolls não tem jeitos!"
 
 #. [message]: speaker=Grüü
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/07_The_Desert_of_Death.cfg:330
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/07_The_Desert_of_Death.cfg:334
 msgid "<i>Yuck</i>! Disgusting! These things taste horrible!"
 msgstr "<i>Eca</i>! Nojento! Essas coisas tem um gosto horrível!"
 
 #. [message]: speaker=Kapou'e
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/07_The_Desert_of_Death.cfg:335
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/07_The_Desert_of_Death.cfg:339
 msgid ""
 "I don’t know if you should have eaten that, Grüü, you don’t look so good."
 msgstr ""
@@ -4134,22 +4145,22 @@ msgstr ""
 "muito bem."
 
 #. [message]: speaker=Grüü
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/07_The_Desert_of_Death.cfg:340
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/07_The_Desert_of_Death.cfg:344
 msgid "Ugh... I feel sick."
 msgstr "Ugh... Não estou me sentindo bem."
 
 #. [message]: speaker=Gork
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/07_The_Desert_of_Death.cfg:345
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/07_The_Desert_of_Death.cfg:349
 msgid "Hmmm, it seems that scorpions are poisonous."
 msgstr "Hmmm, pelo visto os escorpiões são venenosos."
 
 #. [message]: speaker=Vraurk
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/07_The_Desert_of_Death.cfg:350
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/07_The_Desert_of_Death.cfg:354
 msgid "But what about Grüü?"
 msgstr "Mas o que acontecerá com Grüü?"
 
 #. [message]: speaker=Kapou'e
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/07_The_Desert_of_Death.cfg:355
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/07_The_Desert_of_Death.cfg:359
 msgid ""
 "Ahh, he will be fine in a few minutes. He is a troll, after all. Right, Grüü?"
 msgstr ""
@@ -4157,18 +4168,18 @@ msgstr ""
 "troll. Certo, Grüü?"
 
 #. [message]: speaker=Grüü
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/07_The_Desert_of_Death.cfg:360
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/07_The_Desert_of_Death.cfg:364
 msgid "(<i>Puke</i>)"
 msgstr "(<i>Vômito</i>)"
 
 #. [message]: speaker=unit
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/07_The_Desert_of_Death.cfg:408
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/07_The_Desert_of_Death.cfg:412
 msgid ""
 "Hold it right there! This oasis is ours! Begone or you all will be killed!"
 msgstr "Alto lá! Este oásis é nosso! Vá embora ou todos vocês serão mortos!"
 
 #. [message]: speaker=Kapou'e
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/07_The_Desert_of_Death.cfg:413
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/07_The_Desert_of_Death.cfg:417
 msgid ""
 "Look, fool, we are in the middle of a sandstorm, and we are almost "
 "completely out of food and water. There is no way we can keep going without "
@@ -4179,18 +4190,18 @@ msgstr ""
 "nesse oásis."
 
 #. [message]: speaker=unit
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/07_The_Desert_of_Death.cfg:418
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/07_The_Desert_of_Death.cfg:422
 msgid "I don’t care, get lost!"
 msgstr "Eu não me importo, vão embora!"
 
 #. [message]: speaker=Pirk
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/07_The_Desert_of_Death.cfg:423
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/07_The_Desert_of_Death.cfg:427
 msgid "It’s no use reasoning with them, Kapou’e, they aren’t going to listen."
 msgstr ""
 "É inútil conversar com eles, Kapou’e, eles não estão dispostos a ouvir."
 
 #. [message]: speaker=Kapou'e
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/07_The_Desert_of_Death.cfg:428
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/07_The_Desert_of_Death.cfg:432
 msgid ""
 "Yeah, I can see that. Well, I guess we have to clean these rabble out of "
 "here."
@@ -4198,28 +4209,28 @@ msgstr "Sim, já notei. Bem, pelo visto teremos que expulsar essa ralé daqui."
 
 #. [objective]: condition=win
 #. [objectives]
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/07_The_Desert_of_Death.cfg:434
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/07_The_Desert_of_Death.cfg:438
 #: Son_Of_The_Black_Eye_Easy_Edition/scenarios/03_Toward_Mountains_of_Haag.cfg:34
 msgid "Defeat the enemy leader"
 msgstr "Derrote o líder inimigo"
 
 #. [message]: speaker=Grüü
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/07_The_Desert_of_Death.cfg:464
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/07_The_Desert_of_Death.cfg:468
 msgid "... Food...!"
 msgstr "... Comida...!"
 
 #. [message]: speaker=Vraurk
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/07_The_Desert_of_Death.cfg:469
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/07_The_Desert_of_Death.cfg:473
 msgid "... Water...!"
 msgstr "... Água...!"
 
 #. [message]: speaker=Kapou'e
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/07_The_Desert_of_Death.cfg:474
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/07_The_Desert_of_Death.cfg:478
 msgid "... Come... on..., people...! We have... to... keep... going..."
 msgstr "... Vamon..., pessoal...! Nós... temos... que... continuar..."
 
 #. [message]: speaker=Pirk
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/07_The_Desert_of_Death.cfg:479
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/07_The_Desert_of_Death.cfg:483
 msgid "... Can’t... The... heat... is... too... much..."
 msgstr "... Não posso... O... calor... está... demais..."
 
