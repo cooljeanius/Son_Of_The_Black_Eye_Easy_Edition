@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: en@shaw\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2024-10-28 06:09 UTC\n"
+"POT-Creation-Date: 2024-11-04 04:24 UTC\n"
 "PO-Revision-Date: 2009-10-13 13:00-0400\n"
 "Last-Translator: Arc Riley <arcriley@ubuntu.com>\n"
 "Language-Team: Shavian English <ubuntu-l10n-en-shaw@lists.launchpad.net>\n"
@@ -127,7 +127,7 @@ msgstr ""
 #: Son_Of_The_Black_Eye_Easy_Edition/scenarios/15_Civil_War.cfg:782
 #: Son_Of_The_Black_Eye_Easy_Edition/scenarios/06_Black_Flag.cfg:105
 #: Son_Of_The_Black_Eye_Easy_Edition/scenarios/18_Northern_Alliance.cfg:241
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/03_Toward_Mountains_of_Haag.cfg:146
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/03_Toward_Mountains_of_Haag.cfg:155
 #: Son_Of_The_Black_Eye_Easy_Edition/scenarios/04_The_Siege_of_Barag_Gor.cfg:107
 msgid "Kapou’e"
 msgstr "·𐑒𐑨𐑐𐑬'𐑰"
@@ -802,7 +802,7 @@ msgstr "𐑚𐑨𐑒 𐑣𐑴𐑥"
 #. [side]: id=Grüü, type=Great Troll
 #. [unit]: id=Grüü, type=Troll Hero
 #: Son_Of_The_Black_Eye_Easy_Edition/scenarios/14_Back_Home.cfg:84
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/03_Toward_Mountains_of_Haag.cfg:607
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/03_Toward_Mountains_of_Haag.cfg:617
 msgid "Grüü"
 msgstr "Grüü"
 
@@ -2477,24 +2477,24 @@ msgid "To the Harbor of Tirigaz"
 msgstr "𐑑 𐑞 𐑣𐑸𐑚𐑼 𐑝 ·𐑑𐑻𐑦𐑜𐑨𐑟"
 
 #. [side]: type=Lich, id=Na-Mana
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/05_To_the_Harbor_of_Tirigaz.cfg:76
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/05_To_the_Harbor_of_Tirigaz.cfg:79
 msgid "Na-Mana"
 msgstr "𐑯𐑭-𐑥𐑭𐑯𐑩"
 
 #. [side]: type=Lich, id=Na-Mana
 #. [side]: type=Death Knight, id=Ma-Rana
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/05_To_the_Harbor_of_Tirigaz.cfg:79
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/05_To_the_Harbor_of_Tirigaz.cfg:108
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/05_To_the_Harbor_of_Tirigaz.cfg:82
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/05_To_the_Harbor_of_Tirigaz.cfg:111
 msgid "Undead"
 msgstr "𐑳𐑯𐑛𐑧𐑛"
 
 #. [side]: type=Death Knight, id=Ma-Rana
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/05_To_the_Harbor_of_Tirigaz.cfg:105
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/05_To_the_Harbor_of_Tirigaz.cfg:108
 msgid "Ma-Rana"
 msgstr "𐑥𐑶-𐑮𐑨𐑯𐑩"
 
 #. [part]
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/05_To_the_Harbor_of_Tirigaz.cfg:122
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/05_To_the_Harbor_of_Tirigaz.cfg:125
 #, fuzzy
 #| msgid ""
 #| "Kapou’e and the shamans rested and discussed the matter for three days. "
@@ -2512,7 +2512,7 @@ msgstr ""
 "𐑣𐑬𐑧𐑝𐑼, 𐑦𐑯 𐑹𐑛𐑼 𐑑 𐑛𐑵 𐑞𐑨𐑑 𐑞 𐑧𐑯𐑑𐑲𐑼 𐑜𐑮𐑱𐑑 𐑒𐑬𐑯𐑕𐑩𐑤 𐑢𐑫𐑛 𐑣𐑨𐑝 𐑑 𐑜𐑨𐑞𐑼."
 
 #. [part]
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/05_To_the_Harbor_of_Tirigaz.cfg:128
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/05_To_the_Harbor_of_Tirigaz.cfg:131
 msgid ""
 "Since it was now obvious that the humans were going to try their best to "
 "prevent that by capturing or killing the shamans, Kapou’e was requested to "
@@ -2524,7 +2524,7 @@ msgstr ""
 "·𐑑𐑻𐑦𐑜𐑨𐑟 𐑢𐑺 𐑞 𐑮𐑧𐑕𐑑 𐑝 𐑞 𐑒𐑬𐑯𐑕𐑩𐑤 𐑢𐑪𐑟 𐑮𐑦𐑟𐑲𐑛𐑦𐑙."
 
 #. [part]
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/05_To_the_Harbor_of_Tirigaz.cfg:134
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/05_To_the_Harbor_of_Tirigaz.cfg:137
 #, fuzzy
 #| msgid ""
 #| "Leaving most of his people at Barag Gór, Kapou’e, accompanied by the "
@@ -2537,50 +2537,50 @@ msgstr ""
 "𐑢𐑪𐑮𐑦𐑼𐑟 𐑕𐑧𐑑 𐑪𐑓 𐑑 ·𐑑𐑻𐑦𐑜𐑨𐑟."
 
 #. [message]: speaker=narrator
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/05_To_the_Harbor_of_Tirigaz.cfg:182
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/05_To_the_Harbor_of_Tirigaz.cfg:185
 msgid ""
 "A couple of days into their journey, the party halted to rest for the night."
 msgstr "𐑩 𐑒𐑳𐑐𐑩𐑤 𐑝 𐑛𐑱𐑟 𐑦𐑯𐑑𐑫 𐑞𐑺 𐑡𐑻𐑯𐑰, 𐑞 𐑐𐑸𐑑𐑦 𐑣𐑷𐑤𐑑𐑩𐑛 𐑑 𐑮𐑧𐑕𐑑 𐑓𐑹 𐑞 𐑯𐑲𐑑."
 
 #. [message]: speaker=Vraurk
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/05_To_the_Harbor_of_Tirigaz.cfg:188
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/05_To_the_Harbor_of_Tirigaz.cfg:191
 msgid "Ahhh, I’m so tired. It was a good idea to halt in such a quiet place."
 msgstr "𐑭𐑭𐑭, 𐑲'𐑧𐑥 𐑕𐑴 𐑑𐑲𐑼𐑛. 𐑦𐑑 𐑢𐑪𐑟 𐑩 𐑜𐑫𐑛 𐑲𐑛𐑾 𐑑 𐑣𐑷𐑤𐑑 𐑦𐑯 𐑕𐑳𐑗 𐑩 𐑒𐑢𐑲𐑧𐑑 𐑐𐑤𐑱𐑕."
 
 #. [message]: speaker=Grüü
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/05_To_the_Harbor_of_Tirigaz.cfg:192
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/05_To_the_Harbor_of_Tirigaz.cfg:195
 msgid "It is too quiet. Just plain boring."
 msgstr "𐑦𐑑 𐑦𐑟 𐑑𐑵 𐑒𐑢𐑲𐑧𐑑. 𐑡𐑳𐑕𐑑 𐑐𐑤𐑱𐑯 𐑚𐑹𐑦𐑙."
 
 #. [message]: speaker=Pirk
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/05_To_the_Harbor_of_Tirigaz.cfg:196
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/05_To_the_Harbor_of_Tirigaz.cfg:199
 msgid "Shut up, I just heard something."
 msgstr "𐑖𐑳𐑑 𐑳𐑐, 𐑲 𐑡𐑳𐑕𐑑 𐑣𐑻𐑛 𐑕𐑳𐑥𐑔𐑦𐑙."
 
 #. [message]: speaker=Kapou'e
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/05_To_the_Harbor_of_Tirigaz.cfg:200
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/05_To_the_Harbor_of_Tirigaz.cfg:203
 msgid ""
 "You’re right. I can see something is moving in these hills. Looks like there "
 "are undead there."
 msgstr "𐑿'𐑼 𐑮𐑲𐑑. 𐑲 𐑒𐑨𐑯 𐑕𐑰 𐑕𐑳𐑥𐑔𐑦𐑙 𐑦𐑟 𐑥𐑵𐑝𐑦𐑙 𐑦𐑯 𐑞𐑰𐑟 𐑣𐑦𐑤𐑟. 𐑤𐑫𐑒𐑕 𐑤𐑲𐑒 𐑞𐑺 𐑸 𐑳𐑯𐑛𐑧𐑛 𐑞𐑺."
 
 #. [message]: speaker=Grüü
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/05_To_the_Harbor_of_Tirigaz.cfg:221
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/05_To_the_Harbor_of_Tirigaz.cfg:224
 msgid "Excellent! It is time for exercise!"
 msgstr "𐑧𐑒𐑕𐑩𐑤𐑩𐑯𐑑! 𐑦𐑑 𐑦𐑟 𐑑𐑲𐑥 𐑓𐑹 𐑧𐑒𐑕𐑩𐑕𐑲𐑟!"
 
 #. [message]: speaker=Vraurk
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/05_To_the_Harbor_of_Tirigaz.cfg:226
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/05_To_the_Harbor_of_Tirigaz.cfg:229
 msgid "Uh... I don’t think so. Let’s get out of here!"
 msgstr "𐑩... 𐑲 𐑛𐑴𐑯𐑑 𐑔𐑦𐑙𐑒 𐑕𐑴. 𐑤𐑧𐑑'𐑕 𐑜𐑧𐑑 𐑬𐑑 𐑝 𐑣𐑽!"
 
 #. [message]: speaker=Grüü
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/05_To_the_Harbor_of_Tirigaz.cfg:231
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/05_To_the_Harbor_of_Tirigaz.cfg:234
 msgid "No way! Grüü want to crush some undead."
 msgstr "𐑯𐑴 𐑢𐑱! Grüü 𐑢𐑪𐑯𐑑 𐑑 𐑒𐑮𐑳𐑖 𐑕𐑳𐑥 𐑳𐑯𐑛𐑧𐑛."
 
 #. [message]: speaker=Kapou'e
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/05_To_the_Harbor_of_Tirigaz.cfg:236
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/05_To_the_Harbor_of_Tirigaz.cfg:239
 msgid ""
 "Grüü is right. It is not wise to let these undead remain here cutting off "
 "our supply lines and path of retreat. In these days of turmoil, we don’t "
@@ -2591,12 +2591,12 @@ msgstr ""
 "𐑑 𐑤𐑰𐑝 𐑧𐑯𐑦 𐑔𐑮𐑧𐑑𐑕 𐑦𐑯 𐑬𐑼 𐑮𐑽."
 
 #. [message]: speaker=Vraurk
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/05_To_the_Harbor_of_Tirigaz.cfg:241
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/05_To_the_Harbor_of_Tirigaz.cfg:244
 msgid "But..."
 msgstr "𐑚𐑳𐑑..."
 
 #. [message]: speaker=Gork
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/05_To_the_Harbor_of_Tirigaz.cfg:246
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/05_To_the_Harbor_of_Tirigaz.cfg:249
 #, fuzzy
 msgid ""
 "Hush, Vraurk, we must trust the Son of the Black-Eye in these matters, for "
@@ -2606,34 +2606,34 @@ msgstr ""
 "𐑝𐑻𐑕𐑑 𐑦𐑯 𐑞𐑧𐑥 𐑞𐑧𐑯 𐑢𐑰 𐑸."
 
 #. [message]: speaker=Grüü
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/05_To_the_Harbor_of_Tirigaz.cfg:251
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/05_To_the_Harbor_of_Tirigaz.cfg:254
 #, fuzzy
 msgid "That’s right, let’s go!"
 msgstr "𐑞𐑨𐑔'𐑕 𐑮𐑲𐑑, 𐑤𐑧𐑑𐑕 𐑜𐑴!"
 
 #. [message]: speaker=unit
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/05_To_the_Harbor_of_Tirigaz.cfg:265
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/05_To_the_Harbor_of_Tirigaz.cfg:270
 msgid "Hmmm, what a neat bottle! What is it?"
 msgstr "𐑣𐑩𐑥, 𐑢𐑪𐑑 𐑩 𐑯𐑰𐑑 𐑚𐑪𐑑𐑤! 𐑢𐑪𐑑 𐑦𐑟 𐑦𐑑?"
 
 #. [message]: speaker=unit
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/05_To_the_Harbor_of_Tirigaz.cfg:269
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/05_To_the_Harbor_of_Tirigaz.cfg:274
 msgid "It is written H.O.L.Y W.A.T.E.R"
 msgstr "𐑦𐑑 𐑦𐑟 𐑮𐑦𐑑𐑩𐑯 𐑱𐑗.𐑴.𐑧𐑤.𐑢𐑲 𐑛𐑩𐑚𐑩𐑤𐑿.𐑩.𐑑𐑰.𐑧.𐑸"
 
 #. [message]: speaker=unit
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/05_To_the_Harbor_of_Tirigaz.cfg:273
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/05_To_the_Harbor_of_Tirigaz.cfg:278
 #, fuzzy
 msgid "I’m thirsty... <i>Gulp gulp</i>"
 msgstr "𐑲'𐑧𐑥 𐑔𐑻𐑕𐑑𐑦 ... *𐑜𐑩𐑤𐑐* *𐑜𐑩𐑤𐑐*"
 
 #. [message]: speaker=unit
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/05_To_the_Harbor_of_Tirigaz.cfg:278
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/05_To_the_Harbor_of_Tirigaz.cfg:283
 msgid "Ahhh, that was yummy!"
 msgstr "𐑭𐑭𐑭, 𐑞𐑨𐑑 𐑢𐑪𐑟 𐑘𐑩𐑥𐑰!"
 
 #. [message]: speaker=narrator
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/05_To_the_Harbor_of_Tirigaz.cfg:288
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/05_To_the_Harbor_of_Tirigaz.cfg:293
 msgid ""
 "We are sorry for tricking you into thinking that this Holy Water would "
 "actually be usable. As an apology, we will allow you to undo this move if "
@@ -2641,17 +2641,17 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Grüü
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/05_To_the_Harbor_of_Tirigaz.cfg:300
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/05_To_the_Harbor_of_Tirigaz.cfg:305
 msgid "The day is coming, these night creatures will soon return to the pit."
 msgstr "𐑞 𐑛𐑱 𐑦𐑟 𐑒𐑳𐑥𐑦𐑙, 𐑞𐑰𐑟 𐑯𐑲𐑑 𐑒𐑮𐑰𐑗𐑼𐑟 𐑢𐑦𐑤 𐑕𐑵𐑯 𐑮𐑦𐑑𐑻𐑯 𐑑 𐑞 𐑐𐑦𐑑."
 
 #. [message]: speaker=Pirk
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/05_To_the_Harbor_of_Tirigaz.cfg:304
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/05_To_the_Harbor_of_Tirigaz.cfg:309
 msgid "Grüü, are you forgetting we are also night creatures?"
 msgstr "Grüü, 𐑸 𐑿 𐑓𐑼𐑜𐑧𐑑𐑦𐑙 𐑢𐑰 𐑸 𐑷𐑤𐑕𐑴 𐑯𐑲𐑑 𐑒𐑮𐑰𐑗𐑼𐑟?"
 
 #. [message]: speaker=Grüü
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/05_To_the_Harbor_of_Tirigaz.cfg:308
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/05_To_the_Harbor_of_Tirigaz.cfg:313
 msgid "Err... well..."
 msgstr "𐑺... 𐑢𐑧𐑤..."
 
@@ -4463,18 +4463,18 @@ msgid ""
 msgstr ""
 
 #. [side]: type=Dwarvish Lord, type=Dwarvish Steelclad, id=Kwili
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/03_Toward_Mountains_of_Haag.cfg:114
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/03_Toward_Mountains_of_Haag.cfg:115
 #, fuzzy
 msgid "Kwili"
 msgstr "Kwili"
 
 #. [side]: type=Dwarvish Lord, type=Dwarvish Steelclad, id=Kwili
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/03_Toward_Mountains_of_Haag.cfg:123
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/03_Toward_Mountains_of_Haag.cfg:124
 msgid "Dwarves"
 msgstr "𐑛𐑢𐑹𐑝𐑟"
 
 #. [message]: speaker=Kapou'e
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/03_Toward_Mountains_of_Haag.cfg:210
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/03_Toward_Mountains_of_Haag.cfg:220
 msgid ""
 "We have almost crossed the mountains. We’re close to the lands of the free "
 "tribes. So far so good."
@@ -4483,17 +4483,17 @@ msgstr ""
 "𐑜𐑫𐑛."
 
 #. [message]: speaker=Kwili
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/03_Toward_Mountains_of_Haag.cfg:214
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/03_Toward_Mountains_of_Haag.cfg:224
 msgid "Halt! Who goes there?"
 msgstr "𐑣𐑷𐑤𐑑! 𐑣𐑵 𐑜𐑴𐑟 𐑞𐑺?"
 
 #. [message]: speaker=Kapou'e
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/03_Toward_Mountains_of_Haag.cfg:219
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/03_Toward_Mountains_of_Haag.cfg:229
 msgid "It is I, Kapou’e, son of the Black-Eye Karun. What do you want, dwarf?"
 msgstr "𐑦𐑑 𐑦𐑟 𐑲, ·𐑒𐑨𐑐𐑬'𐑰, 𐑕𐑳𐑯 𐑝 𐑞 𐑚𐑤𐑨𐑒-𐑲 𐑒𐑻𐑵𐑯. 𐑢𐑪𐑑 𐑛𐑵 𐑿 𐑢𐑪𐑯𐑑, 𐑛𐑢𐑹𐑓?"
 
 #. [message]: speaker=Kwili
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/03_Toward_Mountains_of_Haag.cfg:225
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/03_Toward_Mountains_of_Haag.cfg:235
 #, fuzzy
 msgid ""
 "Oh, so it’s another group o’ stinkin’ orcs, eh. Begone, or we shall wash our "
@@ -4503,7 +4503,7 @@ msgstr ""
 "𐑘𐑻 𐑚𐑤𐑳𐑛."
 
 #. [message]: speaker=Kapou'e
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/03_Toward_Mountains_of_Haag.cfg:230
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/03_Toward_Mountains_of_Haag.cfg:240
 msgid ""
 "Look, you pint-sized idiot, we aren’t out to kill you so why don’t you just "
 "scamper away and hide in a cave or something. We’ll be through here in a few "
@@ -4513,24 +4513,24 @@ msgstr ""
 "𐑦𐑯 𐑩 𐑒𐑱𐑝 𐑹 𐑕𐑳𐑥𐑔𐑦𐑙. 𐑢𐑰'𐑤 𐑚𐑰 𐑔𐑮𐑵 𐑣𐑽 𐑦𐑯 𐑩 𐑓𐑿 𐑬𐑼𐑟."
 
 #. [message]: role=Helper
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/03_Toward_Mountains_of_Haag.cfg:235
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/03_Toward_Mountains_of_Haag.cfg:245
 msgid "(<i>Snicker</i>)"
 msgstr ""
 
 #. [message]: speaker=Kwili
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/03_Toward_Mountains_of_Haag.cfg:240
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/03_Toward_Mountains_of_Haag.cfg:250
 msgid ""
 "Your scorn and rudeness shall be your undoing. Dwarves, let no orc pass this "
 "way alive!"
 msgstr "𐑿𐑼 𐑕𐑒𐑹𐑯 𐑯 𐑮𐑵𐑛𐑯𐑩𐑕 𐑖𐑨𐑤 𐑚𐑰 𐑿𐑼 𐑳𐑯𐑛𐑵𐑦𐑙. 𐑛𐑢𐑹𐑝𐑟, 𐑤𐑧𐑑 𐑯𐑴 𐑹𐑒 𐑐𐑭𐑕 𐑞𐑦𐑕 𐑢𐑱 𐑩𐑤𐑲𐑝!"
 
 #. [message]: speaker=Kapou'e
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/03_Toward_Mountains_of_Haag.cfg:245
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/03_Toward_Mountains_of_Haag.cfg:255
 msgid "It looks like we might have to fight them after all."
 msgstr "𐑦𐑑 𐑤𐑫𐑒𐑕 𐑤𐑲𐑒 𐑢𐑰 𐑥𐑲𐑑 𐑣𐑨𐑝 𐑑 𐑓𐑲𐑑 𐑞𐑧𐑥 𐑭𐑓𐑑𐑼 𐑷𐑤."
 
 #. [message]: role=Helper
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/03_Toward_Mountains_of_Haag.cfg:250
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/03_Toward_Mountains_of_Haag.cfg:260
 #, fuzzy
 msgid ""
 "Hey, Chief, I was thinking — dwarves are pretty slow; why don’t we just "
@@ -4538,12 +4538,12 @@ msgid ""
 msgstr "𐑣𐑱, 𐑡𐑰𐑓, 𐑲 𐑢𐑪𐑟 𐑔𐑦𐑙𐑒𐑦𐑙 - 𐑛𐑢𐑹𐑝𐑟 𐑸 𐑐𐑮𐑦𐑑𐑦 𐑕𐑤𐑴; 𐑢𐑲 𐑛𐑴𐑯𐑑 𐑢𐑰 𐑡𐑳𐑕𐑑 𐑚𐑲𐑐𐑨𐑕 𐑞𐑧𐑥?"
 
 #. [message]: role=Helper
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/03_Toward_Mountains_of_Haag.cfg:255
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/03_Toward_Mountains_of_Haag.cfg:265
 msgid "I mean, we could defeat them easily but it would just slow us down."
 msgstr "𐑲 𐑥𐑰𐑯, 𐑢𐑰 𐑒𐑫𐑛 𐑛𐑦𐑓𐑰𐑑 𐑞𐑧𐑥 𐑰𐑟𐑦𐑤𐑦 𐑚𐑳𐑑 𐑦𐑑 𐑢𐑫𐑛 𐑡𐑳𐑕𐑑 𐑕𐑤𐑴 𐑳𐑕 𐑛𐑬𐑯."
 
 #. [message]: speaker=Kapou'e
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/03_Toward_Mountains_of_Haag.cfg:261
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/03_Toward_Mountains_of_Haag.cfg:271
 #, fuzzy
 #| msgid ""
 #| "We could, but then again, if we crush them then we can loot their "
@@ -4556,7 +4556,7 @@ msgstr ""
 "𐑞 𐑜𐑴𐑤𐑛 𐑢𐑦𐑤 𐑚𐑰 𐑿𐑕𐑓𐑩𐑤."
 
 #. [message]: speaker=Kapou'e
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/03_Toward_Mountains_of_Haag.cfg:266
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/03_Toward_Mountains_of_Haag.cfg:276
 msgid ""
 "Whatever else happens, we have to pass through these mountains and I dislike "
 "leaving enemies in our rear. Stab, smite, and slay!"
@@ -4565,13 +4565,13 @@ msgstr ""
 "𐑬𐑼 𐑮𐑽. 𐑕𐑑𐑨𐑚, 𐑕𐑥𐑲𐑑, 𐑯 𐑕𐑤𐑱!"
 
 #. [message]: speaker=unit
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/03_Toward_Mountains_of_Haag.cfg:282
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/03_Toward_Mountains_of_Haag.cfg:292
 msgid ""
 "I’ve never pushed so far. We are crossing the border of the Black-Eye lands."
 msgstr "𐑲'𐑝 𐑯𐑧𐑝𐑼 𐑐𐑫𐑖𐑑 𐑕𐑴 𐑓𐑸. 𐑢𐑰 𐑸 𐑒𐑮𐑪𐑕𐑦𐑙 𐑞 𐑚𐑹𐑛𐑼 𐑝 𐑞 𐑚𐑤𐑨𐑒-𐑲 𐑤𐑨𐑯𐑛𐑟."
 
 #. [message]: speaker=unit
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/03_Toward_Mountains_of_Haag.cfg:318
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/03_Toward_Mountains_of_Haag.cfg:328
 msgid ""
 "Blood and steel! This is orcish land, dwarves! Be glad I am merely looting "
 "the land you have stolen from us!"
@@ -4579,176 +4579,176 @@ msgstr ""
 
 #. [message]: speaker=unit
 #. Orcish Archer portrait has a wide grin on its face; he looks like he's thoroughly enjoying this:
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/03_Toward_Mountains_of_Haag.cfg:326
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/03_Toward_Mountains_of_Haag.cfg:428
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/03_Toward_Mountains_of_Haag.cfg:336
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/03_Toward_Mountains_of_Haag.cfg:438
 msgid "Ahahaha, time for your shakedown, dwarves!"
 msgstr ""
 
 #. [message]: speaker=unit
 #. The expression on the Orcish Crossbowman's face in his portrait looks like more of a sneer; he is looking down on the dwarves:
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/03_Toward_Mountains_of_Haag.cfg:334
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/03_Toward_Mountains_of_Haag.cfg:344
 msgid "Puny dwarves, you're going to give me some gold now!"
 msgstr ""
 
 #. [message]: speaker=unit
 #. Facial expression of Orcish Slurbow is more calm:
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/03_Toward_Mountains_of_Haag.cfg:342
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/03_Toward_Mountains_of_Haag.cfg:352
 msgid "It is time for your shakedown, dwarves."
 msgstr ""
 
 #. [message]: speaker=unit
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/03_Toward_Mountains_of_Haag.cfg:350
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/03_Toward_Mountains_of_Haag.cfg:360
 msgid "Muahaha, time for your shakedown, dwarf runts!"
 msgstr ""
 
 #. [message]: speaker=unit
 #. this is a bloodcurdling scream:
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/03_Toward_Mountains_of_Haag.cfg:358
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/03_Toward_Mountains_of_Haag.cfg:368
 msgid "GRAAAAAHHHH! It's time for your shakedown, dwarf weaklings!"
 msgstr ""
 
 #. [message]: speaker=unit
 #. said in a threatening but serious manner:
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/03_Toward_Mountains_of_Haag.cfg:366
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/03_Toward_Mountains_of_Haag.cfg:376
 msgid ""
 "It is time for you to part with your gold now, you pitiful, insignificant "
 "dwarves."
 msgstr ""
 
 #. [message]: speaker=unit
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/03_Toward_Mountains_of_Haag.cfg:374
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/03_Toward_Mountains_of_Haag.cfg:384
 msgid "Bweeheehee, time for me to take your gold shinies, dwarves!"
 msgstr ""
 
 #. [message]: speaker=unit
 #. since he's a "rouser" and has leadership, make this sound more like a line from an inspiring speech:
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/03_Toward_Mountains_of_Haag.cfg:382
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/03_Toward_Mountains_of_Haag.cfg:392
 msgid "Arise, goblins! Today we take back what is ours from the dwarves!"
 msgstr ""
 
 #. [message]: speaker=unit
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/03_Toward_Mountains_of_Haag.cfg:390
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/03_Toward_Mountains_of_Haag.cfg:400
 msgid ""
 "Ruarrrgghh! It's time for your shakedown, dwarves! That is, unless you'd "
 "rather be food for my wolf!"
 msgstr ""
 
 #. [message]: speaker=unit
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/03_Toward_Mountains_of_Haag.cfg:398
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/03_Toward_Mountains_of_Haag.cfg:408
 msgid "Bwaarrrgghh! Halt! It's time for your shakedown, dwarves!"
 msgstr ""
 
 #. [message]: speaker=unit
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/03_Toward_Mountains_of_Haag.cfg:406
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/03_Toward_Mountains_of_Haag.cfg:416
 msgid ""
 "Ruarrrgghh! It's time for your shakedown, dwarves! That is, unless you'd "
 "rather be food for my direwolf!"
 msgstr ""
 
 #. [message]: speaker=unit
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/03_Toward_Mountains_of_Haag.cfg:413
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/03_Toward_Mountains_of_Haag.cfg:423
 msgid "Heh, heh... pillage...! PILLAGE!"
 msgstr ""
 
 #. [message]: speaker=narrator
 #. debug message; ok to skip translating:
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/03_Toward_Mountains_of_Haag.cfg:423
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/03_Toward_Mountains_of_Haag.cfg:433
 msgid "warning: unhandled unit.type $unit.type"
 msgstr ""
 
 #. [message]: type=Dwarvish Woodcutter
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/03_Toward_Mountains_of_Haag.cfg:454
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/03_Toward_Mountains_of_Haag.cfg:464
 msgid "Dwarvish Villager"
 msgstr ""
 
 #. [message]: type=Dwarvish Woodcutter
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/03_Toward_Mountains_of_Haag.cfg:456
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/03_Toward_Mountains_of_Haag.cfg:466
 msgid "Aieee!"
 msgstr ""
 
 #. [message]: speaker=unit
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/03_Toward_Mountains_of_Haag.cfg:497
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/03_Toward_Mountains_of_Haag.cfg:507
 msgid "Brrr... no dwarves to extort here, just snow..."
 msgstr ""
 
 #. [message]: speaker=unit
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/03_Toward_Mountains_of_Haag.cfg:508
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/03_Toward_Mountains_of_Haag.cfg:518
 msgid ""
 "That's right, there'd BETTER not be any dwarves here! This is an orcish "
 "village!"
 msgstr ""
 
 #. [message]: speaker=unit
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/03_Toward_Mountains_of_Haag.cfg:520
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/03_Toward_Mountains_of_Haag.cfg:530
 msgid ""
 "Huh, that's strange, there's no dwarves here... you'd think there would be..."
 msgstr ""
 
 #. [message]: speaker=unit
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/03_Toward_Mountains_of_Haag.cfg:527
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/03_Toward_Mountains_of_Haag.cfg:537
 msgid "Hm, no dwarves to extort here... oh well."
 msgstr ""
 
 #. [message]: speaker=unit
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/03_Toward_Mountains_of_Haag.cfg:548
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/03_Toward_Mountains_of_Haag.cfg:558
 msgid "We should probably let the trolls have a few of their own villages."
 msgstr ""
 
 #. [message]: speaker=Grüü
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/03_Toward_Mountains_of_Haag.cfg:552
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/03_Toward_Mountains_of_Haag.cfg:562
 msgid "It ok, it not like we was using it anyways."
 msgstr ""
 
 #. [message]: speaker=unit
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/03_Toward_Mountains_of_Haag.cfg:564
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/03_Toward_Mountains_of_Haag.cfg:574
 msgid ""
 "Wait a minute... this is one of our own villages. Why does this count as a "
 "“capture”?"
 msgstr ""
 
 #. [message]: speaker=unit
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/03_Toward_Mountains_of_Haag.cfg:572
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/03_Toward_Mountains_of_Haag.cfg:582
 #, fuzzy
 #| msgid "What should I do with this one?"
 msgid "What the heck is up with this village?!"
 msgstr "𐑢𐑪𐑑 𐑖𐑫𐑛 𐑲 𐑛𐑵 𐑢𐑦𐑞 𐑞𐑦𐑕 𐑢𐑳𐑯?"
 
 #. [unit]: id=Blemaker, type=Troll Warrior
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/03_Toward_Mountains_of_Haag.cfg:595
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/03_Toward_Mountains_of_Haag.cfg:605
 msgid "Blemaker"
 msgstr "·𐑚𐑤𐑧𐑥𐑱𐑒𐑻"
 
 #. [unit]: id=Toughkon, type=Troll Whelp
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/03_Toward_Mountains_of_Haag.cfg:633
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/03_Toward_Mountains_of_Haag.cfg:643
 #, fuzzy
 msgid "Toughkon"
 msgstr "Toughkon"
 
 #. [unit]: id=Pe, type=Troll Whelp
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/03_Toward_Mountains_of_Haag.cfg:645
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/03_Toward_Mountains_of_Haag.cfg:655
 #, fuzzy
 msgid "Pe"
 msgstr "Pe"
 
 #. [message]: speaker=Blemaker
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/03_Toward_Mountains_of_Haag.cfg:660
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/03_Toward_Mountains_of_Haag.cfg:670
 msgid "Look! Dwarves are fighting orcs!"
 msgstr "𐑤𐑫𐑒! 𐑛𐑢𐑹𐑝𐑟 𐑸 𐑓𐑲𐑑𐑦𐑙 𐑹𐑒𐑕!"
 
 #. [message]: speaker=Grüü
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/03_Toward_Mountains_of_Haag.cfg:664
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/03_Toward_Mountains_of_Haag.cfg:674
 msgid "Father, we should help them. Orcs are our allies."
 msgstr "𐑓𐑭𐑞𐑼, 𐑢𐑰 𐑖𐑫𐑛 𐑣𐑧𐑤𐑐 𐑞𐑧𐑥. 𐑹𐑒𐑕 𐑸 𐑬𐑼 𐑨𐑤𐑲𐑟."
 
 #. [message]: speaker=Blemaker
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/03_Toward_Mountains_of_Haag.cfg:668
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/03_Toward_Mountains_of_Haag.cfg:678
 msgid ""
 "I don’t know. Orcs have been our allies in the past, but they treat us as "
 "fools."
 msgstr "𐑲 𐑛𐑴𐑯𐑑 𐑯𐑴. 𐑹𐑒𐑕 𐑣𐑨𐑝 𐑚𐑰𐑯 𐑬𐑼 𐑨𐑤𐑲𐑟 𐑦𐑯 𐑞 𐑐𐑭𐑕𐑑, 𐑚𐑳𐑑 𐑞𐑱 𐑑𐑮𐑰𐑑 𐑳𐑕 𐑨𐑟 𐑓𐑵𐑤𐑟."
 
 #. [message]: speaker=Grüü
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/03_Toward_Mountains_of_Haag.cfg:672
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/03_Toward_Mountains_of_Haag.cfg:682
 msgid ""
 "But, Father, we don’t know what they are seeking there. Between us, we could "
 "squash these dwarves."
@@ -4756,7 +4756,7 @@ msgstr ""
 "𐑚𐑳𐑑, 𐑓𐑭𐑞𐑼, 𐑢𐑰 𐑛𐑴𐑯𐑑 𐑯𐑴 𐑢𐑪𐑑 𐑞𐑱 𐑸 𐑕𐑰𐑒𐑦𐑙 𐑞𐑺. 𐑚𐑦𐑑𐑢𐑰𐑯 𐑳𐑕, 𐑢𐑰 𐑒𐑫𐑛 𐑕𐑒𐑢𐑭𐑖 𐑞𐑰𐑟 𐑛𐑢𐑹𐑝𐑟."
 
 #. [message]: speaker=Blemaker
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/03_Toward_Mountains_of_Haag.cfg:676
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/03_Toward_Mountains_of_Haag.cfg:686
 #, fuzzy
 msgid ""
 "Right, my son. We help our orcish friends. But you take care... I would be "
@@ -4766,23 +4766,23 @@ msgstr ""
 "𐑕𐑳𐑥𐑔𐑦𐑙 𐑣𐑨𐑐𐑩𐑯𐑛 𐑑 𐑿."
 
 #. [message]: speaker=Grüü
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/03_Toward_Mountains_of_Haag.cfg:690
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/03_Toward_Mountains_of_Haag.cfg:700
 msgid "Father! Oh no!"
 msgstr "𐑓𐑭𐑞𐑼! 𐑴 𐑯𐑴!"
 
 #. [message]: speaker=Grüü
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/03_Toward_Mountains_of_Haag.cfg:694
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/03_Toward_Mountains_of_Haag.cfg:704
 #, fuzzy
 msgid "Filthy dwarves! Now I’ll kill you to the last!"
 msgstr "𐑓𐑦𐑤𐑔𐑦 𐑛𐑢𐑹𐑝𐑟! 𐑯𐑬 𐑲'𐑤 𐑒𐑦𐑤 𐑿 𐑑 𐑞 𐑤𐑭𐑕𐑑!"
 
 #. [message]: speaker=unit
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/03_Toward_Mountains_of_Haag.cfg:705
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/03_Toward_Mountains_of_Haag.cfg:715
 msgid "Oh no, I’m defeated."
 msgstr "𐑴 𐑯𐑴, 𐑲'𐑧𐑥 𐑛𐑦𐑓𐑰𐑑𐑩𐑛."
 
 #. [message]: speaker=Blemaker
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/03_Toward_Mountains_of_Haag.cfg:714
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/03_Toward_Mountains_of_Haag.cfg:724
 msgid ""
 "My son! I should have never brought him to this fight. Now we return to our "
 "caverns, and we never return."
@@ -4791,7 +4791,7 @@ msgstr ""
 "𐑯𐑧𐑝𐑼 𐑮𐑦𐑑𐑻𐑯."
 
 #. [message]: speaker=Kapou'e
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/03_Toward_Mountains_of_Haag.cfg:720
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/03_Toward_Mountains_of_Haag.cfg:730
 msgid ""
 "The trolls are done. We will desperately need their help in the coming "
 "battles. Without them there is no hope."
@@ -4800,12 +4800,12 @@ msgstr ""
 "𐑦𐑟 𐑯𐑴 𐑣𐑴𐑐."
 
 #. [message]: speaker=unit
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/03_Toward_Mountains_of_Haag.cfg:737
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/03_Toward_Mountains_of_Haag.cfg:747
 msgid "Argh! I die!"
 msgstr "𐑸𐑜! 𐑲 𐑛𐑲!"
 
 #. [message]: speaker=Kapou'e
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/03_Toward_Mountains_of_Haag.cfg:742
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/03_Toward_Mountains_of_Haag.cfg:752
 #, fuzzy
 #| msgid ""
 #| "You were warned, dwarf. Riders, spread out of the area and collect what "
@@ -4823,13 +4823,13 @@ msgstr ""
 "𐑤𐑦𐑝 𐑴𐑯𐑤𐑦 𐑪𐑯 𐑥𐑲 𐑜𐑫𐑛 𐑜𐑮𐑱𐑕𐑩𐑟. 𐑲'𐑤 𐑑𐑱𐑒 𐑞 𐑸𐑥𐑦 𐑑 ·𐑚𐑸𐑨𐑜 Gór. 𐑒𐑨𐑗 𐑳𐑐 𐑢𐑧𐑯 𐑿'𐑼 𐑛𐑳𐑯."
 
 #. [message]: role=doggie
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/03_Toward_Mountains_of_Haag.cfg:754
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/03_Toward_Mountains_of_Haag.cfg:764
 #, fuzzy
 msgid "Sounds like fun. All right boys, let’s go!"
 msgstr "𐑕𐑬𐑯𐑛𐑟 𐑤𐑲𐑒 𐑓𐑳𐑯. 𐑪𐑤𐑮𐑲𐑑 𐑚𐑶𐑟, 𐑤𐑧𐑑'𐑕 𐑜𐑴!"
 
 #. [message]: speaker=Kapou'e
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/03_Toward_Mountains_of_Haag.cfg:793
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/03_Toward_Mountains_of_Haag.cfg:803
 msgid ""
 "We’ve succeeded! We’ve passed through the Mountains of Haag! Look at these "
 "green hills! The land of the free tribes is near now. I can see the walls of "
@@ -4839,7 +4839,7 @@ msgstr ""
 "𐑞 𐑓𐑮𐑰 𐑑𐑮𐑲𐑚𐑟 𐑦𐑟 𐑯𐑽 𐑯𐑬. 𐑲 𐑒𐑨𐑯 𐑕𐑰 𐑞 𐑢𐑷𐑤𐑟 𐑝 ·𐑚𐑸𐑨𐑜 Gór 𐑦𐑯 𐑞 𐑛𐑦𐑕𐑑𐑩𐑯𐑕."
 
 #. [message]: speaker=Kapou'e
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/03_Toward_Mountains_of_Haag.cfg:813
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/03_Toward_Mountains_of_Haag.cfg:823
 #, fuzzy
 #| msgid ""
 #| "Blemaker, many thanks for your help in this fight. Would you like to join "
@@ -4854,12 +4854,12 @@ msgstr ""
 "𐑢𐑦𐑞 𐑿𐑼 𐑕𐑳𐑯? 𐑿 𐑸 𐑩 𐑐𐑬𐑼𐑓𐑩𐑤 𐑢𐑪𐑮𐑦𐑼, 𐑯 𐑿 𐑢𐑫𐑛 𐑚𐑰 𐑝 𐑜𐑮𐑱𐑑 𐑣𐑧𐑤𐑐."
 
 #. [message]: speaker=Grüü
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/03_Toward_Mountains_of_Haag.cfg:818
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/03_Toward_Mountains_of_Haag.cfg:828
 msgid "Father, I’d like to join them. Would you mind it?"
 msgstr "𐑓𐑭𐑞𐑼, 𐑲'𐑛𐑰 𐑤𐑲𐑒 𐑑 𐑡𐑶𐑯 𐑞𐑧𐑥. 𐑢𐑫𐑛 𐑿 𐑥𐑲𐑯𐑛 𐑦𐑑?"
 
 #. [message]: speaker=Blemaker
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/03_Toward_Mountains_of_Haag.cfg:822
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/03_Toward_Mountains_of_Haag.cfg:832
 msgid ""
 "My son, you’re old enough to discover the world. Me, I have to stay here. "
 "But take care, there are plenty of creatures that seek our end, like elves "
@@ -4869,12 +4869,12 @@ msgstr ""
 "𐑐𐑤𐑧𐑯𐑑𐑰 𐑝 𐑒𐑮𐑰𐑗𐑼𐑟 𐑞𐑨𐑑 𐑕𐑰𐑒 𐑬𐑼 𐑧𐑯𐑛, 𐑤𐑲𐑒 𐑧𐑤𐑝𐑟 𐑹 𐑣𐑿𐑥𐑩𐑯𐑟. 𐑞𐑱 𐑸 𐑒𐑤𐑧𐑝𐑼 𐑯 𐑥𐑻𐑕𐑩𐑤𐑩𐑕."
 
 #. [message]: speaker=Grüü
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/03_Toward_Mountains_of_Haag.cfg:826
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/03_Toward_Mountains_of_Haag.cfg:836
 msgid "Thanks, father. Don’t worry, I’ll take care of myself."
 msgstr "𐑔𐑨𐑙𐑒𐑕, 𐑓𐑭𐑞𐑼. 𐑛𐑴𐑯𐑑 𐑢𐑳𐑮𐑦, 𐑲'𐑤 𐑑𐑱𐑒 𐑒𐑺 𐑝 𐑥𐑲𐑕𐑧𐑤𐑓."
 
 #. [message]: speaker=Kapou'e
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/03_Toward_Mountains_of_Haag.cfg:832
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/03_Toward_Mountains_of_Haag.cfg:842
 msgid ""
 "Grüü, many thanks for your help in this fight. I’m sorry for the loss of "
 "your father. Would you like to join us in our journey? Your help would be "
@@ -4884,7 +4884,7 @@ msgstr ""
 "𐑤𐑲𐑒 𐑑 𐑡𐑶𐑯 𐑳𐑕 𐑦𐑯 𐑬𐑼 𐑡𐑻𐑯𐑰? 𐑿𐑼 𐑣𐑧𐑤𐑐 𐑢𐑫𐑛 𐑚𐑰 𐑿𐑕𐑓𐑩𐑤 𐑑 𐑥𐑰."
 
 #. [message]: speaker=Grüü
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/03_Toward_Mountains_of_Haag.cfg:836
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/03_Toward_Mountains_of_Haag.cfg:846
 msgid ""
 "My father would have come to help you. I would insult his memory not to help "
 "you. I come!"
