@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Battle for Wesnoth 0.8.8-CVS\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2024-11-04 07:18 UTC\n"
+"POT-Creation-Date: 2024-11-11 19:09 UTC\n"
 "PO-Revision-Date: 2011-12-29 13:46+0300\n"
 "Last-Translator: Kaido Kikkas <kakk@kakupesa.net>\n"
 "Language-Team: none\n"
@@ -112,7 +112,7 @@ msgstr "Kui Inarix ei juhi sisalasi, siis pole meil neilt enam abi loota."
 #: Son_Of_The_Black_Eye_Easy_Edition/utils/utils.cfg:80
 #: Son_Of_The_Black_Eye_Easy_Edition/utils/utils.cfg:88
 #: Son_Of_The_Black_Eye_Easy_Edition/utils/utils.cfg:113
-#: Son_Of_The_Black_Eye_Easy_Edition/utils/utils.cfg:137
+#: Son_Of_The_Black_Eye_Easy_Edition/utils/utils.cfg:141
 #: Son_Of_The_Black_Eye_Easy_Edition/scenarios/14_Back_Home.cfg:88
 #: Son_Of_The_Black_Eye_Easy_Edition/scenarios/15_Civil_War.cfg:782
 #: Son_Of_The_Black_Eye_Easy_Edition/scenarios/06_Black_Flag.cfg:108
@@ -132,12 +132,24 @@ msgstr "Kapou’e"
 msgid "Al’Brock"
 msgstr "Al’Brock"
 
-#: Son_Of_The_Black_Eye_Easy_Edition/utils/utils.cfg:130
+#: Son_Of_The_Black_Eye_Easy_Edition/utils/utils.cfg:116
+#, fuzzy
+#| msgid "Al’Brock"
+msgid "Al’Brock Side"
+msgstr "Al’Brock"
+
+#: Son_Of_The_Black_Eye_Easy_Edition/utils/utils.cfg:134
 msgid "Flar’Tar"
 msgstr "Flar’Tar"
 
+#: Son_Of_The_Black_Eye_Easy_Edition/utils/utils.cfg:144
+#, fuzzy
+#| msgid "Flar’Tar"
+msgid "Flar’Tar Side"
+msgstr "Flar’Tar"
+
 #. [note]
-#: Son_Of_The_Black_Eye_Easy_Edition/utils/utils.cfg:153
+#: Son_Of_The_Black_Eye_Easy_Edition/utils/utils.cfg:161
 msgid "The Great Horde: upkeep cost of every unit decreased by one."
 msgstr "Suur Vägi: iga üksuse ülalpidamiskulud on ühe võrra väiksemad."
 

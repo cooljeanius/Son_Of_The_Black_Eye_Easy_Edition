@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2024-11-04 07:18 UTC\n"
+"POT-Creation-Date: 2024-11-11 19:09 UTC\n"
 "PO-Revision-Date: 2018-05-18 00:11+0000\n"
 "Last-Translator: RatArmy <broadbarredfirefish@gmail.com>, 2019\n"
 "Language-Team: Japanese (https://www.transifex.com/wesnoth-jp/teams/60513/"
@@ -118,7 +118,7 @@ msgstr "畜生。Inarix に率いてもらわなければ、トカゲ達の助�
 #: Son_Of_The_Black_Eye_Easy_Edition/utils/utils.cfg:80
 #: Son_Of_The_Black_Eye_Easy_Edition/utils/utils.cfg:88
 #: Son_Of_The_Black_Eye_Easy_Edition/utils/utils.cfg:113
-#: Son_Of_The_Black_Eye_Easy_Edition/utils/utils.cfg:137
+#: Son_Of_The_Black_Eye_Easy_Edition/utils/utils.cfg:141
 #: Son_Of_The_Black_Eye_Easy_Edition/scenarios/14_Back_Home.cfg:88
 #: Son_Of_The_Black_Eye_Easy_Edition/scenarios/15_Civil_War.cfg:782
 #: Son_Of_The_Black_Eye_Easy_Edition/scenarios/06_Black_Flag.cfg:108
@@ -138,12 +138,24 @@ msgstr "Kapou’e"
 msgid "Al’Brock"
 msgstr "Al’Brock"
 
-#: Son_Of_The_Black_Eye_Easy_Edition/utils/utils.cfg:130
+#: Son_Of_The_Black_Eye_Easy_Edition/utils/utils.cfg:116
+#, fuzzy
+#| msgid "Al’Brock"
+msgid "Al’Brock Side"
+msgstr "Al’Brock"
+
+#: Son_Of_The_Black_Eye_Easy_Edition/utils/utils.cfg:134
 msgid "Flar’Tar"
 msgstr "Flar’Tar"
 
+#: Son_Of_The_Black_Eye_Easy_Edition/utils/utils.cfg:144
+#, fuzzy
+#| msgid "Flar’Tar"
+msgid "Flar’Tar Side"
+msgstr "Flar’Tar"
+
 #. [note]
-#: Son_Of_The_Black_Eye_Easy_Edition/utils/utils.cfg:153
+#: Son_Of_The_Black_Eye_Easy_Edition/utils/utils.cfg:161
 msgid "The Great Horde: upkeep cost of every unit decreased by one."
 msgstr "The Great Horde: すべてのユニットの維持費が１減少する。"
 

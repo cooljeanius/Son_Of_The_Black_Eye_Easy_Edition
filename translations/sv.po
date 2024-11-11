@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2024-11-04 07:18 UTC\n"
+"POT-Creation-Date: 2024-11-11 19:09 UTC\n"
 "PO-Revision-Date: 2020-03-21 13:22+0100\n"
 "Last-Translator: Susanna Björverud <susanna.bjorverud@gmail.com>\n"
 "Language-Team: Swedish\n"
@@ -116,7 +116,7 @@ msgstr ""
 #: Son_Of_The_Black_Eye_Easy_Edition/utils/utils.cfg:80
 #: Son_Of_The_Black_Eye_Easy_Edition/utils/utils.cfg:88
 #: Son_Of_The_Black_Eye_Easy_Edition/utils/utils.cfg:113
-#: Son_Of_The_Black_Eye_Easy_Edition/utils/utils.cfg:137
+#: Son_Of_The_Black_Eye_Easy_Edition/utils/utils.cfg:141
 #: Son_Of_The_Black_Eye_Easy_Edition/scenarios/14_Back_Home.cfg:88
 #: Son_Of_The_Black_Eye_Easy_Edition/scenarios/15_Civil_War.cfg:782
 #: Son_Of_The_Black_Eye_Easy_Edition/scenarios/06_Black_Flag.cfg:108
@@ -136,12 +136,24 @@ msgstr "Kapou’e"
 msgid "Al’Brock"
 msgstr "Al’Brock"
 
-#: Son_Of_The_Black_Eye_Easy_Edition/utils/utils.cfg:130
+#: Son_Of_The_Black_Eye_Easy_Edition/utils/utils.cfg:116
+#, fuzzy
+#| msgid "Al’Brock"
+msgid "Al’Brock Side"
+msgstr "Al’Brock"
+
+#: Son_Of_The_Black_Eye_Easy_Edition/utils/utils.cfg:134
 msgid "Flar’Tar"
 msgstr "Flar’Tar"
 
+#: Son_Of_The_Black_Eye_Easy_Edition/utils/utils.cfg:144
+#, fuzzy
+#| msgid "Flar’Tar"
+msgid "Flar’Tar Side"
+msgstr "Flar’Tar"
+
 #. [note]
-#: Son_Of_The_Black_Eye_Easy_Edition/utils/utils.cfg:153
+#: Son_Of_The_Black_Eye_Easy_Edition/utils/utils.cfg:161
 msgid "The Great Horde: upkeep cost of every unit decreased by one."
 msgstr "Den Stora horden: underhåll för varje trupp minskas med ett. "
 

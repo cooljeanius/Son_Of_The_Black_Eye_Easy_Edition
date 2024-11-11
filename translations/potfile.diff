@@ -1,15 +1,15 @@
 --- wesnoth-sotbe.pot	2020-09-11 18:39:04.000000000 -0400
-+++ wesnoth-sotbeee.pot	2024-11-04 02:18:35.000000000 -0500
++++ wesnoth-sotbeee.pot	2024-11-11 14:09:51.000000000 -0500
 @@ -2,7 +2,7 @@
  msgstr ""
  "Project-Id-Version: PACKAGE VERSION\n"
  "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 -"POT-Creation-Date: 2020-08-08 09:20 UTC\n"
-+"POT-Creation-Date: 2024-11-04 07:18 UTC\n"
++"POT-Creation-Date: 2024-11-11 19:09 UTC\n"
  "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
  "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
  "Language-Team: LANGUAGE <LL@li.org>\n"
-@@ -10,4066 +10,4115 @@
+@@ -10,4066 +10,4123 @@
  "Content-Type: text/plain; charset=UTF-8\n"
  "Content-Transfer-Encoding: 8bit\n"
  
@@ -215,7 +215,7 @@
 +#: Son_Of_The_Black_Eye_Easy_Edition/utils/utils.cfg:80
 +#: Son_Of_The_Black_Eye_Easy_Edition/utils/utils.cfg:88
 +#: Son_Of_The_Black_Eye_Easy_Edition/utils/utils.cfg:113
-+#: Son_Of_The_Black_Eye_Easy_Edition/utils/utils.cfg:137
++#: Son_Of_The_Black_Eye_Easy_Edition/utils/utils.cfg:141
 +#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/14_Back_Home.cfg:88
 +#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/15_Civil_War.cfg:782
 +#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/06_Black_Flag.cfg:108
@@ -228,10 +228,8 @@
 -#. [side]: type=Lieutenant, id=Alber
 -#: data/campaigns/Son_Of_The_Black_Eye/scenarios/01_End_of_Peace.cfg:72
 -msgid "Alber"
-+#: Son_Of_The_Black_Eye_Easy_Edition/utils/utils.cfg:90
-+msgid "Kapou’e Side"
- msgstr ""
- 
+-msgstr ""
+-
 -#. [side]: type=General, id=Slowhand
 -#. [side]
 -#. [side]: type=General, id=Harman
@@ -243,8 +241,8 @@
 -#: data/campaigns/Son_Of_The_Black_Eye/scenarios/06_Black_Flag.cfg:47
 -#: data/campaigns/Son_Of_The_Black_Eye/scenarios/06_Black_Flag.cfg:68
 -msgid "Humans"
-+#: Son_Of_The_Black_Eye_Easy_Edition/utils/utils.cfg:106
-+msgid "Al’Brock"
++#: Son_Of_The_Black_Eye_Easy_Edition/utils/utils.cfg:90
++msgid "Kapou’e Side"
  msgstr ""
  
 -#. [part]
@@ -254,8 +252,8 @@
 -"orcs during the fourteenth year of his leadership. He ended a 15-year war "
 -"with Black-Eye Karun, ruler of the enemy orcs. A peace treaty between the "
 -"Alliance and the orcs settled their territorial disputes."
-+#: Son_Of_The_Black_Eye_Easy_Edition/utils/utils.cfg:130
-+msgid "Flar’Tar"
++#: Son_Of_The_Black_Eye_Easy_Edition/utils/utils.cfg:106
++msgid "Al’Brock"
  msgstr ""
  
 -#. [part]
@@ -270,9 +268,8 @@
 -"to confirm the incident, but it soon became believed among the orcs that the "
 -"Northern Alliance had deliberately set up this ambush in order to break the "
 -"unity of the orcs by slaying their strongest leader."
-+#. [note]
-+#: Son_Of_The_Black_Eye_Easy_Edition/utils/utils.cfg:153
-+msgid "The Great Horde: upkeep cost of every unit decreased by one."
++#: Son_Of_The_Black_Eye_Easy_Edition/utils/utils.cfg:116
++msgid "Al’Brock Side"
  msgstr ""
  
 -#. [part]
@@ -285,9 +282,8 @@
 -"that with the death of the Black-Eye, the unity of the orcs was shattered "
 -"and they once again descended into inner squabbling. Thus the years that "
 -"followed were relatively peaceful and prosperous — at least for the humans."
-+#. [race]: id=frost_critter
-+#: Son_Of_The_Black_Eye_Easy_Edition/units/races/frost_critters.cfg:5
-+msgid "race^Frost Critter"
++#: Son_Of_The_Black_Eye_Easy_Edition/utils/utils.cfg:134
++msgid "Flar’Tar"
  msgstr ""
  
 -#. [part]
@@ -299,9 +295,8 @@
 -"and push orcs into desolated hill country. The few orcish tribes who had "
 -"remained part of the Alliance, feeling the pressure, either left Alliance "
 -"territory or revolted and were destroyed."
-+#. [race]: id=frost_critter
-+#: Son_Of_The_Black_Eye_Easy_Edition/units/races/frost_critters.cfg:6
-+msgid "race+female^Frost Critter"
++#: Son_Of_The_Black_Eye_Easy_Edition/utils/utils.cfg:144
++msgid "Flar’Tar Side"
  msgstr ""
  
 -#. [part]
@@ -311,9 +306,9 @@
 -"on their lands. Then, Earl Lanbec’h — the most powerful human warlord of the "
 -"North — determined to abolish the orcish menace raised an army and conferred "
 -"leadership of it to his son-in-law Baron Alber."
-+#. [race]: id=frost_critter
-+#: Son_Of_The_Black_Eye_Easy_Edition/units/races/frost_critters.cfg:7
-+msgid "race^Frost Critters"
++#. [note]
++#: Son_Of_The_Black_Eye_Easy_Edition/utils/utils.cfg:161
++msgid "The Great Horde: upkeep cost of every unit decreased by one."
  msgstr ""
  
 -#. [part]
@@ -322,8 +317,8 @@
 -"Baron Alber personally led a small vanguard with the mission to establish a "
 -"base inside orcish lands."
 +#. [race]: id=frost_critter
-+#: Son_Of_The_Black_Eye_Easy_Edition/units/races/frost_critters.cfg:8
-+msgid "Frost critters are animals that come out in the snows of winter."
++#: Son_Of_The_Black_Eye_Easy_Edition/units/races/frost_critters.cfg:5
++msgid "race^Frost Critter"
  msgstr ""
  
 -#. [part]
@@ -331,9 +326,9 @@
 -msgid ""
 -"By nightfall his troops reached a mountainous region under the authority of "
 -"orcish leader Kapou’e, the son of the Black-Eye."
-+#. [unit_type]: id=Old Orcish Shaman, race=orc
-+#: Son_Of_The_Black_Eye_Easy_Edition/units/Old_Orcish_Shaman.cfg:4
-+msgid "Old Orcish Shaman"
++#. [race]: id=frost_critter
++#: Son_Of_The_Black_Eye_Easy_Edition/units/races/frost_critters.cfg:6
++msgid "race+female^Frost Critter"
  msgstr ""
  
 -#. [message]: speaker=Alber
@@ -341,65 +336,65 @@
 -msgid ""
 -"Look, friends! Those orcs don’t imagine they are living their last day. "
 -"Let’s slay them and claim this land back to our people!"
++#. [race]: id=frost_critter
++#: Son_Of_The_Black_Eye_Easy_Edition/units/races/frost_critters.cfg:7
++msgid "race^Frost Critters"
+ msgstr ""
+ 
+-#. [message]: speaker=Kapou'e
+-#: data/campaigns/Son_Of_The_Black_Eye/scenarios/01_End_of_Peace.cfg:144
+-msgid "Who is this unlicked whelp? Grunts — kill him and bring me his head!"
++#. [race]: id=frost_critter
++#: Son_Of_The_Black_Eye_Easy_Edition/units/races/frost_critters.cfg:8
++msgid "Frost critters are animals that come out in the snows of winter."
+ msgstr ""
+ 
+-#. [message]: speaker=unit
+-#: data/campaigns/Son_Of_The_Black_Eye/scenarios/01_End_of_Peace.cfg:155
+-msgid "Argh! I die! But other humans will come to avenge me, filthy orcs!"
++#. [unit_type]: id=Old Orcish Shaman, race=orc
++#: Son_Of_The_Black_Eye_Easy_Edition/units/Old_Orcish_Shaman.cfg:4
++msgid "Old Orcish Shaman"
+ msgstr ""
+ 
+-#. [message]: role=second
+-#: data/campaigns/Son_Of_The_Black_Eye/scenarios/01_End_of_Peace.cfg:164
+-msgid "Victory!"
 +#. [unit_type]: id=Old Orcish Shaman, race=orc
 +#: Son_Of_The_Black_Eye_Easy_Edition/units/Old_Orcish_Shaman.cfg:20
 +msgid "Orcish Shamans are the guardians of orcish magic. Respected among orcish tribes, they form the Orcish Council, which makes important decisions for the whole Orcish community and arbitrates the many conflicts that arise between tribes of this argumentative race. Although physically weak (for Orcs), Orcish Shamans are good spell casters and can curse their enemies, draining their life. Old Orcish Shamans are shamans that have mastered magic, although their physical strength has declined with age."
  msgstr ""
  
 -#. [message]: speaker=Kapou'e
--#: data/campaigns/Son_Of_The_Black_Eye/scenarios/01_End_of_Peace.cfg:144
--msgid "Who is this unlicked whelp? Grunts — kill him and bring me his head!"
+-#: data/campaigns/Son_Of_The_Black_Eye/scenarios/01_End_of_Peace.cfg:169
+-msgid "Oh, just die, human-worm."
 +#. [unit_type]: id=Orcish Shaman, race=orc
 +#: Son_Of_The_Black_Eye_Easy_Edition/units/Orcish_Shaman.cfg:4
 +msgid "Orcish Shaman"
  msgstr ""
  
--#. [message]: speaker=unit
--#: data/campaigns/Son_Of_The_Black_Eye/scenarios/01_End_of_Peace.cfg:155
--msgid "Argh! I die! But other humans will come to avenge me, filthy orcs!"
+-#. [unit]: type=Wolf Rider, id=Vrag
+-#: data/campaigns/Son_Of_The_Black_Eye/scenarios/01_End_of_Peace.cfg:188
+-msgid "Vrag"
 +#. [unit_type]: id=Orcish Shaman, race=orc
 +#: Son_Of_The_Black_Eye_Easy_Edition/units/Orcish_Shaman.cfg:20
 +msgid "Orcish Shamans are the guardians of orcish magic. Respected among orcish tribes, they form the Orcish Council, which makes important decisions for the whole Orcish community and arbitrates the many conflicts that arise between tribes of this argumentative race. Although physically weak (for Orcs), Orcish Shamans are good spell casters and can curse their enemies, draining their life."
  msgstr ""
  
--#. [message]: role=second
--#: data/campaigns/Son_Of_The_Black_Eye/scenarios/01_End_of_Peace.cfg:164
--msgid "Victory!"
+-#. [message]: speaker=Vrag
+-#: data/campaigns/Son_Of_The_Black_Eye/scenarios/01_End_of_Peace.cfg:198
+-msgid "(<i>Pant</i>) Chief! Chief!"
 +#. [unit_type]: id=Novice Orcish Shaman, race=orc
 +#: Son_Of_The_Black_Eye_Easy_Edition/units/Novice_Orcish_Shaman.cfg:4
 +msgid "Novice Orcish Shaman"
  msgstr ""
  
 -#. [message]: speaker=Kapou'e
--#: data/campaigns/Son_Of_The_Black_Eye/scenarios/01_End_of_Peace.cfg:169
--msgid "Oh, just die, human-worm."
+-#: data/campaigns/Son_Of_The_Black_Eye/scenarios/01_End_of_Peace.cfg:203
+-msgid "Speak, rider."
 +#. [unit_type]: id=Novice Orcish Shaman, race=orc
 +#: Son_Of_The_Black_Eye_Easy_Edition/units/Novice_Orcish_Shaman.cfg:20
 +msgid "Orcish Shamans are the guardians of orcish magic. Respected among orcish tribes, they form the Orcish Council, which makes important decisions for the whole Orcish community and arbitrates the many conflicts that arise between tribes of this argumentative race. Although physically weak (for Orcs), Orcish Shamans are good spell casters and can curse their enemies, draining their life. Novice Shamans are still young and vigorous, but their spell-casting ability still needs improvement."
- msgstr ""
- 
--#. [unit]: type=Wolf Rider, id=Vrag
--#: data/campaigns/Son_Of_The_Black_Eye/scenarios/01_End_of_Peace.cfg:188
--msgid "Vrag"
-+#. [scenario]: id=09_Shan_Taum_the_Smug
-+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/09_Shan_Taum_the_Smug.cfg:4
-+msgid "Shan Taum the Smug"
- msgstr ""
- 
--#. [message]: speaker=Vrag
--#: data/campaigns/Son_Of_The_Black_Eye/scenarios/01_End_of_Peace.cfg:198
--msgid "(<i>Pant</i>) Chief! Chief!"
-+#. [objective]: condition=win
-+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/09_Shan_Taum_the_Smug.cfg:21
-+msgid "Survive the Shan Taum menace for 20 turns"
- msgstr ""
- 
--#. [message]: speaker=Kapou'e
--#: data/campaigns/Son_Of_The_Black_Eye/scenarios/01_End_of_Peace.cfg:203
--msgid "Speak, rider."
-+#. [objectives]
-+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/09_Shan_Taum_the_Smug.cfg:25
-+msgid "Defeat Shan Taum"
  msgstr ""
  
 -#. [message]: speaker=Vrag
@@ -407,6 +402,35 @@
 -msgid ""
 -"There is a huge human army marching on us! They can’t be more than one or "
 -"two days march from here."
++#. [scenario]: id=09_Shan_Taum_the_Smug
++#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/09_Shan_Taum_the_Smug.cfg:4
++msgid "Shan Taum the Smug"
+ msgstr ""
+ 
+-#. [message]: role=second
+-#: data/campaigns/Son_Of_The_Black_Eye/scenarios/01_End_of_Peace.cfg:213
+-msgid "Uh oh! What should we do, Chief?"
++#. [objective]: condition=win
++#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/09_Shan_Taum_the_Smug.cfg:21
++msgid "Survive the Shan Taum menace for 20 turns"
+ msgstr ""
+ 
+-#. [message]: speaker=Kapou'e
+-#: data/campaigns/Son_Of_The_Black_Eye/scenarios/01_End_of_Peace.cfg:218
+-msgid ""
+-"Don’t be afraid. If any more of these pathetic humans come, we’ll deal with "
+-"them the way we did with this trash!"
++#. [objectives]
++#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/09_Shan_Taum_the_Smug.cfg:25
++msgid "Defeat Shan Taum"
+ msgstr ""
+ 
+-#. [message]: speaker=Vrag
+-#: data/campaigns/Son_Of_The_Black_Eye/scenarios/01_End_of_Peace.cfg:223
+-msgid ""
+-"Uh, Chief, with all respect that army is huge! Not only that, but most of "
+-"them look like tough old soldiers. It would be foolish to confront them with "
+-"the forces we have on hand."
 +#. [objective]: condition=lose
 +#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/09_Shan_Taum_the_Smug.cfg:27
 +#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/12_Giving_Some_Back.cfg:25
@@ -430,9 +454,9 @@
 +msgid "Death of Kapou’e"
  msgstr ""
  
--#. [message]: role=second
--#: data/campaigns/Son_Of_The_Black_Eye/scenarios/01_End_of_Peace.cfg:213
--msgid "Uh oh! What should we do, Chief?"
+-#. [message]: speaker=Kapou'e
+-#: data/campaigns/Son_Of_The_Black_Eye/scenarios/01_End_of_Peace.cfg:228
+-msgid "Hmmm..."
 +#. [objective]: condition=lose
 +#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/09_Shan_Taum_the_Smug.cfg:31
 +#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/12_Giving_Some_Back.cfg:29
@@ -454,11 +478,11 @@
 +msgid "Death of Grüü"
  msgstr ""
  
--#. [message]: speaker=Kapou'e
--#: data/campaigns/Son_Of_The_Black_Eye/scenarios/01_End_of_Peace.cfg:218
+-#. [option]
+-#: data/campaigns/Son_Of_The_Black_Eye/scenarios/01_End_of_Peace.cfg:231
 -msgid ""
--"Don’t be afraid. If any more of these pathetic humans come, we’ll deal with "
--"them the way we did with this trash!"
+-"If what you say is true, then there is no way our tribe can face such an "
+-"army alone."
 +#. [objective]: condition=lose
 +#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/09_Shan_Taum_the_Smug.cfg:35
 +#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/08_Silent_Forest.cfg:32
@@ -470,19 +494,18 @@
  msgstr ""
  
 -#. [message]: speaker=Vrag
--#: data/campaigns/Son_Of_The_Black_Eye/scenarios/01_End_of_Peace.cfg:223
+-#: data/campaigns/Son_Of_The_Black_Eye/scenarios/01_End_of_Peace.cfg:236
 -msgid ""
--"Uh, Chief, with all respect that army is huge! Not only that, but most of "
--"them look like tough old soldiers. It would be foolish to confront them with "
--"the forces we have on hand."
+-"Wise decision, Kapou’e. By the size of that army, this is no mere raid — it "
+-"seems to me that the humans have decided to declare war on us."
 +#. [note]
 +#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/09_Shan_Taum_the_Smug.cfg:39
 +msgid "Play this defensively; killing Shan Taum's units too close to him will give him money."
  msgstr ""
  
 -#. [message]: speaker=Kapou'e
--#: data/campaigns/Son_Of_The_Black_Eye/scenarios/01_End_of_Peace.cfg:228
--msgid "Hmmm..."
+-#: data/campaigns/Son_Of_The_Black_Eye/scenarios/01_End_of_Peace.cfg:241
+-msgid "If they want war, then they shall get war!"
 +#. [side]: type=Orcish Warlord, id=Shan Taum
 +#. [unit]: type=Orcish Warlord, id=Shan Taum
 +#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/09_Shan_Taum_the_Smug.cfg:69
@@ -491,44 +514,15 @@
 +msgid "Shan Taum"
  msgstr ""
  
--#. [option]
--#: data/campaigns/Son_Of_The_Black_Eye/scenarios/01_End_of_Peace.cfg:231
--msgid ""
--"If what you say is true, then there is no way our tribe can face such an "
--"army alone."
-+#. [side]: type=Orcish Warlord, id=Shan Taum
-+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/09_Shan_Taum_the_Smug.cfg:98
-+msgid "Rivals"
- msgstr ""
- 
--#. [message]: speaker=Vrag
--#: data/campaigns/Son_Of_The_Black_Eye/scenarios/01_End_of_Peace.cfg:236
--msgid ""
--"Wise decision, Kapou’e. By the size of that army, this is no mere raid — it "
--"seems to me that the humans have decided to declare war on us."
-+#. [part]
-+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/09_Shan_Taum_the_Smug.cfg:107
-+msgid "After clearing out the elves from the Silent Forest, Kapou’e and his party set out on the last leg of their journey. Within a few days they finally reached the city of Lmarig in the Mourned Hills, which was then ruled by Shan Taum the Smug."
- msgstr ""
- 
- #. [message]: speaker=Kapou'e
--#: data/campaigns/Son_Of_The_Black_Eye/scenarios/01_End_of_Peace.cfg:241
--msgid "If they want war, then they shall get war!"
-+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/09_Shan_Taum_the_Smug.cfg:142
-+msgid "At last, here are the Mourned Hills! We can only hope for the best."
- msgstr ""
- 
 -#. [message]: speaker=Kapou'e
 -#: data/campaigns/Son_Of_The_Black_Eye/scenarios/01_End_of_Peace.cfg:246
 -msgid ""
 -"We’ll head for Barag Gór in the lands of the free tribes and demand "
 -"assistance from the Great Council. With their help, we can raise troops from "
 -"the free tribes and crush these humans."
-+#. [message]: speaker=Grüü
-+#. [message]: role=cannonfodder
-+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/09_Shan_Taum_the_Smug.cfg:147
-+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/11_Clash_of_Armies.cfg:339
-+msgid "Why?"
++#. [side]: type=Orcish Warlord, id=Shan Taum
++#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/09_Shan_Taum_the_Smug.cfg:98
++msgid "Rivals"
  msgstr ""
  
 -#. [message]: role=second
@@ -536,50 +530,61 @@
 -msgid ""
 -"But the free tribes are beyond the Mountains of Haag. These mountains are "
 -"infested with dwarves and wild trolls."
-+#. [message]: speaker=Gork
-+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/09_Shan_Taum_the_Smug.cfg:152
-+msgid "You are a troll, so you don’t know. These lands are ruled by Shan Taum the Smug, who was a rival of Black-Eye Karun."
++#. [part]
++#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/09_Shan_Taum_the_Smug.cfg:107
++msgid "After clearing out the elves from the Silent Forest, Kapou’e and his party set out on the last leg of their journey. Within a few days they finally reached the city of Lmarig in the Mourned Hills, which was then ruled by Shan Taum the Smug."
  msgstr ""
  
--#. [message]: speaker=Kapou'e
+ #. [message]: speaker=Kapou'e
 -#: data/campaigns/Son_Of_The_Black_Eye/scenarios/01_End_of_Peace.cfg:256
 -msgid ""
 -"Don’t be so cowardly. The trolls have been our allies in the past — maybe "
 -"they will help us. And what true orc has ever feared dwarvish dirt-grubbers? "
 -"Move it! We leave within the hour. If you’re not ready by then, stay and die."
-+#. [message]: speaker=Pirk
-+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/09_Shan_Taum_the_Smug.cfg:157
-+msgid "I doubt he would welcome the son of the Black-Eye."
++#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/09_Shan_Taum_the_Smug.cfg:142
++msgid "At last, here are the Mourned Hills! We can only hope for the best."
  msgstr ""
  
 -#. [option]
 -#: data/campaigns/Son_Of_The_Black_Eye/scenarios/01_End_of_Peace.cfg:268
 -msgid "Bah, humans? No better than goblins. We’ll break them!"
++#. [message]: speaker=Grüü
++#. [message]: role=cannonfodder
++#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/09_Shan_Taum_the_Smug.cfg:147
++#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/11_Clash_of_Armies.cfg:339
++msgid "Why?"
+ msgstr ""
+ 
+-#. [message]: speaker=Kapou'e
+-#: data/campaigns/Son_Of_The_Black_Eye/scenarios/01_End_of_Peace.cfg:273
+-msgid ""
+-"Prepare for battle, my grunts! We’ll show these humans what happens when you "
+-"try to steal from Kapou’e, Son of the Black-Eye!"
++#. [message]: speaker=Gork
++#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/09_Shan_Taum_the_Smug.cfg:152
++msgid "You are a troll, so you don’t know. These lands are ruled by Shan Taum the Smug, who was a rival of Black-Eye Karun."
+ msgstr ""
+ 
+-#. [scenario]: id=02_The_Human_Army
+-#: data/campaigns/Son_Of_The_Black_Eye/scenarios/02_The_Human_Army.cfg:4
+-msgid "The Human Army"
++#. [message]: speaker=Pirk
++#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/09_Shan_Taum_the_Smug.cfg:157
++msgid "I doubt he would welcome the son of the Black-Eye."
+ msgstr ""
+ 
+-#. [objective]: condition=win
+-#: data/campaigns/Son_Of_The_Black_Eye/scenarios/02_The_Human_Army.cfg:22
+-msgid "Defeat Lanbec’h"
 +#. [message]: speaker=Shan Taum
 +#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/09_Shan_Taum_the_Smug.cfg:161
 +msgid "Who is that? Kapou’e! What are you doing in my lands, you weakling runt?"
  msgstr ""
  
- #. [message]: speaker=Kapou'e
--#: data/campaigns/Son_Of_The_Black_Eye/scenarios/01_End_of_Peace.cfg:273
--msgid ""
--"Prepare for battle, my grunts! We’ll show these humans what happens when you "
--"try to steal from Kapou’e, Son of the Black-Eye!"
--msgstr ""
--
--#. [scenario]: id=02_The_Human_Army
--#: data/campaigns/Son_Of_The_Black_Eye/scenarios/02_The_Human_Army.cfg:4
--msgid "The Human Army"
--msgstr ""
--
--#. [objective]: condition=win
--#: data/campaigns/Son_Of_The_Black_Eye/scenarios/02_The_Human_Army.cfg:22
--msgid "Defeat Lanbec’h"
--msgstr ""
--
 -#. [objective]: condition=win
 -#: data/campaigns/Son_Of_The_Black_Eye/scenarios/02_The_Human_Army.cfg:31
 -msgid "Resist until your people are ready to go (turn 12)"
++#. [message]: speaker=Kapou'e
 +#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/09_Shan_Taum_the_Smug.cfg:166
 +msgid "Hold on, Shan Taum. We seek the Great Council, not a quarrel with you."
  msgstr ""
@@ -855,6 +860,11 @@
 -msgid ""
 -"In this scenario, you may ask Grüü to move to any hex by right-clicking on "
 -"that hex."
+-msgstr ""
+-
+-#. [side]: type=Dwarvish Lord, type=Dwarvish Steelclad, id=Kwili
+-#: data/campaigns/Son_Of_The_Black_Eye/scenarios/03_Toward_Mountains_of_Haag.cfg:95
+-msgid "Kwili"
 +#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/12_Giving_Some_Back.cfg:33
 +#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/14_Back_Home.cfg:33
 +#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/17_The_Human_Attack.cfg:35
@@ -863,8 +873,8 @@
  msgstr ""
  
 -#. [side]: type=Dwarvish Lord, type=Dwarvish Steelclad, id=Kwili
--#: data/campaigns/Son_Of_The_Black_Eye/scenarios/03_Toward_Mountains_of_Haag.cfg:95
--msgid "Kwili"
+-#: data/campaigns/Son_Of_The_Black_Eye/scenarios/03_Toward_Mountains_of_Haag.cfg:102
+-msgid "Dwarves"
 +#. [objective]: condition=lose
 +#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/12_Giving_Some_Back.cfg:37
 +#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/14_Back_Home.cfg:37
@@ -873,19 +883,19 @@
 +msgid "Death of Flar’Tar"
  msgstr ""
  
--#. [side]: type=Dwarvish Lord, type=Dwarvish Steelclad, id=Kwili
--#: data/campaigns/Son_Of_The_Black_Eye/scenarios/03_Toward_Mountains_of_Haag.cfg:102
--msgid "Dwarves"
-+#. [side]: type=General, id=Arthain
-+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/12_Giving_Some_Back.cfg:85
-+msgid "Arthain"
- msgstr ""
- 
 -#. [message]: speaker=Kapou'e
 -#: data/campaigns/Son_Of_The_Black_Eye/scenarios/03_Toward_Mountains_of_Haag.cfg:156
 -msgid ""
 -"We have almost crossed the mountains. We’re close to the lands of the free "
 -"tribes. So far so good."
++#. [side]: type=General, id=Arthain
++#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/12_Giving_Some_Back.cfg:85
++msgid "Arthain"
+ msgstr ""
+ 
+-#. [message]: speaker=Kwili
+-#: data/campaigns/Son_Of_The_Black_Eye/scenarios/03_Toward_Mountains_of_Haag.cfg:160
+-msgid "Halt! Who goes there?"
 +#. [side]: type=General, id=Arthain
 +#. [side]: type=Lieutenant, id=Hanak
 +#. [side]: type=General, id=Telthys
@@ -1283,11 +1293,8 @@
 +#. [message]: speaker=narrator
 +#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/14_Back_Home.cfg:867
 +msgid "A few minutes later..."
- msgstr ""
- 
--#. [message]: speaker=Kwili
--#: data/campaigns/Son_Of_The_Black_Eye/scenarios/03_Toward_Mountains_of_Haag.cfg:160
--msgid "Halt! Who goes there?"
++msgstr ""
++
 +#. [message]: speaker=Kapou'e
 +#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/14_Back_Home.cfg:880
 +msgid "The human-worms and tree-shaggers have gone too far! BLOOD AND STEEL! I want every human and elf in this area slaughtered! Show no mercy, give no quarter!"

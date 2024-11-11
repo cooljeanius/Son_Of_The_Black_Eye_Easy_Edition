@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: en@shaw\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2024-11-04 07:18 UTC\n"
+"POT-Creation-Date: 2024-11-11 19:09 UTC\n"
 "PO-Revision-Date: 2009-10-13 13:00-0400\n"
 "Last-Translator: Arc Riley <arcriley@ubuntu.com>\n"
 "Language-Team: Shavian English <ubuntu-l10n-en-shaw@lists.launchpad.net>\n"
@@ -122,7 +122,7 @@ msgstr ""
 #: Son_Of_The_Black_Eye_Easy_Edition/utils/utils.cfg:80
 #: Son_Of_The_Black_Eye_Easy_Edition/utils/utils.cfg:88
 #: Son_Of_The_Black_Eye_Easy_Edition/utils/utils.cfg:113
-#: Son_Of_The_Black_Eye_Easy_Edition/utils/utils.cfg:137
+#: Son_Of_The_Black_Eye_Easy_Edition/utils/utils.cfg:141
 #: Son_Of_The_Black_Eye_Easy_Edition/scenarios/14_Back_Home.cfg:88
 #: Son_Of_The_Black_Eye_Easy_Edition/scenarios/15_Civil_War.cfg:782
 #: Son_Of_The_Black_Eye_Easy_Edition/scenarios/06_Black_Flag.cfg:108
@@ -142,12 +142,24 @@ msgstr "·𐑒𐑨𐑐𐑬'𐑰"
 msgid "Al’Brock"
 msgstr "·𐑨𐑤'𐑚𐑮𐑪𐑒"
 
-#: Son_Of_The_Black_Eye_Easy_Edition/utils/utils.cfg:130
+#: Son_Of_The_Black_Eye_Easy_Edition/utils/utils.cfg:116
+#, fuzzy
+#| msgid "Al’Brock"
+msgid "Al’Brock Side"
+msgstr "·𐑨𐑤'𐑚𐑮𐑪𐑒"
+
+#: Son_Of_The_Black_Eye_Easy_Edition/utils/utils.cfg:134
 msgid "Flar’Tar"
 msgstr "·𐑓𐑤𐑸'𐑑𐑸"
 
+#: Son_Of_The_Black_Eye_Easy_Edition/utils/utils.cfg:144
+#, fuzzy
+#| msgid "Flar’Tar"
+msgid "Flar’Tar Side"
+msgstr "·𐑓𐑤𐑸'𐑑𐑸"
+
 #. [note]
-#: Son_Of_The_Black_Eye_Easy_Edition/utils/utils.cfg:153
+#: Son_Of_The_Black_Eye_Easy_Edition/utils/utils.cfg:161
 msgid "The Great Horde: upkeep cost of every unit decreased by one."
 msgstr "𐑞 𐑜𐑮𐑱𐑑 𐑣𐑹𐑛: 𐑳𐑐𐑒𐑰𐑐 𐑒𐑪𐑕𐑑 𐑝 𐑧𐑝𐑮𐑦 𐑿𐑯𐑦𐑑 𐑛𐑦𐑒𐑮𐑰𐑕𐑑 𐑚𐑲 𐑢𐑳𐑯."
 
