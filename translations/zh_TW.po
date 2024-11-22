@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wesnoth-1.14\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2024-11-11 19:09 UTC\n"
+"POT-Creation-Date: 2024-11-22 03:30 UTC\n"
 "PO-Revision-Date: 2020-05-09 22:36+0800\n"
 "Last-Translator: 楊綮銘 <steven2880@gmail.com>\n"
 "Language-Team: Wesnoth Traditional Chinese Team\n"
@@ -121,7 +121,7 @@ msgstr "可惡，少了音娜芮克絲領導蜥蜴人，我們根本無法徵召
 #: Son_Of_The_Black_Eye_Easy_Edition/utils/utils.cfg:113
 #: Son_Of_The_Black_Eye_Easy_Edition/utils/utils.cfg:141
 #: Son_Of_The_Black_Eye_Easy_Edition/scenarios/14_Back_Home.cfg:88
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/15_Civil_War.cfg:782
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/15_Civil_War.cfg:785
 #: Son_Of_The_Black_Eye_Easy_Edition/scenarios/06_Black_Flag.cfg:108
 #: Son_Of_The_Black_Eye_Easy_Edition/scenarios/18_Northern_Alliance.cfg:241
 #: Son_Of_The_Black_Eye_Easy_Edition/scenarios/03_Toward_Mountains_of_Haag.cfg:155
@@ -604,9 +604,9 @@ msgstr "阿薩因"
 #: Son_Of_The_Black_Eye_Easy_Edition/scenarios/12_Giving_Some_Back.cfg:92
 #: Son_Of_The_Black_Eye_Easy_Edition/scenarios/12_Giving_Some_Back.cfg:121
 #: Son_Of_The_Black_Eye_Easy_Edition/scenarios/14_Back_Home.cfg:128
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/14_Back_Home.cfg:184
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/14_Back_Home.cfg:208
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/14_Back_Home.cfg:230
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/14_Back_Home.cfg:187
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/14_Back_Home.cfg:211
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/14_Back_Home.cfg:233
 #: Son_Of_The_Black_Eye_Easy_Edition/scenarios/11_Clash_of_Armies.cfg:83
 #: Son_Of_The_Black_Eye_Easy_Edition/scenarios/11_Clash_of_Armies.cfg:143
 #: Son_Of_The_Black_Eye_Easy_Edition/scenarios/11_Clash_of_Armies.cfg:171
@@ -817,7 +817,7 @@ msgstr "泰爾西思"
 #. [side]: type=Elvish Champion, id=Thelarion
 #. [side]: type=Elvish Hero, type=Elvish Champion, id=Thelarion
 #. [unit]: type=Elvish Champion, id=Thelarion
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/14_Back_Home.cfg:178
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/14_Back_Home.cfg:181
 #: Son_Of_The_Black_Eye_Easy_Edition/scenarios/11_Clash_of_Armies.cfg:71
 #: Son_Of_The_Black_Eye_Easy_Edition/scenarios/10_Saving_Inarix.cfg:93
 #: Son_Of_The_Black_Eye_Easy_Edition/scenarios/13_The_Dwarvish_Stand.cfg:214
@@ -825,17 +825,17 @@ msgid "Thelarion"
 msgstr "奈拉瑞安"
 
 #. [side]: type=General, id=Fredor
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/14_Back_Home.cfg:202
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/14_Back_Home.cfg:205
 msgid "Fredor"
 msgstr "弗雷德"
 
 #. [side]: type=General, id=Georan
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/14_Back_Home.cfg:224
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/14_Back_Home.cfg:227
 msgid "Georan"
 msgstr "喬奧蘭"
 
 #. [part]
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/14_Back_Home.cfg:245
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/14_Back_Home.cfg:248
 msgid ""
 "Having broken the dwarvish blockade, the horde continued on through the "
 "mountain pass. Kapou’e began to recognize the lands about them and sure "
@@ -845,22 +845,22 @@ msgstr ""
 "己回到了部落的故土。"
 
 #. [event]
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/14_Back_Home.cfg:256
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/14_Back_Home.cfg:259
 msgid "Valan"
 msgstr "瓦蘭"
 
 #. [message]: speaker=Kapou'e
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/14_Back_Home.cfg:351
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/14_Back_Home.cfg:354
 msgid "Well, boys, we’re home. I told you we would return one day."
 msgstr "好了，弟兄們，我們到家了。我說過，總有一天我們會再回來的。"
 
 #. [message]: role=army
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/14_Back_Home.cfg:358
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/14_Back_Home.cfg:361
 msgid "Boy, have they ever built this place up."
 msgstr "兄弟，他們似乎並未構築防禦工事。"
 
 #. [message]: speaker=Kapou'e
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/14_Back_Home.cfg:364
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/14_Back_Home.cfg:367
 msgid ""
 "Listen up, orcs. Our main objective is to rescue the shamans. It won’t work "
 "to take the human runts head-on while they sneak the shamans out the back "
@@ -870,12 +870,12 @@ msgstr ""
 "即使我們將剩餘的人類都殺死也於事無補。"
 
 #. [message]: speaker=Flar'Tar
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/14_Back_Home.cfg:370
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/14_Back_Home.cfg:373
 msgid "What are you thinking, Chief?"
 msgstr "你在想什麼呢，老大？"
 
 #. [message]: speaker=Kapou'e
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/14_Back_Home.cfg:376
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/14_Back_Home.cfg:379
 #, fuzzy
 #| msgid ""
 #| "My men know the land well. Flar’Tar and Al’Brock, both of you take a "
@@ -893,17 +893,17 @@ msgstr ""
 "圍起來了。"
 
 #. [message]: speaker=Grüü
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/14_Back_Home.cfg:382
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/14_Back_Home.cfg:385
 msgid "I like this plan, Chief!"
 msgstr "老大，這主意俺喜歡！"
 
 #. [message]: role=army
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/14_Back_Home.cfg:388
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/14_Back_Home.cfg:391
 msgid "You always like his plans, Grüü."
 msgstr "庫魯，你是喜歡老大的所有計畫吧。"
 
 #. [message]: speaker=Grüü
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/14_Back_Home.cfg:394
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/14_Back_Home.cfg:397
 msgid ""
 "Of course. Squash elves, squash undead, squash dwarves, squash humans. "
 "Squash them all, very good plan!"
@@ -912,12 +912,12 @@ msgstr ""
 "在是太棒了！"
 
 #. [message]: role=army
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/14_Back_Home.cfg:400
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/14_Back_Home.cfg:403
 msgid "Well, he has the right idea, anyway."
 msgstr "好吧，不管怎麼說，他知道自己要幹嘛。"
 
 #. [message]: speaker=Kapou'e
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/14_Back_Home.cfg:407
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/14_Back_Home.cfg:410
 msgid ""
 "Good, everyone move out. I will begin the attack from here. I want everyone "
 "to be in position by first watch at the latest. Is that clear?"
@@ -927,80 +927,80 @@ msgstr ""
 
 #. [message]: speaker=Flar'Tar
 #. [message]: speaker=second_unit
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/14_Back_Home.cfg:413
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/14_Back_Home.cfg:860
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/14_Back_Home.cfg:416
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/14_Back_Home.cfg:863
 msgid "Yes, Chief."
 msgstr "對吧，老大。"
 
 #. [message]: speaker=Al'Brock
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/14_Back_Home.cfg:419
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/14_Back_Home.cfg:422
 msgid "Understood."
 msgstr "明白。"
 
 #. [message]: speaker=Grüü
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/14_Back_Home.cfg:441
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/14_Back_Home.cfg:444
 msgid "Uh, Chief..."
 msgstr "呃，老大......"
 
 #. [message]: speaker=Kapou'e
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/14_Back_Home.cfg:447
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/14_Back_Home.cfg:450
 msgid "... Yes, Grüü?"
 msgstr "什麼事？庫魯？"
 
 #. [message]: speaker=Grüü
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/14_Back_Home.cfg:453
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/14_Back_Home.cfg:456
 msgid "Can I get some gold with me?"
 msgstr "俺可以帶點金子嗎？"
 
 #. [message]: speaker=Kapou'e
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/14_Back_Home.cfg:459
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/14_Back_Home.cfg:462
 msgid "Fine, take a hundred. Don’t lose it."
 msgstr "好，帶上一百枚金幣吧，別弄丟了。"
 
 #. [message]: speaker=Al'Brock
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/14_Back_Home.cfg:527
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/14_Back_Home.cfg:530
 msgid "I am in position, Chief."
 msgstr "我就定位了，老大。"
 
 #. [message]: speaker=Kapou'e
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/14_Back_Home.cfg:533
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/14_Back_Home.cfg:536
 msgid "Excellent. Now, where are the others?"
 msgstr "很好！那麼，其他人到哪了呢？"
 
 #. [message]: speaker=Flar'Tar
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/14_Back_Home.cfg:600
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/14_Back_Home.cfg:603
 msgid "We made it."
 msgstr "我們抵達了。"
 
 #. [message]: speaker=Kapou'e
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/14_Back_Home.cfg:606
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/14_Back_Home.cfg:609
 msgid "Good, but where is Grüü?"
 msgstr "很好，但庫魯在哪？"
 
 #. [message]: speaker=Flar'Tar
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/14_Back_Home.cfg:611
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/14_Back_Home.cfg:614
 msgid "Dumb trolls, you can never rely on them."
 msgstr "巨魔都阿呆阿呆的，你可千萬別對他們有太高的期待。"
 
 #. [message]: speaker=Grüü
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/14_Back_Home.cfg:712
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/14_Back_Home.cfg:715
 msgid "I’m here, Chief!"
 msgstr "我在這裡，老大！"
 
 #. [message]: speaker=Kapou'e
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/14_Back_Home.cfg:718
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/14_Back_Home.cfg:721
 msgid ""
 "Blood and stone, Grüü! You were supposed to be in position by first watch. "
 "It’s dawn!"
 msgstr "庫魯，你這天殺的臭石頭！上半夜時你就該就定位的，可現在天都要亮了！"
 
 #. [message]: speaker=Grüü
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/14_Back_Home.cfg:724
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/14_Back_Home.cfg:727
 msgid "Err, sorry, there were some humans in way. We squash, no problem."
 msgstr "痾，抱歉啦，遇到了一些臭人類擋路，咱把他們都給砸扁了，沒問題的啦。"
 
 #. [message]: speaker=Kapou'e
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/14_Back_Home.cfg:730
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/14_Back_Home.cfg:733
 #, fuzzy
 #| msgid ""
 #| "Better late than never. Now it’s time to kill! Let nobody escape and "
@@ -1013,47 +1013,47 @@ msgstr ""
 "的薩滿。"
 
 #. [message]: speaker=Flar'Tar
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/14_Back_Home.cfg:735
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/14_Back_Home.cfg:738
 msgid "Sounds simple enough."
 msgstr "真是簡單明瞭。"
 
 #. [message]: speaker=second_unit
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/14_Back_Home.cfg:771
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/14_Back_Home.cfg:774
 msgid "Miserable elf, we want some answers!"
 msgstr "可憐的小精靈，我們有些問題想\"請教\"你！"
 
 #. [message]: speaker=Thelarion
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/14_Back_Home.cfg:776
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/14_Back_Home.cfg:779
 msgid "Ugh!"
 msgstr "呃！"
 
 #. [message]: speaker=second_unit
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/14_Back_Home.cfg:781
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/14_Back_Home.cfg:784
 msgid "SPEAK!"
 msgstr "說！"
 
 #. [message]: speaker=Thelarion
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/14_Back_Home.cfg:786
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/14_Back_Home.cfg:789
 msgid "... Well, what do you want to know?"
 msgstr "好吧...你們想知道什麼？"
 
 #. [message]: speaker=second_unit
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/14_Back_Home.cfg:791
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/14_Back_Home.cfg:794
 msgid "You can start by telling us who told you to strike at Borstep."
 msgstr "你可以先說說是誰叫你們去襲擊博司泰普的。"
 
 #. [message]: speaker=Thelarion
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/14_Back_Home.cfg:796
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/14_Back_Home.cfg:799
 msgid "Uh... we have intelligence."
 msgstr "痾...當然是我們自己想到的。"
 
 #. [message]: speaker=second_unit
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/14_Back_Home.cfg:801
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/14_Back_Home.cfg:804
 msgid "Don’t make me hurt you more."
 msgstr "別給我理由繼續折磨你。"
 
 #. [message]: speaker=Thelarion
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/14_Back_Home.cfg:806
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/14_Back_Home.cfg:809
 msgid ""
 "I yield. Shan Taum the Smug told us that that’s where the shamans were, and "
 "that it was a rally point and weapons depot for you orcs."
@@ -1062,13 +1062,13 @@ msgstr ""
 "及軍械庫。"
 
 #. [message]: speaker=second_unit
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/14_Back_Home.cfg:811
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/14_Back_Home.cfg:814
 msgid ""
 "Bah, do not think you can break the unity of the horde with your stupid lies!"
 msgstr "我呸！別以為可以用如此愚蠢的謊言破壞我們大部落的團結！"
 
 #. [message]: speaker=Thelarion
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/14_Back_Home.cfg:816
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/14_Back_Home.cfg:819
 msgid ""
 "No really, it’s true. He is jealous of some young upstart called Kapou’e. He "
 "says all the shamans ‘suck up’ to him just because his father had a black "
@@ -1078,7 +1078,7 @@ msgstr ""
 "對著那新貴搖尾乞憐，只因那人的父親有一隻黑眼或什麼的。"
 
 #. [message]: speaker=second_unit
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/14_Back_Home.cfg:821
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/14_Back_Home.cfg:824
 msgid ""
 "Refer to Black-Eye Karun with respect, wose-born. Now, where are the shamans?"
 msgstr ""
@@ -1086,37 +1086,37 @@ msgstr ""
 "哪？"
 
 #. [message]: speaker=Thelarion
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/14_Back_Home.cfg:826
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/14_Back_Home.cfg:829
 msgid "They’re... the humans killed them."
 msgstr "他們...都被人類給殺了。"
 
 #. [message]: speaker=second_unit
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/14_Back_Home.cfg:831
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/14_Back_Home.cfg:834
 msgid "You lie!"
 msgstr "你說謊！"
 
 #. [message]: speaker=Thelarion
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/14_Back_Home.cfg:836
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/14_Back_Home.cfg:839
 msgid "I do not. Their bodies are frozen in the lake just over there."
 msgstr "我沒撒謊！他們僵硬的屍體就在那邊的湖裡頭。"
 
 #. [message]: speaker=Kapou'e
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/14_Back_Home.cfg:848
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/14_Back_Home.cfg:851
 msgid "We had better go look."
 msgstr "我們最好過去看看。"
 
 #. [message]: speaker=Kapou'e
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/14_Back_Home.cfg:855
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/14_Back_Home.cfg:858
 msgid "You had better go look."
 msgstr "你最好也過去看看。"
 
 #. [message]: speaker=narrator
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/14_Back_Home.cfg:867
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/14_Back_Home.cfg:870
 msgid "A few minutes later..."
 msgstr "幾分鐘後..."
 
 #. [message]: speaker=Kapou'e
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/14_Back_Home.cfg:880
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/14_Back_Home.cfg:883
 msgid ""
 "The human-worms and tree-shaggers have gone too far! BLOOD AND STEEL! I want "
 "every human and elf in this area slaughtered! Show no mercy, give no quarter!"
@@ -1125,12 +1125,12 @@ msgstr ""
 "的所有人類與精靈！無須憐憫，不留俘虜！"
 
 #. [message]: speaker=second_unit
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/14_Back_Home.cfg:886
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/14_Back_Home.cfg:889
 msgid "Chief! It’s true, the shamans have been murdered!"
 msgstr "老大！他說的是真的，我們的薩滿都被殺害了！"
 
 #. [message]: speaker=Kapou'e
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/14_Back_Home.cfg:892
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/14_Back_Home.cfg:895
 msgid ""
 "<i>What</i>?! The human-worms and tree-shaggers have gone too far! BLOOD AND "
 "STEEL! I want every human and elf in this area slaughtered! Show no mercy, "
@@ -1140,17 +1140,17 @@ msgstr ""
 "區域內的所有人類與精靈！無須憐憫，不留俘虜！"
 
 #. [message]: speaker=second_unit
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/14_Back_Home.cfg:897
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/14_Back_Home.cfg:900
 msgid "What should I do with this one?"
 msgstr "那這傢伙要如何處置呢？"
 
 #. [message]: speaker=Kapou'e
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/14_Back_Home.cfg:903
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/14_Back_Home.cfg:906
 msgid "Throw him in the lake. If he freezes to death, all the better."
 msgstr "把他丟進湖裡去。把他活活凍死的話，就實在太棒了。"
 
 #. [message]
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/14_Back_Home.cfg:926
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/14_Back_Home.cfg:929
 msgid "You retrieve $amount_gold of Grüü's leftover gold."
 msgstr "你獲得了庫魯剩下的金幣中的$amount_gold枚金幣。"
 
@@ -1382,197 +1382,197 @@ msgid "Sorry!"
 msgstr ""
 
 #. [message]: speaker=second_unit
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/15_Civil_War.cfg:396
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/15_Civil_War.cfg:399
 msgid ""
 "ROAAARRRR!!! (translation: “Chief, maybe we should do what he said and just "
 "try to assassinate their leaders instead?”)"
 msgstr ""
 
 #. [message]: speaker=Kapou'e
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/15_Civil_War.cfg:400
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/15_Civil_War.cfg:403
 msgid ""
 "<span size='small' font-style='italic'>(pretending he understood)</span> ..."
 "sure, why not?"
 msgstr ""
 
 #. [message]: speaker=second_unit
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/15_Civil_War.cfg:406
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/15_Civil_War.cfg:409
 msgid ""
 "Chief, maybe we should do what he said and just try to assassinate their "
 "leaders instead?"
 msgstr ""
 
 #. [message]: speaker=Kapou'e
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/15_Civil_War.cfg:410
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/15_Civil_War.cfg:413
 msgid "Sure, why not? —If we get the chance."
 msgstr ""
 
 #. [message]: speaker=Plonk
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/15_Civil_War.cfg:469
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/15_Civil_War.cfg:472
 msgid "Did someone say something about assassinations?"
 msgstr ""
 
 #. [message]: speaker=Kapou'e
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/15_Civil_War.cfg:473
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/15_Civil_War.cfg:476
 msgid "Yes, Plonk, would you like this job?"
 msgstr ""
 
 #. [message]: speaker=Plonk
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/15_Civil_War.cfg:477
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/15_Civil_War.cfg:480
 msgid ""
 "I know just the tool for the task. Are you ok with me getting a little help "
 "from some spirits of the dead for this?"
 msgstr ""
 
 #. [message]: speaker=Kapou'e
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/15_Civil_War.cfg:481
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/15_Civil_War.cfg:562
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/15_Civil_War.cfg:484
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/15_Civil_War.cfg:565
 msgid "Spirits?!"
 msgstr ""
 
 #. [option]
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/15_Civil_War.cfg:484
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/15_Civil_War.cfg:565
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/15_Civil_War.cfg:487
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/15_Civil_War.cfg:568
 msgid "Why yes of course, they'd be perfect!"
 msgstr ""
 
 #. [message]: speaker=Plonk
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/15_Civil_War.cfg:489
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/15_Civil_War.cfg:492
 msgid "Cool, here they are."
 msgstr ""
 
 #. [option]
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/15_Civil_War.cfg:499
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/15_Civil_War.cfg:580
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/15_Civil_War.cfg:502
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/15_Civil_War.cfg:583
 msgid "No way!"
 msgstr ""
 
 #. [message]: speaker=Plonk
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/15_Civil_War.cfg:504
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/15_Civil_War.cfg:507
 msgid ""
 "Aw, man... I guess I'll just have to sneak around the enemies myself... "
 "which is something that I can do now, by the way!"
 msgstr ""
 
 #. [message]: speaker=Jetto
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/15_Civil_War.cfg:550
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/15_Civil_War.cfg:553
 msgid "Assassinations? Finally, it's my time to shine!"
 msgstr ""
 
 #. [message]: speaker=Kapou'e
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/15_Civil_War.cfg:554
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/15_Civil_War.cfg:557
 msgid "Are you saying that you'd like to have this job, Jetto?"
 msgstr ""
 
 #. [message]: speaker=Jetto
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/15_Civil_War.cfg:558
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/15_Civil_War.cfg:561
 msgid ""
 "Yes! In fact, I know just the tool for the task. Are you fine with me "
 "getting some help from some spirits of the dead for this?"
 msgstr ""
 
 #. [message]: speaker=Jetto
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/15_Civil_War.cfg:570
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/15_Civil_War.cfg:573
 msgid "All right! Here they are."
 msgstr ""
 
 #. [message]: speaker=Jetto
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/15_Civil_War.cfg:585
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/15_Civil_War.cfg:588
 msgid ""
 "Oh well, guess I'll just have to sneak around the edge of the front line "
 "myself... which is something I can do now, by the way!"
 msgstr ""
 
 #. [message]: speaker=Grüü
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/15_Civil_War.cfg:628
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/15_Civil_War.cfg:631
 msgid "Little orcs fun to squash too! Chief doesn’t let me too often."
 msgstr "小半獸人砸起來也很好玩的！！可惜老大有時候不讓俺玩。"
 
 #. [message]: speaker=Kapou'e
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/15_Civil_War.cfg:633
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/15_Civil_War.cfg:636
 msgid "You can have as many as you want now, Grüü."
 msgstr "庫魯，現在準你愛砸啥就砸啥。"
 
 #. [message]: speaker=second_unit
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/15_Civil_War.cfg:653
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/15_Civil_War.cfg:656
 msgid "This rabble won’t be a problem anymore."
 msgstr "這群烏合之眾，咱三兩下就能搞定了。"
 
 #. [message]: speaker=second_unit
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/15_Civil_War.cfg:662
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/15_Civil_War.cfg:665
 msgid "Got this tribe under control."
 msgstr "這個部落已經控制住了。"
 
 #. [message]: speaker=second_unit
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/15_Civil_War.cfg:671
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/15_Civil_War.cfg:674
 msgid "This is what you get for deserting the Son of the Black-Eye."
 msgstr "這就是你們背棄黑眼之子的下場。"
 
 #. [message]: speaker=second_unit
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/15_Civil_War.cfg:680
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/15_Civil_War.cfg:683
 msgid "This trash’s gone."
 msgstr "這廢物掛了。"
 
 #. [message]: speaker=Grüü
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/15_Civil_War.cfg:703
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/15_Civil_War.cfg:979
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/15_Civil_War.cfg:706
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/15_Civil_War.cfg:982
 msgid "Heehee, we wiped them out good."
 msgstr "嘿嘿，輕輕鬆鬆就把他們滅光光了。"
 
 #. [message]: speaker=Kapou'e
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/15_Civil_War.cfg:708
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/15_Civil_War.cfg:984
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/15_Civil_War.cfg:711
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/15_Civil_War.cfg:987
 msgid "Now let’s get going, we have an appointment with Shan Taum."
 msgstr "好了，趕緊出發吧，我們跟尚陶還有個\"約會\"。"
 
 #. [message]: role=new_leader
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/15_Civil_War.cfg:817
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/15_Civil_War.cfg:820
 msgid "Freedom! Don’t worry about our tribe anymore, Kapou’e."
 msgstr ""
 
 #. [message]: role=new_leader
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/15_Civil_War.cfg:827
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/15_Civil_War.cfg:830
 #, fuzzy
 #| msgid "Son of the Black-Eye"
 msgid "Thank you, Son of the Black-Eye!"
 msgstr "黑眼之子"
 
 #. [message]: role=new_leader
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/15_Civil_War.cfg:837
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/15_Civil_War.cfg:840
 msgid "The chief is gone at last!"
 msgstr ""
 
 #. [message]: role=new_leader
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/15_Civil_War.cfg:847
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/15_Civil_War.cfg:850
 msgid "Finally! We’ll fight at your side now!"
 msgstr ""
 
 #. [message]: speaker=Kapou'e
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/15_Civil_War.cfg:857
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/15_Civil_War.cfg:860
 msgid ""
 "We wiped out that entire tribe instead of just assassinating their leader! "
 "What a waste of orcish blood!"
 msgstr ""
 
 #. [message]: speaker=Kapou'e
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/15_Civil_War.cfg:892
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/15_Civil_War.cfg:895
 msgid ""
 "I can’t leave these renegades unguarded at our rear. I must take care of "
 "them before continuing."
 msgstr "不能讓這些叛徒們就這麼跟在我們後面，繼續行軍前得好好地將他們處理處理。"
 
 #. [message]: speaker=Kapou'e
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/15_Civil_War.cfg:902
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/15_Civil_War.cfg:905
 msgid "All rebels appear to have been taken care of... Time to move on!"
 msgstr ""
 
 #. [message]
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/15_Civil_War.cfg:938
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/15_Civil_War.cfg:941
 msgid "Thanks to you, Kapou’e, our imbecile leaders are gone!"
 msgstr ""
 
 #. [message]: speaker=Kapou'e
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/15_Civil_War.cfg:943
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/15_Civil_War.cfg:946
 #, fuzzy
 #| msgid "Now let’s get going, we have an appointment with Shan Taum."
 msgid ""
@@ -1580,31 +1580,31 @@ msgid ""
 msgstr "好了，趕緊出發吧，我們跟尚陶還有個\"約會\"。"
 
 #. [message]
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/15_Civil_War.cfg:949
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/15_Civil_War.cfg:952
 msgid "Actually... we won’t be coming."
 msgstr ""
 
 #. [message]: speaker=Grüü
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/15_Civil_War.cfg:954
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/15_Civil_War.cfg:957
 msgid "You don’t turn your back on Chief! You come or we squash!"
 msgstr ""
 
 #. [message]
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/15_Civil_War.cfg:960
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/15_Civil_War.cfg:963
 msgid ""
 "But we don’t want to fight anymore! In fact, we prefer farming to war. Maybe "
 "burn a village every now and then, but no big fighting."
 msgstr ""
 
 #. [message]: speaker=Grüü
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/15_Civil_War.cfg:965
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/15_Civil_War.cfg:968
 msgid ""
 "Haha, Grüü never heard anything funnier! Farming orcs must have been hit in "
 "the head too hard."
 msgstr ""
 
 #. [message]: speaker=Kapou'e
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/15_Civil_War.cfg:971
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/15_Civil_War.cfg:974
 msgid ""
 "As much as I’d like to, we don’t have time to stay and ‘re-educate’ these un-"
 "orcs. So go jump in a lake if you want for all I care, just make sure I "
@@ -1612,7 +1612,7 @@ msgid ""
 msgstr ""
 
 #. [message]
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/15_Civil_War.cfg:999
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/15_Civil_War.cfg:1002
 msgid "Where are you going, Kapou'e? We are still fighting here!"
 msgstr ""
 
@@ -3703,7 +3703,7 @@ msgstr ""
 
 #. [message]: speaker=second_unit
 #. "First Faction of Fanatics" = fancy/alliterative way of saying "side 1":
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/17_The_Human_Attack.cfg:753
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/17_The_Human_Attack.cfg:754
 msgid ""
 "Hey Kapou'e, that guard dropped some gold! I'll pick it up for Kapou'e's "
 "First Faction of Fanatics!"
@@ -3711,7 +3711,7 @@ msgstr ""
 
 #. [message]: speaker=second_unit
 #. "Second Squadron of Skullcrushers" = fancy/alliterative way of saying "side 2":
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/17_The_Human_Attack.cfg:762
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/17_The_Human_Attack.cfg:763
 msgid ""
 "Hey Al'Brock, that guard dropped some gold! I'll pick it up for Al'Brock's "
 "Second Squadron of Skullcrushers!"
@@ -3719,7 +3719,7 @@ msgstr ""
 
 #. [message]: speaker=second_unit
 #. Neither this unit nor I could think of a good collective noun that starts with "Th":
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/17_The_Human_Attack.cfg:771
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/17_The_Human_Attack.cfg:772
 msgid ""
 "Hey Flar'Tar, that guard dropped some gold! I'll pick it up for Flar'Tar's "
 "Third Th...Th... well, the point is, we're the third!"
@@ -3727,13 +3727,13 @@ msgstr ""
 
 #. [message]: speaker=second_unit
 #. This shouldn't ever be displayed unless the player is doing something weird with debug mode:
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/17_The_Human_Attack.cfg:779
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/17_The_Human_Attack.cfg:780
 msgid "Due to your poor skill at guarding, we are reclaiming your pay."
 msgstr ""
 
 #. [message]: speaker=second_unit
 #. default fallback; probably unreached:
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/17_The_Human_Attack.cfg:786
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/17_The_Human_Attack.cfg:787
 msgid "The guard dropped some gold!"
 msgstr ""
 
