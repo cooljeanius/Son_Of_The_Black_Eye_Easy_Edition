@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Battle for Wesnoth 1.1-dev\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2024-11-22 03:30 UTC\n"
+"POT-Creation-Date: 2024-12-01 23:24 UTC\n"
 "PO-Revision-Date: 2005-12-05 10:47+0100\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -3229,7 +3229,7 @@ msgstr ""
 
 #. [message]: speaker=second_unit
 #. "First Faction of Fanatics" = fancy/alliterative way of saying "side 1":
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/17_The_Human_Attack.cfg:754
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/17_The_Human_Attack.cfg:766
 msgid ""
 "Hey Kapou'e, that guard dropped some gold! I'll pick it up for Kapou'e's "
 "First Faction of Fanatics!"
@@ -3237,7 +3237,7 @@ msgstr ""
 
 #. [message]: speaker=second_unit
 #. "Second Squadron of Skullcrushers" = fancy/alliterative way of saying "side 2":
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/17_The_Human_Attack.cfg:763
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/17_The_Human_Attack.cfg:775
 msgid ""
 "Hey Al'Brock, that guard dropped some gold! I'll pick it up for Al'Brock's "
 "Second Squadron of Skullcrushers!"
@@ -3245,7 +3245,7 @@ msgstr ""
 
 #. [message]: speaker=second_unit
 #. Neither this unit nor I could think of a good collective noun that starts with "Th":
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/17_The_Human_Attack.cfg:772
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/17_The_Human_Attack.cfg:784
 msgid ""
 "Hey Flar'Tar, that guard dropped some gold! I'll pick it up for Flar'Tar's "
 "Third Th...Th... well, the point is, we're the third!"
@@ -3253,13 +3253,13 @@ msgstr ""
 
 #. [message]: speaker=second_unit
 #. This shouldn't ever be displayed unless the player is doing something weird with debug mode:
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/17_The_Human_Attack.cfg:780
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/17_The_Human_Attack.cfg:792
 msgid "Due to your poor skill at guarding, we are reclaiming your pay."
 msgstr ""
 
 #. [message]: speaker=second_unit
 #. default fallback; probably unreached:
-#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/17_The_Human_Attack.cfg:787
+#: Son_Of_The_Black_Eye_Easy_Edition/scenarios/17_The_Human_Attack.cfg:799
 msgid "The guard dropped some gold!"
 msgstr ""
 

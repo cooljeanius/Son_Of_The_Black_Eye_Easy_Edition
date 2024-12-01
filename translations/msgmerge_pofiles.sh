@@ -7,5 +7,14 @@
 for lang in $(cat LINGUAS); do
   echo "merging translation for ${lang} with template..."
   msgmerge --previous --update --lang=${lang} ${lang}.po wesnoth-sotbeee.pot
+  if test -w . && test -r ${lang}.po && test -e ${lang}.po~; then
+    if test -x "$(which rmtrash)"; then
+      rmtrash ${lang}.po~
+    elif test -w ~/.Trash; then
+      mv ${lang}.po~
+    else
+      rm -f ${lang}.po~
+    fi
+  fi
 done
 diff -u wesnoth-sotbe.pot wesnoth-sotbeee.pot > potfile.diff
