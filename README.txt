@@ -17,7 +17,7 @@ survive) are harder. Here's a description of my changes so far:
   going over the northern mountains), use Dwarvish Woodcutters, add dwarf responses
   to getting looted, have trolls be slowed when they appear (so they don't get to
   the dwarves before you do), use LIMIT_CONTEMPORANEOUS_RECRUITS, try to have troll
-  AI protect Grüü better, etc.
+  AI protect Grüü better, tell dwarf AI to protect Kwili better, etc.
 04 The Siege of Barag Gor: OK now here's where things really start to change.
   The defenders of Barag Gor kept dying before I could save them, so I had to
   make them stronger. The shamans wouldn't hit anything whenever they attacked,
@@ -35,16 +35,17 @@ survive) are harder. Here's a description of my changes so far:
   2 more archers on Easy. Also the usual gold, income, & turn limit tweaks. In
   later versions: give Rugh and Jetto traits, AI tweaks
 05 To the Harbor of Tirigaz: apologize for Holy Water being a red herring, also
-  gold tweaks.
+  gold tweaks, and start the player off with captured villages.
 06 Black Flag: Here the enemies kept overtaking me before I really had a chance
   to set up, so I removed their starting villages so they'd waste more time
   capturing them instead. I also wanted to give your ally some villages as
   well, so I made Affman a leader so that his side could have villages.
   Finally, I also turned the generals into lieutenants in this scenario as
-  well.
+  well. In later revisions, I made Slowhand slow, updated the advice, gave the
+  player a slighltly larger encampment on EASY, and added a last breath for Affman.
 07 The Desert of Death: It took too long waiting for everyone to get a chance
   to recover from their scorpion poisonings, so I added more villages to the
-  map.
+  map, made the scorpions avoid the villages, and also added an extra keep.
 08 Silent Forest: basic gold/turns tweaks; use LIMIT_CONTEMPORANEOUS_RECRUITS
   more; get gold on interrogation; add another village...
 09 Shan Taum the Smug: just gold tweaks (at first); I also tried to make
@@ -94,7 +95,8 @@ survive) are harder. Here's a description of my changes so far:
   in use), but knyghtmare says that that method results in multiple
   Lanbec'hs back in S11 (Clash of Armies)... In later versions: increase turn
   limit, add more snowshoes, make terrain snowier here too, modify enemy AI, let
-  elves recruit Elvish Horsemen, give enemies more gold if you have too much, etc.
+  elves recruit Elvish Horsemen, give enemies more gold if you have too much,
+  try to keep Telthys from attacking suicidally, etc.
 15 Civil War: started off as mostly just some basic turns/gold tweaks. I have
   also tried to add back the commented-out assassination code. To try to make
   said code actually work, I felt that I'd need a way to give the player a
@@ -106,7 +108,7 @@ survive) are harder. Here's a description of my changes so far:
   suggestions as to how to improve this while still keeping it are welcome. In
   later versions: use "Over the Northern Mountains", increase turn limit, one more
   pair of snowshoes, make terrain snowier here too, modify enemy AI, disable
-  poison-spreading behavior
+  poison-spreading behavior, ifdef out use of F_C_T_H macro
 16 The Coward: I edited the map here to give the player more keep tiles for
   recruiting, so they can catch up to the stream on enemies flooding them on
   time. Also some gold levels tweaks. After the enemy's initial assault wears
@@ -118,7 +120,8 @@ survive) are harder. Here's a description of my changes so far:
   giving Lanbec'h guards when he's attacked to keep the focus on just
   surviving, rather than trying to kill him. The guards do drop gold when killed,
   though, to make sure they aren't TOO overpowering. In later versions: give
-  Lanbec'h more recruits, add a few more events
+  Lanbec'h more recruits, add a few more events, increase amount of gold Lanbec'h
+  gets from getting attacked
 18 Northern Alliance: again, mostly just gold tweaks. I also tried to make
   Shan Taum more defensive so he'd defend more against Howgarth rather than
   killing your green side of orcish allies, but that didn't really work. I
